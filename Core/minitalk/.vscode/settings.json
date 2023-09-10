@@ -1,0 +1,25 @@
+{
+	"files.associations": {
+		"__hash_table": "c",
+		"sstream": "c",
+		"__string": "cpp",
+		"cctype": "cpp",
+		"cstdio": "cpp",
+		"cstring": "cpp",
+		"cwchar": "cpp",
+		"ios": "cpp",
+		"istream": "cpp",
+		"iterator": "cpp",
+		"locale": "cpp",
+		"ostream": "cpp",
+		"streambuf": "cpp",
+		"string": "cpp",
+		"string_view": "cpp",
+		"unordered_map": "cpp",
+		"vector": "cpp",
+		"minitalk.h": "c",
+		"signal.h": "c",
+		"_ucontext.h": "c",
+		"libft.h": "c"
+	}
+}
