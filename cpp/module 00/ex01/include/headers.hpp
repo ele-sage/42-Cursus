@@ -2,13 +2,15 @@
 # define HEADERS_H
 
 # include <string>
-# include <iostream>
 # include <iomanip>
 # include <sstream>
-# include "PhoneBook.hpp"
-# include "Contact.hpp"
+# include <iostream>
+# include <limits>
 
-# define MAX_CONTACTS = 8
+# include "Contact.hpp"
+# include "PhoneBook.hpp"
+
+# define MAX_CONTACTS 8
 
 #endif
 

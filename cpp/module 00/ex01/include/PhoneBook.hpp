@@ -1,21 +1,22 @@
-#ifndef PHONEBOOK_H
-#define PHONEBOOK_H
+#ifndef PHONEBOOK_HPP
+#define PHONEBOOK_HPP
 
-#include "Headers.hpp"
+#include "headers.hpp"
 
 class PhoneBook
 {
-public:
-	PhoneBook();
-	~PhoneBook();
-
-	std::string	getInfo(Contact contact);
-	void		printContacts(void);
-	void		addContact(Contact contact);
-
 private:
-	static int	last_index;
-	Contact		contacts[8];
+	Contact		m_contacts[8];
+    static int	last_index;
+
+	void		searchContact(void);
+    void		printContact(Contact contact);
+	void		printContact(void);
+    void		addContact();
+public:
+    PhoneBook();
+    ~PhoneBook();
+	bool	prompt(void);
 };
 
 #endif
