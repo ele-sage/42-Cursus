@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   init_env_vars.c                                    :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: egervais <egervais@student.42.fr>          +#+  +:+       +#+        */
+/*   By: ele-sage <ele-sage@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/07/18 13:55:10 by ele-sage          #+#    #+#             */
-/*   Updated: 2023/09/08 14:06:31 by egervais         ###   ########.fr       */
+/*   Updated: 2023/09/22 12:30:55 by ele-sage         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -79,18 +79,17 @@ int	set_env_var(char *key, char *value, t_env_var *env_var)
 			free(tmp->value);
 			tmp->value = ft_strdup(value);
 			if (!tmp->value)
-				return (free(key), ERROR);
-			return (SUCCESS);
+				return (free(key), free(value), ERROR);
+			return (free(key), free(value), SUCCESS);
 		}
 		tmp = tmp->next;
 	}
-	key_value = ft_strjoinfree(add_one_char(key, '=', 1), value, 1);
+	key_value = ft_strjoinfree(add_one_char(key, '=', 1), value, 2);
 	if (!key_value)
 		return (ERROR);
 	if (add_env_var(env_var, key_value) == ERROR)
 		return (free(key_value), ERROR);
-	free(key_value);
-	return (SUCCESS);
+	return (free(key_value), SUCCESS);
 }
 
 t_env_var	*init_env_var(char **envp)

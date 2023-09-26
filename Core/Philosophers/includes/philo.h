@@ -6,7 +6,7 @@
 /*   By: ele-sage <ele-sage@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/06/09 20:29:47 by ele-sage          #+#    #+#             */
-/*   Updated: 2023/09/09 15:54:10 by ele-sage         ###   ########.fr       */
+/*   Updated: 2023/09/26 12:26:37 by ele-sage         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -46,10 +46,10 @@ typedef struct s_table
 	unsigned int		nb_philo;
 	int					nb_meal;
 	int					sim_state;
-	uint64_t			t_die;
-	uint64_t			t_eat;
-	uint64_t			t_sleep;
-	uint64_t			start_time;
+	long long			t_die;
+	long long			t_eat;
+	long long			t_sleep;
+	long long			start_time;
 	pthread_mutex_t		*forks;
 	pthread_mutex_t		print;
 	pthread_mutex_t		dead;
@@ -62,8 +62,7 @@ struct					s_philo
 	unsigned int		id;
 	unsigned int		eat;
 	int					forks[2];
-	int					state;
-	uint64_t			last_eat;
+	long long			last_eat;
 	t_table				*table;
 	pthread_t			thread;
 };
@@ -72,8 +71,8 @@ int			init_table(int argc, char **argv, t_table *table);
 int			create_threads(t_table *table);
 int			error(const char *err1, const char *err2, t_table *table);
 void		free_table(t_table *table);
-uint64_t	get_time(void);
-void		ft_usleep(uint64_t time, t_table *table);
+long long	get_time(void);
+void		ft_usleep(long long time);
 void		print_action(t_philo *philo, const char *action);
 size_t		ft_strlen(const char *str);
 int			ft_atoi(const char *str);

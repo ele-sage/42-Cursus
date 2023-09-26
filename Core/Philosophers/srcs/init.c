@@ -6,7 +6,7 @@
 /*   By: ele-sage <ele-sage@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/06/09 20:38:34 by ele-sage          #+#    #+#             */
-/*   Updated: 2023/09/09 14:02:11 by ele-sage         ###   ########.fr       */
+/*   Updated: 2023/09/25 17:34:42 by ele-sage         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -25,7 +25,6 @@ static int	init_philo(t_table *table)
 		table->philos[i].id = i + 1;
 		table->philos[i].eat = 0;
 		table->philos[i].last_eat = 0;
-		table->philos[i].state = 0;
 		table->philos[i].table = table;
 		table->philos[i].forks[0] = i;
 		table->philos[i].forks[1] = (i + 1) % table->nb_philo;

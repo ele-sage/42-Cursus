@@ -6,7 +6,7 @@
 /*   By: ele-sage <ele-sage@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/09/09 10:07:03 by ele-sage          #+#    #+#             */
-/*   Updated: 2023/09/09 15:54:06 by ele-sage         ###   ########.fr       */
+/*   Updated: 2023/09/26 12:28:52 by ele-sage         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -20,7 +20,7 @@ static void	eat(t_philo *philo)
 	print_action(philo, FORK);
 	print_action(philo, EAT);
 	philo->last_eat = get_time();
-	ft_usleep(philo->table->t_eat, philo->table);
+	ft_usleep(philo->table->t_eat);
 	pthread_mutex_unlock(&philo->table->forks[philo->forks[0]]);
 	pthread_mutex_unlock(&philo->table->forks[philo->forks[1]]);
 	philo->eat++;
@@ -34,12 +34,12 @@ static void	*routine(void *arg)
 	if (philo->table->nb_philo == 1)
 		return (NULL);
 	if (philo->id % 2 == 0)
-		ft_usleep(philo->table->t_eat, philo->table);
+		ft_usleep(philo->table->t_eat);
 	while (philo->table->sim_state)
 	{
 		eat(philo);
 		print_action(philo, SLEEP);
-		ft_usleep(philo->table->t_sleep, philo->table);
+		ft_usleep(philo->table->t_sleep);
 		print_action(philo, THINK);
 	}
 	return (NULL);
@@ -54,8 +54,11 @@ static int	monitoring_loop(t_table *table, int i, int satisfied)
 		if (get_time() - table->philos[i].last_eat > table->t_die)
 		{
 			pthread_mutex_lock(&table->dead);
-			print_action(&table->philos[i], DEAD);
+			pthread_mutex_lock(&table->print);
+			printf("%lld %d %s", get_time() - table->start_time,
+				table->philos[i].id, DEAD);
 			table->sim_state = 0;
+			pthread_mutex_unlock(&table->print);
 			pthread_mutex_unlock(&table->dead);
 			return (1);
 		}
@@ -73,7 +76,7 @@ static void	*monitor(void *arg)
 	table = (t_table *)arg;
 	if (table->nb_philo == 1)
 	{
-		ft_usleep(table->t_die, table);
+		ft_usleep(table->t_die);
 		print_action(&table->philos[0], DEAD);
 		table->sim_state = 0;
 		return (NULL);

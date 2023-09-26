@@ -6,7 +6,7 @@
 /*   By: ele-sage <ele-sage@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/09/09 09:14:18 by ele-sage          #+#    #+#             */
-/*   Updated: 2023/09/09 15:54:29 by ele-sage         ###   ########.fr       */
+/*   Updated: 2023/09/26 12:26:36 by ele-sage         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -41,29 +41,34 @@ int	error(const char *err1, const char *err2, t_table *table)
 	return (ERROR);
 }
 
-uint64_t	get_time(void)
+long long	get_time(void)
 {
 	struct timeval	time;
 
 	gettimeofday(&time, NULL);
-	return ((time.tv_sec * (uint64_t)1000) + (time.tv_usec / 1000));
+	return ((time.tv_sec * (long long)1000) + (time.tv_usec / 1000));
 }
 
-void	ft_usleep(uint64_t time, t_table *table)
+void	ft_usleep(long long time)
 {
-	uint64_t	start;
+	long long	start;
 
 	start = get_time();
-	while (get_time() - start < time && table->sim_state)
+	while (get_time() - start < time)
 		usleep(100);
 }
 
+// if one of the philosophers is dead
+// do not print the last action
 void	print_action(t_philo *philo, const char *action)
 {
-	uint64_t	time;
+	long long	time;
 
 	pthread_mutex_lock(&philo->table->print);
-	time = get_time() - philo->table->start_time;
-	printf("%llums\t#%d\t%s", time, philo->id, action);
+	if (philo->table->sim_state)
+	{
+		time = get_time() - philo->table->start_time;
+		printf("%lld %d %s", time, philo->id, action);
+	}
 	pthread_mutex_unlock(&philo->table->print);
 }
