@@ -6,7 +6,7 @@
 /*   By: ele-sage <ele-sage@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/09/09 09:14:18 by ele-sage          #+#    #+#             */
-/*   Updated: 2023/09/26 12:26:36 by ele-sage         ###   ########.fr       */
+/*   Updated: 2023/10/02 14:29:53 by ele-sage         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -20,11 +20,14 @@ void	free_table(t_table *table)
 	if (table->forks)
 	{
 		while (i < table->nb_philo)
+		{
+			pthread_mutex_destroy(&table->philos[i].mutex);
 			pthread_mutex_destroy(&table->forks[i++]);
+		}
 		free(table->forks);
-		pthread_mutex_destroy(&table->print);
-		pthread_mutex_destroy(&table->dead);
 	}
+	pthread_mutex_destroy(&table->print);
+	pthread_mutex_destroy(&table->dead);
 	if (table->philos)
 		free(table->philos);
 	free(table);
@@ -41,34 +44,38 @@ int	error(const char *err1, const char *err2, t_table *table)
 	return (ERROR);
 }
 
-long long	get_time(void)
+size_t	ft_strlen(const char *str)
 {
-	struct timeval	time;
+	size_t	a;
 
-	gettimeofday(&time, NULL);
-	return ((time.tv_sec * (long long)1000) + (time.tv_usec / 1000));
+	if (!str)
+		return (0);
+	a = 0;
+	while (str[a])
+		a++;
+	return (a);
 }
 
-void	ft_usleep(long long time)
+int	ft_atoi_pos(const char *str)
 {
-	long long	start;
+	int	i;
+	int	nb;
 
-	start = get_time();
-	while (get_time() - start < time)
-		usleep(100);
-}
-
-// if one of the philosophers is dead
-// do not print the last action
-void	print_action(t_philo *philo, const char *action)
-{
-	long long	time;
-
-	pthread_mutex_lock(&philo->table->print);
-	if (philo->table->sim_state)
-	{
-		time = get_time() - philo->table->start_time;
-		printf("%lld %d %s", time, philo->id, action);
-	}
-	pthread_mutex_unlock(&philo->table->print);
+	i = 0;
+	nb = 0;
+	if (!str)
+		return (-1);
+	while (str[i] == ' ' || str[i] == '\t' || str[i] == '\n' || str[i] == '\r')
+		i++;
+	if (str[i] == '+')
+		i++;
+	if (str[i] == '0')
+		return (-1);
+	if (ft_strlen(str + i) > 10)
+		return (-1);
+	while (str[i] >= '0' && str[i] <= '9')
+		nb = nb * 10 + (str[i++] - '0');
+	if (str[i])
+		return (-1);
+	return (nb);
 }

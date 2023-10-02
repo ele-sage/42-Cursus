@@ -6,24 +6,32 @@
 /*   By: ele-sage <ele-sage@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/09/09 10:07:03 by ele-sage          #+#    #+#             */
-/*   Updated: 2023/09/26 12:28:52 by ele-sage         ###   ########.fr       */
+/*   Updated: 2023/10/02 14:42:08 by ele-sage         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "../includes/philo.h"
 
-static void	eat(t_philo *philo)
+void	eat(t_philo *philo)
 {
+	long long	time;
+
 	pthread_mutex_lock(&philo->table->forks[philo->forks[0]]);
 	print_action(philo, FORK);
 	pthread_mutex_lock(&philo->table->forks[philo->forks[1]]);
 	print_action(philo, FORK);
-	print_action(philo, EAT);
-	philo->last_eat = get_time();
-	ft_usleep(philo->table->t_eat);
+	pthread_mutex_lock(&philo->mutex);
+	time = get_time();
+	if (time - philo->last_eat < philo->table->t_die)
+	{
+		print_action(philo, EAT);
+		philo->last_eat = time;
+		philo->eat++;
+	}
+	pthread_mutex_unlock(&philo->mutex);
+	ft_usleep(philo->table->t_eat, philo->table);
 	pthread_mutex_unlock(&philo->table->forks[philo->forks[0]]);
 	pthread_mutex_unlock(&philo->table->forks[philo->forks[1]]);
-	philo->eat++;
 }
 
 static void	*routine(void *arg)
@@ -34,12 +42,15 @@ static void	*routine(void *arg)
 	if (philo->table->nb_philo == 1)
 		return (NULL);
 	if (philo->id % 2 == 0)
-		ft_usleep(philo->table->t_eat);
-	while (philo->table->sim_state)
+	{
+		print_action(philo, THINK);
+		ft_usleep(philo->table->t_eat, philo->table);
+	}
+	while (!is_dead(philo->table))
 	{
 		eat(philo);
 		print_action(philo, SLEEP);
-		ft_usleep(philo->table->t_sleep);
+		ft_usleep(philo->table->t_sleep, philo->table);
 		print_action(philo, THINK);
 	}
 	return (NULL);
@@ -49,24 +60,25 @@ static int	monitoring_loop(t_table *table, int i, int satisfied)
 {
 	while (i < table->nb_philo)
 	{
+		pthread_mutex_lock(&table->philos[i].mutex);
 		if (table->philos[i].eat >= table->nb_meal)
 			satisfied++;
-		if (get_time() - table->philos[i].last_eat > table->t_die)
+		if (get_time() - table->philos[i].last_eat >= table->t_die)
 		{
-			pthread_mutex_lock(&table->dead);
 			pthread_mutex_lock(&table->print);
+			pthread_mutex_lock(&table->dead);
+			table->sim_state = 0;
 			printf("%lld %d %s", get_time() - table->start_time,
 				table->philos[i].id, DEAD);
-			table->sim_state = 0;
-			pthread_mutex_unlock(&table->print);
 			pthread_mutex_unlock(&table->dead);
+			pthread_mutex_unlock(&table->print);
+			pthread_mutex_unlock(&table->philos[i].mutex);
 			return (1);
 		}
+		pthread_mutex_unlock(&table->philos[i].mutex);
 		i++;
 	}
-	if (satisfied == table->nb_philo)
-		table->sim_state = 0;
-	return (0);
+	return (all_satisfied(table, satisfied));
 }
 
 static void	*monitor(void *arg)
@@ -76,15 +88,13 @@ static void	*monitor(void *arg)
 	table = (t_table *)arg;
 	if (table->nb_philo == 1)
 	{
-		ft_usleep(table->t_die);
+		ft_usleep(table->t_die, table);
 		print_action(&table->philos[0], DEAD);
 		table->sim_state = 0;
 		return (NULL);
 	}
-	while (table->sim_state)
-		if (monitoring_loop(table, 0, 0))
-			return (NULL);
-	printf("\e[0;32mAll philosophers are satisfied\e[0m\n");
+	while (monitoring_loop(table, 0, 0) == 0)
+		;
 	return (NULL);
 }
 
@@ -97,7 +107,7 @@ int	create_threads(t_table *table)
 	i = 0;
 	while (i < table->nb_philo)
 	{
-		table->philos[i].last_eat = get_time();
+		table->philos[i].last_eat = table->start_time;
 		if (pthread_create(&table->philos[i].thread, NULL, &routine,
 				&table->philos[i]))
 			return (error(THREAD, NULL, table));

@@ -6,11 +6,12 @@
 /*   By: ele-sage <ele-sage@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/06/09 20:30:03 by ele-sage          #+#    #+#             */
-/*   Updated: 2023/09/26 12:26:35 by ele-sage         ###   ########.fr       */
+/*   Updated: 2023/10/02 12:37:45 by ele-sage         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "../includes/philo.h"
+#include <fcntl.h>
 
 int	main(int argc, char **argv)
 {

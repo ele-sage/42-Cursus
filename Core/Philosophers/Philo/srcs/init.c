@@ -6,7 +6,7 @@
 /*   By: ele-sage <ele-sage@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/06/09 20:38:34 by ele-sage          #+#    #+#             */
-/*   Updated: 2023/09/25 17:34:42 by ele-sage         ###   ########.fr       */
+/*   Updated: 2023/10/02 12:19:45 by ele-sage         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -28,6 +28,8 @@ static int	init_philo(t_table *table)
 		table->philos[i].table = table;
 		table->philos[i].forks[0] = i;
 		table->philos[i].forks[1] = (i + 1) % table->nb_philo;
+		if (pthread_mutex_init(&table->philos[i].mutex, NULL))
+			return (error(MUTEX, NULL, table));
 		i++;
 	}
 	return (SUCCESS);
@@ -64,7 +66,7 @@ static int	parse_args(int argc, char **argv, t_table *table)
 	i = 0;
 	while (i < argc - 1)
 	{
-		args[i] = ft_atoi(argv[i + 1]);
+		args[i] = ft_atoi_pos(argv[i + 1]);
 		if (args[i] < 0)
 			return (error(USAGE, WRONG_ARG, NULL));
 		i++;

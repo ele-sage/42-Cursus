@@ -6,7 +6,7 @@
 /*   By: ele-sage <ele-sage@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/06/09 20:29:47 by ele-sage          #+#    #+#             */
-/*   Updated: 2023/09/26 12:26:37 by ele-sage         ###   ########.fr       */
+/*   Updated: 2023/10/02 14:27:49 by ele-sage         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -35,6 +35,9 @@
 # define SLEEP "is sleeping\n"
 # define THINK "is thinking\n"
 # define DEAD "\e[0;31mdied\e[0m\n"
+// # define DEAD "died\n"
+# define SATISFIED "\e[0;32mAll philosophers are satisfied\e[0m\n"
+// # define SATISFIED "All philosophers are satisfied\n"
 
 # define SUCCESS 0
 # define ERROR 1
@@ -64,6 +67,7 @@ struct					s_philo
 	int					forks[2];
 	long long			last_eat;
 	t_table				*table;
+	pthread_mutex_t		mutex;
 	pthread_t			thread;
 };
 
@@ -71,10 +75,12 @@ int			init_table(int argc, char **argv, t_table *table);
 int			create_threads(t_table *table);
 int			error(const char *err1, const char *err2, t_table *table);
 void		free_table(t_table *table);
+int			is_dead(t_table *table);
+int			all_satisfied(t_table *table, int satisfied);
 long long	get_time(void);
-void		ft_usleep(long long time);
+void		ft_usleep(long long time, t_table *table);
 void		print_action(t_philo *philo, const char *action);
 size_t		ft_strlen(const char *str);
-int			ft_atoi(const char *str);
+int			ft_atoi_pos(const char *str);
 
 #endif

@@ -6,7 +6,7 @@
 #    By: ele-sage <ele-sage@student.42.fr>          +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2023/01/12 12:33:49 by ele-sage          #+#    #+#              #
-#    Updated: 2023/09/26 13:28:22 by ele-sage         ###   ########.fr        #
+#    Updated: 2023/10/02 14:46:18 by ele-sage         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -17,7 +17,7 @@ FLAGS = -Wall -Werror -Wextra #-fsanitize=thread
 
 SRC_DIR = srcs/
 INCLUDE = -I includes/philo.h
-SRC =	srcs/main.c srcs/init.c srcs/utils.c srcs/actions.c srcs/parse.c \
+SRC =	srcs/main.c srcs/init.c srcs/utils.c srcs/utils2.c srcs/actions.c \
 		
 OBJ = ${SRC:.c=.o}
 
