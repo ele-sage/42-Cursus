@@ -1,7 +1,7 @@
 NAME	= Phonebook
 SRC		= src/PhoneBook.cpp src/Contact.cpp src/main.cpp
 OBJ		= $(SRC:.cpp=.o)
-FLAGS	= -Wall -Wextra -Werror
+FLAGS	= -Wall -Wextra -Werror -std=c++98
 INC		= -I includes
 
 all: $(NAME)

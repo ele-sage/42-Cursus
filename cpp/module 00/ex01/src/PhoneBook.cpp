@@ -21,7 +21,6 @@ void PhoneBook::addContact()
 	contact.createContact();
 	if (this->last_index == MAX_CONTACTS)
 	{
-		m_contacts[0] = m_contacts[1];
 		this->m_contacts[0] = contact;
 		this->m_contacts[0].setIndex(0);
 		this->last_index = 1;	
@@ -78,11 +77,26 @@ void PhoneBook::printContact()
 	}
 }
 
+static void to_upper(std::string &str)
+{
+	for (size_t i = 0; i < str.length(); i++)
+	{
+		str[i] = toupper(str[i]);
+	}
+}
+
 bool PhoneBook::prompt()
 {
 	std::string input;
 	std::cout << "Command: " << std::flush;
 	std::getline(std::cin, input);
+	if (!std::cin.good())
+	{
+		std::cin.clear();
+		std::cout << "Invalid input. Please try again." << std::endl;
+		return true;
+	}
+	to_upper(input);
 	if (input == "EXIT")
 	{
 		return false;

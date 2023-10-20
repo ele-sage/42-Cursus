@@ -17,8 +17,10 @@ Contact::~Contact()
 const std::string Contact::getFullInfo()
 {
 	std::string info = "";
+	std::stringstream ss;
+    ss << m_Index;
 
-	info += "Contact #" + std::to_string(m_Index) + "\n";
+	info += "Contact #" + ss.str() + "\n";
 	info += "First name:\t" + m_First_name + "\n";
 	info += "Last name:\t" + m_Last_name + "\n";
 	info += "Nickname:\t" + m_Nickname + "\n";
