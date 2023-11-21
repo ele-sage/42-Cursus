@@ -6,7 +6,7 @@ static void printClassName()
 	std::cout << "\033[1;33m[ClapTrap]\033[0m";
 }
 
-ClapTrap::ClapTrap() : _name("default"), _hitpoints(10), _energyPoints(10), _attackDamage(0)
+ClapTrap::ClapTrap() : _name("ClapTrap"), _hitpoints(10), _energyPoints(10), _attackDamage(0)
 {
 	printClassName();
 	std::cout << " default constructor called" << std::endl;

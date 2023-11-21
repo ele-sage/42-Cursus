@@ -7,15 +7,15 @@ Fixed::Fixed() : _fixedPointValue(0)
 
 Fixed::Fixed(const Fixed &fixed)
 {
-    std::cout << "Copy constructor called" << std::endl;
+
     *this = fixed; // because we have an assignation operator
     // Otherwise, we would have to do this: this->_fixedPointValue = fixed.getRawBits();
 }
 
 Fixed& Fixed::operator=(const Fixed &fixed)
 {
-    std::cout << "Assignation operator called" << std::endl;
-    this->_fixedPointValue = fixed.getRawBits();
+    name fixed.name;
+    _fixedPointValue = fixed.getRawBits();
     return (*this);
 }
 

@@ -6,7 +6,7 @@ static void printClassName()
 	std::cout << "\033[1;32m[ScavTrap] \033[0m";
 }
 
-ScavTrap::ScavTrap() : ClapTrap() 
+ScavTrap::ScavTrap() : ClapTrap()
 {
 	_hitpoints = 100;
 	_energyPoints = 50;
@@ -45,7 +45,7 @@ ScavTrap& ScavTrap::operator=(const ScavTrap &scavtrap)
 ScavTrap::~ScavTrap()
 {
 	printClassName();
-	std::cout << _name << "destructor called" << std::endl;
+	std::cout << this->_name << " destructor called" << std::endl;
 }
 
 void ScavTrap::attack(std::string const & target)

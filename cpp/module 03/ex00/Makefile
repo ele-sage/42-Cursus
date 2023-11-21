@@ -1,10 +1,10 @@
 NAME = Clap
 
-SRC = main.cpp ClapTrap.cpp #ScavTrap.cpp FragTrap.cpp
+SRC = main.cpp ClapTrap.cpp
 
 OBJ = $(SRC:.cpp=.o)
 
-FLAGS = -Wall -Wextra -Werror
+FLAGS = -Wall -Wextra -Werror -std=c++98
 
 all: $(NAME)
 

@@ -6,7 +6,7 @@ static void printClassName()
 	std::cout << "\033[1;31m[FragTrap]\033[0m";
 }
 
-FragTrap::FragTrap() : ClapTrap()
+FragTrap::FragTrap() : ClapTrap("FragTrap")
 {
 	_hitpoints = 100;
 	_energyPoints = 100;

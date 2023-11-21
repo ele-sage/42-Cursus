@@ -1,12 +1,11 @@
 #include "ScavTrap.hpp"
 
-//color: green
 static void printClassName()
 {
 	std::cout << "\033[1;32m[ScavTrap] \033[0m ";
 }
 
-ScavTrap::ScavTrap() : ClapTrap() 
+ScavTrap::ScavTrap() : ClapTrap("ScavTrap")
 {
 	_hitpoints = 100;
 	_energyPoints = 50;

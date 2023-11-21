@@ -3,6 +3,7 @@
 #include <iomanip>
 
 // Barycentric coordinate system
+// https://www.educative.io/answers/what-are-barycentric-coordinates
 bool bsp(Point const a, Point const b, Point const c, Point const point)
 {
     Fixed const px = point.getX();

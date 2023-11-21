@@ -1,13 +1,20 @@
 #include "DiamondTrap.hpp"
 
-int main()
+int main( void )
 {
-    DiamondTrap d1("first");
-    DiamondTrap d2("second");
+    DiamondTrap me("me");
+    DiamondTrap me2(me);
+    DiamondTrap me3(".");
 
-    d1 = d2;
-    d1.whoAmI();
-    d2.whoAmI();
-    
-    return (0);
+    me.whoAmI();
+    me2.whoAmI();
+	me3.whoAmI();
+    me3 = me;
+    me3.whoAmI();
+
+    me.attack("the dummy");
+    me.takeDamage(10 );
+    me.beRepaired(10);
+
+    return 0;
 }
