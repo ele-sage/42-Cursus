@@ -1,0 +1,13 @@
+*.txt
+!vgsuppress.txt
+valgrind.log
+!data/*.txt
+*.o
+*.d
+*.a
+a.out
+*.dSYM
+*.png
+
+.DS_Store
+.vscode/
