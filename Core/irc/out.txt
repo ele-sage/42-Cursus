@@ -1,0 +1,3266 @@
+Process ID (PID): 86803
+[32mNew connection on socket 5[0m
+[32mNew connection on socket 6[0m
+[32mNew connection on socket 7[0m
+[32mNew connection on socket 8[0m
+[32mNew connection on socket 9[0m
+[32mNew connection on socket 10[0m
+[32mNew connection on socket 11[0m
+[32mNew connection on socket 12[0m
+[32mNew connection on socket 13[0m
+[32mNew connection on socket 14[0m
+[32mNew connection on socket 15[0m
+[32mNew connection on socket 16[0m
+[32mNew connection on socket 17[0m
+[32mNew connection on socket 18[0m
+[32mNew connection on socket 19[0m
+[32mNew connection on socket 20[0m
+[32mNew connection on socket 21[0m
+[32mNew connection on socket 22[0m
+[32mNew connection on socket 23[0m
+[32mNew connection on socket 24[0m
+[32mNew connection on socket 25[0m
+[32mNew connection on socket 26[0m
+[32mNew connection on socket 27[0m
+[32mNew connection on socket 28[0m
+[32mNew connection on socket 29[0m
+[32mNew connection on socket 30[0m
+[32mNew connection on socket 31[0m
+[32mNew connection on socket 32[0m
+[32mNew connection on socket 33[0m
+[32mNew connection on socket 34[0m
+[32mNew connection on socket 35[0m
+[32mNew connection on socket 36[0m
+[32mNew connection on socket 37[0m
+[32mNew connection on socket 38[0m
+[32mNew connection on socket 39[0m
+[32mNew connection on socket 40[0m
+[32mNew connection on socket 41[0m
+[32mNew connection on socket 42[0m
+[32mNew connection on socket 43[0m
+[32mNew connection on socket 44[0m
+[32mNew connection on socket 45[0m
+[32mNew connection on socket 46[0m
+[32mNew connection on socket 47[0m
+[32mNew connection on socket 48[0m
+[32mNew connection on socket 49[0m
+[32mNew connection on socket 50[0m
+[32mNew connection on socket 51[0m
+[32mNew connection on socket 52[0m
+[32mNew connection on socket 53[0m
+[32mNew connection on socket 54[0m
+[32mNew connection on socket 55[0m
+[32mNew connection on socket 56[0m
+[32mNew connection on socket 57[0m
+[32mNew connection on socket 58[0m
+[32mNew connection on socket 59[0m
+[32mNew connection on socket 60[0m
+[32mNew connection on socket 61[0m
+[32mNew connection on socket 62[0m
+[32mNew connection on socket 63[0m
+[32mNew connection on socket 64[0m
+[32mNew connection on socket 65[0m
+[32mNew connection on socket 66[0m
+[32mNew connection on socket 67[0m
+[32mNew connection on socket 68[0m
+[32mNew connection on socket 69[0m
+[32mNew connection on socket 70[0m
+[32mNew connection on socket 71[0m
+[32mNew connection on socket 72[0m
+[32mNew connection on socket 73[0m
+[32mNew connection on socket 74[0m
+[32mNew connection on socket 75[0m
+[32mNew connection on socket 76[0m
+[32mNew connection on socket 77[0m
+[32mNew connection on socket 78[0m
+[32mNew connection on socket 79[0m
+[32mNew connection on socket 80[0m
+[32mNew connection on socket 81[0m
+[32mNew connection on socket 82[0m
+[32mNew connection on socket 83[0m
+[32mNew connection on socket 84[0m
+[32mNew connection on socket 85[0m
+[32mNew connection on socket 86[0m
+[32mNew connection on socket 87[0m
+[32mNew connection on socket 88[0m
+[32mNew connection on socket 89[0m
+[32mNew connection on socket 90[0m
+[32mNew connection on socket 91[0m
+[32mNew connection on socket 92[0m
+[32mNew connection on socket 93[0m
+[32mNew connection on socket 94[0m
+[32mNew connection on socket 95[0m
+[32mNew connection on socket 96[0m
+[32mNew connection on socket 97[0m
+[32mNew connection on socket 98[0m
+[32mNew connection on socket 99[0m
+[32mNew connection on socket 100[0m
+[32mNew connection on socket 101[0m
+[32mNew connection on socket 102[0m
+[32mNew connection on socket 103[0m
+[32mNew connection on socket 104[0m
+[32mNew connection on socket 105[0m
+[32mNew connection on socket 106[0m
+[32mNew connection on socket 107[0m
+[32mNew connection on socket 108[0m
+[32mNew connection on socket 109[0m
+[32mNew connection on socket 110[0m
+[32mNew connection on socket 111[0m
+[32mNew connection on socket 112[0m
+[32mNew connection on socket 113[0m
+[32mNew connection on socket 114[0m
+[32mNew connection on socket 115[0m
+[32mNew connection on socket 116[0m
+[32mNew connection on socket 117[0m
+[32mNew connection on socket 118[0m
+[32mNew connection on socket 119[0m
+[32mNew connection on socket 120[0m
+[32mNew connection on socket 121[0m
+[32mNew connection on socket 122[0m
+[32mNew connection on socket 123[0m
+[32mNew connection on socket 124[0m
+[32mNew connection on socket 125[0m
+[32mNew connection on socket 126[0m
+[32mNew connection on socket 127[0m
+[32mNew connection on socket 128[0m
+[32mNew connection on socket 129[0m
+[32mNew connection on socket 130[0m
+[32mNew connection on socket 131[0m
+[32mNew connection on socket 132[0m
+[32mNew connection on socket 133[0m
+[32mNew connection on socket 134[0m
+[32mNew connection on socket 135[0m
+[32mNew connection on socket 136[0m
+[32mNew connection on socket 137[0m
+[32mNew connection on socket 138[0m
+[32mNew connection on socket 139[0m
+[32mNew connection on socket 140[0m
+[32mNew connection on socket 141[0m
+[32mNew connection on socket 142[0m
+[32mNew connection on socket 143[0m
+[32mNew connection on socket 144[0m
+[32mNew connection on socket 145[0m
+[32mNew connection on socket 146[0m
+[32mNew connection on socket 147[0m
+[32mNew connection on socket 148[0m
+[32mNew connection on socket 149[0m
+[32mNew connection on socket 150[0m
+[32mNew connection on socket 151[0m
+[32mNew connection on socket 152[0m
+[32mNew connection on socket 153[0m
+[32mNew connection on socket 154[0m
+[32mNew connection on socket 155[0m
+[32mNew connection on socket 156[0m
+[32mNew connection on socket 157[0m
+[32mNew connection on socket 158[0m
+[32mNew connection on socket 159[0m
+[32mNew connection on socket 160[0m
+[32mNew connection on socket 161[0m
+[32mNew connection on socket 162[0m
+[32mNew connection on socket 163[0m
+[32mNew connection on socket 164[0m
+[32mNew connection on socket 165[0m
+[32mNew connection on socket 166[0m
+[32mNew connection on socket 167[0m
+[32mNew connection on socket 168[0m
+[32mNew connection on socket 169[0m
+[32mNew connection on socket 170[0m
+[32mNew connection on socket 171[0m
+[32mNew connection on socket 172[0m
+[32mNew connection on socket 173[0m
+[32mNew connection on socket 174[0m
+[32mNew connection on socket 175[0m
+[32mNew connection on socket 176[0m
+[32mNew connection on socket 177[0m
+[32mNew connection on socket 178[0m
+[32mNew connection on socket 179[0m
+[32mNew connection on socket 180[0m
+[32mNew connection on socket 181[0m
+[32mNew connection on socket 182[0m
+[32mNew connection on socket 183[0m
+[32mNew connection on socket 184[0m
+[32mNew connection on socket 185[0m
+[32mNew connection on socket 186[0m
+[32mNew connection on socket 187[0m
+[32mNew connection on socket 188[0m
+[32mNew connection on socket 189[0m
+[32mNew connection on socket 190[0m
+[32mNew connection on socket 191[0m
+[32mNew connection on socket 192[0m
+[32mNew connection on socket 193[0m
+[32mNew connection on socket 194[0m
+[32mNew connection on socket 195[0m
+[32mNew connection on socket 196[0m
+[32mNew connection on socket 197[0m
+[32mNew connection on socket 198[0m
+[32mNew connection on socket 199[0m
+[32mNew connection on socket 200[0m
+[32mNew connection on socket 201[0m
+[32mNew connection on socket 202[0m
+[32mNew connection on socket 203[0m
+[32mNew connection on socket 204[0m
+[32mNew connection on socket 205[0m
+[32mNew connection on socket 206[0m
+[32mNew connection on socket 207[0m
+[32mNew connection on socket 208[0m
+[32mNew connection on socket 209[0m
+[32mNew connection on socket 210[0m
+[32mNew connection on socket 211[0m
+[32mNew connection on socket 212[0m
+[32mNew connection on socket 213[0m
+[32mNew connection on socket 214[0m
+[32mNew connection on socket 215[0m
+[32mNew connection on socket 216[0m
+[32mNew connection on socket 217[0m
+[32mNew connection on socket 218[0m
+[32mNew connection on socket 219[0m
+[32mNew connection on socket 220[0m
+[32mNew connection on socket 221[0m
+[32mNew connection on socket 222[0m
+[32mNew connection on socket 223[0m
+[32mNew connection on socket 224[0m
+[32mNew connection on socket 225[0m
+[32mNew connection on socket 226[0m
+[32mNew connection on socket 227[0m
+[32mNew connection on socket 228[0m
+[32mNew connection on socket 229[0m
+[32mNew connection on socket 230[0m
+[32mNew connection on socket 231[0m
+[32mNew connection on socket 232[0m
+[32mNew connection on socket 233[0m
+[32mNew connection on socket 234[0m
+[32mNew connection on socket 235[0m
+[32mNew connection on socket 236[0m
+[32mNew connection on socket 237[0m
+[32mNew connection on socket 238[0m
+[32mNew connection on socket 239[0m
+[32mNew connection on socket 240[0m
+[32mNew connection on socket 241[0m
+[32mNew connection on socket 242[0m
+[32mNew connection on socket 243[0m
+[32mNew connection on socket 244[0m
+[32mNew connection on socket 245[0m
+[32mNew connection on socket 246[0m
+[32mNew connection on socket 247[0m
+[32mNew connection on socket 248[0m
+[32mNew connection on socket 249[0m
+[32mNew connection on socket 250[0m
+[32mNew connection on socket 251[0m
+[32mNew connection on socket 252[0m
+[32mNew connection on socket 253[0m
+[32mNew connection on socket 254[0m
+[32mNew connection on socket 255[0m
+[32mNew connection on socket 256[0m
+[32mNew connection on socket 257[0m
+[32mNew connection on socket 258[0m
+[32mNew connection on socket 259[0m
+[32mNew connection on socket 260[0m
+[32mNew connection on socket 261[0m
+[32mNew connection on socket 262[0m
+[32mNew connection on socket 263[0m
+[32mNew connection on socket 264[0m
+[32mNew connection on socket 265[0m
+[32mNew connection on socket 266[0m
+[32mNew connection on socket 267[0m
+[32mNew connection on socket 268[0m
+[32mNew connection on socket 269[0m
+[32mNew connection on socket 270[0m
+[32mNew connection on socket 271[0m
+[32mNew connection on socket 272[0m
+[32mNew connection on socket 273[0m
+[32mNew connection on socket 274[0m
+[32mNew connection on socket 275[0m
+[32mNew connection on socket 276[0m
+[32mNew connection on socket 277[0m
+[32mNew connection on socket 278[0m
+[32mNew connection on socket 279[0m
+[32mNew connection on socket 280[0m
+[32mNew connection on socket 281[0m
+[32mNew connection on socket 282[0m
+[32mNew connection on socket 283[0m
+[32mNew connection on socket 284[0m
+[32mNew connection on socket 285[0m
+[32mNew connection on socket 286[0m
+[32mNew connection on socket 287[0m
+[32mNew connection on socket 288[0m
+[32mNew connection on socket 289[0m
+[32mNew connection on socket 290[0m
+[32mNew connection on socket 291[0m
+[32mNew connection on socket 292[0m
+[32mNew connection on socket 293[0m
+[32mNew connection on socket 294[0m
+[32mNew connection on socket 295[0m
+[32mNew connection on socket 296[0m
+[32mNew connection on socket 297[0m
+[32mNew connection on socket 298[0m
+[32mNew connection on socket 299[0m
+[32mNew connection on socket 300[0m
+[32mNew connection on socket 301[0m
+[32mNew connection on socket 302[0m
+[32mNew connection on socket 303[0m
+[32mNew connection on socket 304[0m
+[32mNew connection on socket 305[0m
+[32mNew connection on socket 306[0m
+[32mNew connection on socket 307[0m
+[32mNew connection on socket 308[0m
+[32mNew connection on socket 309[0m
+[32mNew connection on socket 310[0m
+[32mNew connection on socket 311[0m
+[32mNew connection on socket 312[0m
+[32mNew connection on socket 313[0m
+[32mNew connection on socket 314[0m
+[32mNew connection on socket 315[0m
+[32mNew connection on socket 316[0m
+[32mNew connection on socket 317[0m
+[32mNew connection on socket 318[0m
+[32mNew connection on socket 319[0m
+[32mNew connection on socket 320[0m
+[32mNew connection on socket 321[0m
+[32mNew connection on socket 322[0m
+[32mNew connection on socket 323[0m
+[32mNew connection on socket 324[0m
+[32mNew connection on socket 325[0m
+[32mNew connection on socket 326[0m
+[32mNew connection on socket 327[0m
+[32mNew connection on socket 328[0m
+[32mNew connection on socket 329[0m
+[32mNew connection on socket 330[0m
+[32mNew connection on socket 331[0m
+[32mNew connection on socket 332[0m
+[32mNew connection on socket 333[0m
+[32mNew connection on socket 334[0m
+[32mNew connection on socket 335[0m
+[32mNew connection on socket 336[0m
+[32mNew connection on socket 337[0m
+[32mNew connection on socket 338[0m
+[32mNew connection on socket 339[0m
+[32mNew connection on socket 340[0m
+[32mNew connection on socket 341[0m
+[32mNew connection on socket 342[0m
+[32mNew connection on socket 343[0m
+[32mNew connection on socket 344[0m
+[32mNew connection on socket 345[0m
+[32mNew connection on socket 346[0m
+[32mNew connection on socket 347[0m
+[32mNew connection on socket 348[0m
+[32mNew connection on socket 349[0m
+[32mNew connection on socket 350[0m
+[32mNew connection on socket 351[0m
+[32mNew connection on socket 352[0m
+[32mNew connection on socket 353[0m
+[32mNew connection on socket 354[0m
+[32mNew connection on socket 355[0m
+[32mNew connection on socket 356[0m
+[32mNew connection on socket 357[0m
+[32mNew connection on socket 358[0m
+[32mNew connection on socket 359[0m
+[32mNew connection on socket 360[0m
+[32mNew connection on socket 361[0m
+[32mNew connection on socket 362[0m
+[32mNew connection on socket 363[0m
+[32mNew connection on socket 364[0m
+[32mNew connection on socket 365[0m
+[32mNew connection on socket 366[0m
+[32mNew connection on socket 367[0m
+[32mNew connection on socket 368[0m
+[32mNew connection on socket 369[0m
+[32mNew connection on socket 370[0m
+[32mNew connection on socket 371[0m
+[32mNew connection on socket 372[0m
+[32mNew connection on socket 373[0m
+[32mNew connection on socket 374[0m
+[32mNew connection on socket 375[0m
+[32mNew connection on socket 376[0m
+[32mNew connection on socket 377[0m
+[32mNew connection on socket 378[0m
+[32mNew connection on socket 379[0m
+[32mNew connection on socket 380[0m
+[32mNew connection on socket 381[0m
+[32mNew connection on socket 382[0m
+[32mNew connection on socket 383[0m
+[32mNew connection on socket 384[0m
+[32mNew connection on socket 385[0m
+[32mNew connection on socket 386[0m
+[32mNew connection on socket 387[0m
+[32mNew connection on socket 388[0m
+[32mNew connection on socket 389[0m
+[32mNew connection on socket 390[0m
+[32mNew connection on socket 391[0m
+[32mNew connection on socket 392[0m
+[32mNew connection on socket 393[0m
+[32mNew connection on socket 394[0m
+[32mNew connection on socket 395[0m
+[32mNew connection on socket 396[0m
+[32mNew connection on socket 397[0m
+[32mNew connection on socket 398[0m
+[32mNew connection on socket 399[0m
+[32mNew connection on socket 400[0m
+[32mNew connection on socket 401[0m
+[32mNew connection on socket 402[0m
+[32mNew connection on socket 403[0m
+[32mNew connection on socket 404[0m
+[32mNew connection on socket 405[0m
+[32mNew connection on socket 406[0m
+[32mNew connection on socket 407[0m
+[32mNew connection on socket 408[0m
+[32mNew connection on socket 409[0m
+[32mNew connection on socket 410[0m
+[32mNew connection on socket 411[0m
+[32mNew connection on socket 412[0m
+[32mNew connection on socket 413[0m
+[32mNew connection on socket 414[0m
+[32mNew connection on socket 415[0m
+[32mNew connection on socket 416[0m
+[32mNew connection on socket 417[0m
+[32mNew connection on socket 418[0m
+[32mNew connection on socket 419[0m
+[32mNew connection on socket 420[0m
+[32mNew connection on socket 421[0m
+[32mNew connection on socket 422[0m
+[32mNew connection on socket 423[0m
+[32mNew connection on socket 424[0m
+[32mNew connection on socket 425[0m
+[32mNew connection on socket 426[0m
+[32mNew connection on socket 427[0m
+[32mNew connection on socket 428[0m
+[32mNew connection on socket 429[0m
+[32mNew connection on socket 430[0m
+[32mNew connection on socket 431[0m
+[32mNew connection on socket 432[0m
+[32mNew connection on socket 433[0m
+[32mNew connection on socket 434[0m
+[32mNew connection on socket 435[0m
+[32mNew connection on socket 436[0m
+[32mNew connection on socket 437[0m
+[32mNew connection on socket 438[0m
+[32mNew connection on socket 439[0m
+[32mNew connection on socket 440[0m
+[32mNew connection on socket 441[0m
+[32mNew connection on socket 442[0m
+[32mNew connection on socket 443[0m
+[32mNew connection on socket 444[0m
+[32mNew connection on socket 445[0m
+[32mNew connection on socket 446[0m
+[32mNew connection on socket 447[0m
+[32mNew connection on socket 448[0m
+[32mNew connection on socket 449[0m
+[32mNew connection on socket 450[0m
+[32mNew connection on socket 451[0m
+[32mNew connection on socket 452[0m
+[32mNew connection on socket 453[0m
+[32mNew connection on socket 454[0m
+[32mNew connection on socket 455[0m
+[32mNew connection on socket 456[0m
+[32mNew connection on socket 457[0m
+[32mNew connection on socket 458[0m
+[32mNew connection on socket 459[0m
+[32mNew connection on socket 460[0m
+[32mNew connection on socket 461[0m
+[32mNew connection on socket 462[0m
+[32mNew connection on socket 463[0m
+[32mNew connection on socket 464[0m
+[32mNew connection on socket 465[0m
+[32mNew connection on socket 466[0m
+[32mNew connection on socket 467[0m
+[32mNew connection on socket 468[0m
+[32mNew connection on socket 469[0m
+[32mNew connection on socket 470[0m
+[32mNew connection on socket 471[0m
+[32mNew connection on socket 472[0m
+[32mNew connection on socket 473[0m
+[32mNew connection on socket 474[0m
+[32mNew connection on socket 475[0m
+[32mNew connection on socket 476[0m
+[32mNew connection on socket 477[0m
+[32mNew connection on socket 478[0m
+[32mNew connection on socket 479[0m
+[32mNew connection on socket 480[0m
+[32mNew connection on socket 481[0m
+[32mNew connection on socket 482[0m
+[32mNew connection on socket 483[0m
+[32mNew connection on socket 484[0m
+[32mNew connection on socket 485[0m
+[32mNew connection on socket 486[0m
+[32mNew connection on socket 487[0m
+[32mNew connection on socket 488[0m
+[32mNew connection on socket 489[0m
+[32mNew connection on socket 490[0m
+[32mNew connection on socket 491[0m
+[32mNew connection on socket 492[0m
+[32mNew connection on socket 493[0m
+[32mNew connection on socket 494[0m
+[32mNew connection on socket 495[0m
+[32mNew connection on socket 496[0m
+[32mNew connection on socket 497[0m
+[32mNew connection on socket 498[0m
+[32mNew connection on socket 499[0m
+[32mNew connection on socket 500[0m
+[32mNew connection on socket 501[0m
+[32mNew connection on socket 502[0m
+[33mClient: [0mPASS jambon
+NICK a_nick_0
+USER a_login 0 * :Real Name
+
+[34mServer: [0mPING :V{o|B~A+|V
+
+[33mClient: [0mPASS jambon
+NICK a_nick_1
+USER a_login 0 * :Real Name
+
+[34mServer: [0m:irc.localhost 001 a_nick_0 :Welcome to the Internet Relay Network a_nick_0!a_login@localhost
+
+[34mServer: [0m:irc.localhost 002 a_nick_0 :Your host is :irc.localhost , running version ircserv-0.0.1
+
+[34mServer: [0m:irc.localhost 003 a_nick_0 :This server was created 23:06:04 Dec 13 2023
+
+[34mServer: [0m:irc.localhost 004 a_nick_0 :irc.localhost  0.0.1 i linst :klo
+
+[34mServer: [0m:irc.localhost 005 a_nick_0 CASEMAPPING=ascii CHANMODES=o,k,l,inst CHANNELLEN50 CHANTYPES=# HOSTLEN50 LINELEN512 MAXTARGETS20 NICKLEN30 PREFIX=(o)@ TOPICLEN100 USERLEN50 USERMODES=,,,i :are supported by this server
+
+[32mNew connection on socket 503[0m
+[34mServer: [0mPING :V{o|B~A+|V
+
+[33mClient: [0mPASS jambon
+NICK a_nick_2
+USER a_login 0 * :Real Name
+
+[34mServer: [0m:irc.localhost 001 a_nick_1 :Welcome to the Internet Relay Network a_nick_1!a_login@localhost
+
+[34mServer: [0m:irc.localhost 002 a_nick_1 :Your host is :irc.localhost , running version ircserv-0.0.1
+
+[34mServer: [0m:irc.localhost 003 a_nick_1 :This server was created 23:06:04 Dec 13 2023
+
+[34mServer: [0m:irc.localhost 004 a_nick_1 :irc.localhost  0.0.1 i linst :klo
+
+[34mServer: [0m:irc.localhost 005 a_nick_1 CASEMAPPING=ascii CHANMODES=o,k,l,inst CHANNELLEN50 CHANTYPES=# HOSTLEN50 LINELEN512 MAXTARGETS20 NICKLEN30 PREFIX=(o)@ TOPICLEN100 USERLEN50 USERMODES=,,,i :are supported by this server
+
+[34mServer: [0mPING :V{o|B~A+|V
+
+[33mClient: [0mPASS jambon
+NICK a_nick_3
+USER a_login 0 * :Real Name
+
+[32mNew connection on socket 505[0m
+[34mServer: [0m:irc.localhost 001 a_nick_2 :Welcome to the Internet Relay Network a_nick_2!a_login@localhost
+
+[34mServer: [0m:irc.localhost 002 a_nick_2 :Your host is :irc.localhost , running version ircserv-0.0.1
+
+[34mServer: [0m:irc.localhost 003 a_nick_2 :This server was created 23:06:04 Dec 13 2023
+
+[34mServer: [0m:irc.localhost 004 a_nick_2 :irc.localhost  0.0.1 i linst :klo
+
+[34mServer: [0m:irc.localhost 005 a_nick_2 CASEMAPPING=ascii CHANMODES=o,k,l,inst CHANNELLEN50 CHANTYPES=# HOSTLEN50 LINELEN512 MAXTARGETS20 NICKLEN30 PREFIX=(o)@ TOPICLEN100 USERLEN50 USERMODES=,,,i :are supported by this server
+
+[34mServer: [0mPING :V{o|B~A+|V
+
+[33mClient: [0mPASS jambon
+NICK a_nick_4
+USER a_login 0 * :Real Name
+
+[34mServer: [0m:irc.localhost 001 a_nick_3 :Welcome to the Internet Relay Network a_nick_3!a_login@localhost
+
+[34mServer: [0m:irc.localhost 002 a_nick_3 :Your host is :irc.localhost , running version ircserv-0.0.1
+
+[34mServer: [0m:irc.localhost 003 a_nick_3 :This server was created 23:06:04 Dec 13 2023
+
+[34mServer: [0m:irc.localhost 004 a_nick_3 :irc.localhost  0.0.1 i linst :klo
+
+[34mServer: [0m:irc.localhost 005 a_nick_3 CASEMAPPING=ascii CHANMODES=o,k,l,inst CHANNELLEN50 CHANTYPES=# HOSTLEN50 LINELEN512 MAXTARGETS20 NICKLEN30 PREFIX=(o)@ TOPICLEN100 USERLEN50 USERMODES=,,,i :are supported by this server
+
+[34mServer: [0mPING :V{o|B~A+|V
+
+[33mClient: [0mPASS jambon
+NICK a_nick_5
+USER a_login 0 * :Real Name
+
+[34mServer: [0m:irc.localhost 001 a_nick_4 :Welcome to the Internet Relay Network a_nick_4!a_login@localhost
+
+[34mServer: [0m:irc.localhost 002 a_nick_4 :Your host is :irc.localhost , running version ircserv-0.0.1
+
+[34mServer: [0m:irc.localhost 003 a_nick_4 :This server was created 23:06:04 Dec 13 2023
+
+[34mServer: [0m:irc.localhost 004 a_nick_4 :irc.localhost  0.0.1 i linst :klo
+
+[34mServer: [0m:irc.localhost 005 a_nick_4 CASEMAPPING=ascii CHANMODES=o,k,l,inst CHANNELLEN50 CHANTYPES=# HOSTLEN50 LINELEN512 MAXTARGETS20 NICKLEN30 PREFIX=(o)@ TOPICLEN100 USERLEN50 USERMODES=,,,i :are supported by this server
+
+[34mServer: [0mPING :V{o|B~A+|V
+
+[33mClient: [0mPASS jambon
+NICK a_nick_6
+USER a_login 0 * :Real Name
+
+[34mServer: [0m:irc.localhost 001 a_nick_5 :Welcome to the Internet Relay Network a_nick_5!a_login@localhost
+
+[34mServer: [0m:irc.localhost 002 a_nick_5 :Your host is :irc.localhost , running version ircserv-0.0.1
+
+[34mServer: [0m:irc.localhost 003 a_nick_5 :This server was created 23:06:04 Dec 13 2023
+
+[34mServer: [0m:irc.localhost 004 a_nick_5 :irc.localhost  0.0.1 i linst :klo
+
+[34mServer: [0m:irc.localhost 005 a_nick_5 CASEMAPPING=ascii CHANMODES=o,k,l,inst CHANNELLEN50 CHANTYPES=# HOSTLEN50 LINELEN512 MAXTARGETS20 NICKLEN30 PREFIX=(o)@ TOPICLEN100 USERLEN50 USERMODES=,,,i :are supported by this server
+
+[34mServer: [0mPING :V{o|B~A+|V
+
+[33mClient: [0mPASS jambon
+NICK a_nick_7
+USER a_login 0 * :Real Name
+
+[34mServer: [0m:irc.localhost 001 a_nick_6 :Welcome to the Internet Relay Network a_nick_6!a_login@localhost
+
+[34mServer: [0m:irc.localhost 002 a_nick_6 :Your host is :irc.localhost , running version ircserv-0.0.1
+
+[34mServer: [0m:irc.localhost 003 a_nick_6 :This server was created 23:06:04 Dec 13 2023
+
+[34mServer: [0m:irc.localhost 004 a_nick_6 :irc.localhost  0.0.1 i linst :klo
+
+[34mServer: [0m:irc.localhost 005 a_nick_6 CASEMAPPING=ascii CHANMODES=o,k,l,inst CHANNELLEN50 CHANTYPES=# HOSTLEN50 LINELEN512 MAXTARGETS20 NICKLEN30 PREFIX=(o)@ TOPICLEN100 USERLEN50 USERMODES=,,,i :are supported by this server
+
+[34mServer: [0mPING :V{o|B~A+|V
+
+[33mClient: [0mPASS jambon
+NICK a_nick_8
+USER a_login 0 * :Real Name
+
+[34mServer: [0m:irc.localhost 001 a_nick_7 :Welcome to the Internet Relay Network a_nick_7!a_login@localhost
+
+[34mServer: [0m:irc.localhost 002 a_nick_7 :Your host is :irc.localhost , running version ircserv-0.0.1
+
+[34mServer: [0m:irc.localhost 003 a_nick_7 :This server was created 23:06:04 Dec 13 2023
+
+[34mServer: [0m:irc.localhost 004 a_nick_7 :irc.localhost  0.0.1 i linst :klo
+
+[34mServer: [0m:irc.localhost 005 a_nick_7 CASEMAPPING=ascii CHANMODES=o,k,l,inst CHANNELLEN50 CHANTYPES=# HOSTLEN50 LINELEN512 MAXTARGETS20 NICKLEN30 PREFIX=(o)@ TOPICLEN100 USERLEN50 USERMODES=,,,i :are supported by this server
+
+[34mServer: [0mPING :V{o|B~A+|V
+
+[33mClient: [0mPASS jambon
+NICK a_nick_9
+USER a_login 0 * :Real Name
+
+[34mServer: [0m:irc.localhost 001 a_nick_8 :Welcome to the Internet Relay Network a_nick_8!a_login@localhost
+
+[34mServer: [0m:irc.localhost 002 a_nick_8 :Your host is :irc.localhost , running version ircserv-0.0.1
+
+[34mServer: [0m:irc.localhost 003 a_nick_8 :This server was created 23:06:04 Dec 13 2023
+
+[34mServer: [0m:irc.localhost 004 a_nick_8 :irc.localhost  0.0.1 i linst :klo
+
+[34mServer: [0m:irc.localhost 005 a_nick_8 CASEMAPPING=ascii CHANMODES=o,k,l,inst CHANNELLEN50 CHANTYPES=# HOSTLEN50 LINELEN512 MAXTARGETS20 NICKLEN30 PREFIX=(o)@ TOPICLEN100 USERLEN50 USERMODES=,,,i :are supported by this server
+
+[34mServer: [0mPING :V{o|B~A+|V
+
+[33mClient: [0mPASS jambon
+NICK a_nick_10
+USER a_login 0 * :Real Name
+
+[34mServer: [0m:irc.localhost 001 a_nick_9 :Welcome to the Internet Relay Network a_nick_9!a_login@localhost
+
+[34mServer: [0m:irc.localhost 002 a_nick_9 :Your host is :irc.localhost , running version ircserv-0.0.1
+
+[34mServer: [0m:irc.localhost 003 a_nick_9 :This server was created 23:06:04 Dec 13 2023
+
+[34mServer: [0m:irc.localhost 004 a_nick_9 :irc.localhost  0.0.1 i linst :klo
+
+[34mServer: [0m:irc.localhost 005 a_nick_9 CASEMAPPING=ascii CHANMODES=o,k,l,inst CHANNELLEN50 CHANTYPES=# HOSTLEN50 LINELEN512 MAXTARGETS20 NICKLEN30 PREFIX=(o)@ TOPICLEN100 USERLEN50 USERMODES=,,,i :are supported by this server
+
+[34mServer: [0mPING :V{o|B~A+|V
+
+[33mClient: [0mPASS jambon
+NICK a_nick_11
+USER a_login 0 * :Real Name
+
+[34mServer: [0m:irc.localhost 001 a_nick_10 :Welcome to the Internet Relay Network a_nick_10!a_login@localhost
+
+[34mServer: [0m:irc.localhost 002 a_nick_10 :Your host is :irc.localhost , running version ircserv-0.0.1
+
+[34mServer: [0m:irc.localhost 003 a_nick_10 :This server was created 23:06:04 Dec 13 2023
+
+[34mServer: [0m:irc.localhost 004 a_nick_10 :irc.localhost  0.0.1 i linst :klo
+
+[34mServer: [0m:irc.localhost 005 a_nick_10 CASEMAPPING=ascii CHANMODES=o,k,l,inst CHANNELLEN50 CHANTYPES=# HOSTLEN50 LINELEN512 MAXTARGETS20 NICKLEN30 PREFIX=(o)@ TOPICLEN100 USERLEN50 USERMODES=,,,i :are supported by this server
+
+[34mServer: [0mPING :V{o|B~A+|V
+
+[33mClient: [0mPASS jambon
+NICK a_nick_12
+USER a_login 0 * :Real Name
+
+[34mServer: [0m:irc.localhost 001 a_nick_11 :Welcome to the Internet Relay Network a_nick_11!a_login@localhost
+
+[34mServer: [0m:irc.localhost 002 a_nick_11 :Your host is :irc.localhost , running version ircserv-0.0.1
+
+[34mServer: [0m:irc.localhost 003 a_nick_11 :This server was created 23:06:04 Dec 13 2023
+
+[34mServer: [0m:irc.localhost 004 a_nick_11 :irc.localhost  0.0.1 i linst :klo
+
+[34mServer: [0m:irc.localhost 005 a_nick_11 CASEMAPPING=ascii CHANMODES=o,k,l,inst CHANNELLEN50 CHANTYPES=# HOSTLEN50 LINELEN512 MAXTARGETS20 NICKLEN30 PREFIX=(o)@ TOPICLEN100 USERLEN50 USERMODES=,,,i :are supported by this server
+
+[34mServer: [0mPING :V{o|B~A+|V
+
+[33mClient: [0mPASS jambon
+NICK a_nick_13
+USER a_login 0 * :Real Name
+
+[34mServer: [0m:irc.localhost 001 a_nick_12 :Welcome to the Internet Relay Network a_nick_12!a_login@localhost
+
+[34mServer: [0m:irc.localhost 002 a_nick_12 :Your host is :irc.localhost , running version ircserv-0.0.1
+
+[34mServer: [0m:irc.localhost 003 a_nick_12 :This server was created 23:06:04 Dec 13 2023
+
+[34mServer: [0m:irc.localhost 004 a_nick_12 :irc.localhost  0.0.1 i linst :klo
+
+[34mServer: [0m:irc.localhost 005 a_nick_12 CASEMAPPING=ascii CHANMODES=o,k,l,inst CHANNELLEN50 CHANTYPES=# HOSTLEN50 LINELEN512 MAXTARGETS20 NICKLEN30 PREFIX=(o)@ TOPICLEN100 USERLEN50 USERMODES=,,,i :are supported by this server
+
+[34mServer: [0mPING :V{o|B~A+|V
+
+[33mClient: [0mPASS jambon
+NICK a_nick_14
+USER a_login 0 * :Real Name
+
+[34mServer: [0m:irc.localhost 001 a_nick_13 :Welcome to the Internet Relay Network a_nick_13!a_login@localhost
+
+[34mServer: [0m:irc.localhost 002 a_nick_13 :Your host is :irc.localhost , running version ircserv-0.0.1
+
+[34mServer: [0m:irc.localhost 003 a_nick_13 :This server was created 23:06:04 Dec 13 2023
+
+[34mServer: [0m:irc.localhost 004 a_nick_13 :irc.localhost  0.0.1 i linst :klo
+
+[34mServer: [0m:irc.localhost 005 a_nick_13 CASEMAPPING=ascii CHANMODES=o,k,l,inst CHANNELLEN50 CHANTYPES=# HOSTLEN50 LINELEN512 MAXTARGETS20 NICKLEN30 PREFIX=(o)@ TOPICLEN100 USERLEN50 USERMODES=,,,i :are supported by this server
+
+[34mServer: [0mPING :V{o|B~A+|V
+
+[33mClient: [0mPASS jambon
+NICK a_nick_15
+USER a_login 0 * :Real Name
+
+[34mServer: [0m:irc.localhost 001 a_nick_14 :Welcome to the Internet Relay Network a_nick_14!a_login@localhost
+
+[34mServer: [0m:irc.localhost 002 a_nick_14 :Your host is :irc.localhost , running version ircserv-0.0.1
+
+[34mServer: [0m:irc.localhost 003 a_nick_14 :This server was created 23:06:04 Dec 13 2023
+
+[34mServer: [0m:irc.localhost 004 a_nick_14 :irc.localhost  0.0.1 i linst :klo
+
+[34mServer: [0m:irc.localhost 005 a_nick_14 CASEMAPPING=ascii CHANMODES=o,k,l,inst CHANNELLEN50 CHANTYPES=# HOSTLEN50 LINELEN512 MAXTARGETS20 NICKLEN30 PREFIX=(o)@ TOPICLEN100 USERLEN50 USERMODES=,,,i :are supported by this server
+
+[34mServer: [0mPING :V{o|B~A+|V
+
+[33mClient: [0mPASS jambon
+NICK a_nick_16
+USER a_login 0 * :Real Name
+
+[34mServer: [0m:irc.localhost 001 a_nick_15 :Welcome to the Internet Relay Network a_nick_15!a_login@localhost
+
+[34mServer: [0m:irc.localhost 002 a_nick_15 :Your host is :irc.localhost , running version ircserv-0.0.1
+
+[34mServer: [0m:irc.localhost 003 a_nick_15 :This server was created 23:06:04 Dec 13 2023
+
+[34mServer: [0m:irc.localhost 004 a_nick_15 :irc.localhost  0.0.1 i linst :klo
+
+[34mServer: [0m:irc.localhost 005 a_nick_15 CASEMAPPING=ascii CHANMODES=o,k,l,inst CHANNELLEN50 CHANTYPES=# HOSTLEN50 LINELEN512 MAXTARGETS20 NICKLEN30 PREFIX=(o)@ TOPICLEN100 USERLEN50 USERMODES=,,,i :are supported by this server
+
+[34mServer: [0mPING :V{o|B~A+|V
+
+[33mClient: [0mPASS jambon
+NICK a_nick_17
+USER a_login 0 * :Real Name
+
+[34mServer: [0m:irc.localhost 001 a_nick_16 :Welcome to the Internet Relay Network a_nick_16!a_login@localhost
+
+[34mServer: [0m:irc.localhost 002 a_nick_16 :Your host is :irc.localhost , running version ircserv-0.0.1
+
+[34mServer: [0m:irc.localhost 003 a_nick_16 :This server was created 23:06:04 Dec 13 2023
+
+[34mServer: [0m:irc.localhost 004 a_nick_16 :irc.localhost  0.0.1 i linst :klo
+
+[34mServer: [0m:irc.localhost 005 a_nick_16 CASEMAPPING=ascii CHANMODES=o,k,l,inst CHANNELLEN50 CHANTYPES=# HOSTLEN50 LINELEN512 MAXTARGETS20 NICKLEN30 PREFIX=(o)@ TOPICLEN100 USERLEN50 USERMODES=,,,i :are supported by this server
+
+[34mServer: [0mPING :V{o|B~A+|V
+
+[33mClient: [0mPASS jambon
+NICK a_nick_18
+USER a_login 0 * :Real Name
+
+[34mServer: [0m:irc.localhost 001 a_nick_17 :Welcome to the Internet Relay Network a_nick_17!a_login@localhost
+
+[34mServer: [0m:irc.localhost 002 a_nick_17 :Your host is :irc.localhost , running version ircserv-0.0.1
+
+[34mServer: [0m:irc.localhost 003 a_nick_17 :This server was created 23:06:04 Dec 13 2023
+
+[34mServer: [0m:irc.localhost 004 a_nick_17 :irc.localhost  0.0.1 i linst :klo
+
+[34mServer: [0m:irc.localhost 005 a_nick_17 CASEMAPPING=ascii CHANMODES=o,k,l,inst CHANNELLEN50 CHANTYPES=# HOSTLEN50 LINELEN512 MAXTARGETS20 NICKLEN30 PREFIX=(o)@ TOPICLEN100 USERLEN50 USERMODES=,,,i :are supported by this server
+
+[34mServer: [0mPING :V{o|B~A+|V
+
+[33mClient: [0mPASS jambon
+NICK a_nick_19
+USER a_login 0 * :Real Name
+
+[34mServer: [0m:irc.localhost 001 a_nick_18 :Welcome to the Internet Relay Network a_nick_18!a_login@localhost
+
+[34mServer: [0m:irc.localhost 002 a_nick_18 :Your host is :irc.localhost , running version ircserv-0.0.1
+
+[34mServer: [0m:irc.localhost 003 a_nick_18 :This server was created 23:06:04 Dec 13 2023
+
+[34mServer: [0m:irc.localhost 004 a_nick_18 :irc.localhost  0.0.1 i linst :klo
+
+[34mServer: [0m:irc.localhost 005 a_nick_18 CASEMAPPING=ascii CHANMODES=o,k,l,inst CHANNELLEN50 CHANTYPES=# HOSTLEN50 LINELEN512 MAXTARGETS20 NICKLEN30 PREFIX=(o)@ TOPICLEN100 USERLEN50 USERMODES=,,,i :are supported by this server
+
+[34mServer: [0mPING :V{o|B~A+|V
+
+[33mClient: [0mPASS jambon
+NICK a_nick_20
+USER a_login 0 * :Real Name
+
+[34mServer: [0m:irc.localhost 001 a_nick_19 :Welcome to the Internet Relay Network a_nick_19!a_login@localhost
+
+[34mServer: [0m:irc.localhost 002 a_nick_19 :Your host is :irc.localhost , running version ircserv-0.0.1
+
+[34mServer: [0m:irc.localhost 003 a_nick_19 :This server was created 23:06:04 Dec 13 2023
+
+[34mServer: [0m:irc.localhost 004 a_nick_19 :irc.localhost  0.0.1 i linst :klo
+
+[34mServer: [0m:irc.localhost 005 a_nick_19 CASEMAPPING=ascii CHANMODES=o,k,l,inst CHANNELLEN50 CHANTYPES=# HOSTLEN50 LINELEN512 MAXTARGETS20 NICKLEN30 PREFIX=(o)@ TOPICLEN100 USERLEN50 USERMODES=,,,i :are supported by this server
+
+[34mServer: [0mPING :V{o|B~A+|V
+
+[33mClient: [0mPASS jambon
+NICK a_nick_21
+USER a_login 0 * :Real Name
+
+[34mServer: [0m:irc.localhost 001 a_nick_20 :Welcome to the Internet Relay Network a_nick_20!a_login@localhost
+
+[34mServer: [0m:irc.localhost 002 a_nick_20 :Your host is :irc.localhost , running version ircserv-0.0.1
+
+[34mServer: [0m:irc.localhost 003 a_nick_20 :This server was created 23:06:04 Dec 13 2023
+
+[34mServer: [0m:irc.localhost 004 a_nick_20 :irc.localhost  0.0.1 i linst :klo
+
+[34mServer: [0m:irc.localhost 005 a_nick_20 CASEMAPPING=ascii CHANMODES=o,k,l,inst CHANNELLEN50 CHANTYPES=# HOSTLEN50 LINELEN512 MAXTARGETS20 NICKLEN30 PREFIX=(o)@ TOPICLEN100 USERLEN50 USERMODES=,,,i :are supported by this server
+
+[34mServer: [0mPING :V{o|B~A+|V
+
+[33mClient: [0mPASS jambon
+NICK a_nick_22
+USER a_login 0 * :Real Name
+
+[34mServer: [0m:irc.localhost 001 a_nick_21 :Welcome to the Internet Relay Network a_nick_21!a_login@localhost
+
+[34mServer: [0m:irc.localhost 002 a_nick_21 :Your host is :irc.localhost , running version ircserv-0.0.1
+
+[34mServer: [0m:irc.localhost 003 a_nick_21 :This server was created 23:06:04 Dec 13 2023
+
+[34mServer: [0m:irc.localhost 004 a_nick_21 :irc.localhost  0.0.1 i linst :klo
+
+[34mServer: [0m:irc.localhost 005 a_nick_21 CASEMAPPING=ascii CHANMODES=o,k,l,inst CHANNELLEN50 CHANTYPES=# HOSTLEN50 LINELEN512 MAXTARGETS20 NICKLEN30 PREFIX=(o)@ TOPICLEN100 USERLEN50 USERMODES=,,,i :are supported by this server
+
+[34mServer: [0mPING :V{o|B~A+|V
+
+[33mClient: [0mPASS jambon
+NICK a_nick_23
+USER a_login 0 * :Real Name
+
+[34mServer: [0m:irc.localhost 001 a_nick_22 :Welcome to the Internet Relay Network a_nick_22!a_login@localhost
+
+[34mServer: [0m:irc.localhost 002 a_nick_22 :Your host is :irc.localhost , running version ircserv-0.0.1
+
+[34mServer: [0m:irc.localhost 003 a_nick_22 :This server was created 23:06:04 Dec 13 2023
+
+[34mServer: [0m:irc.localhost 004 a_nick_22 :irc.localhost  0.0.1 i linst :klo
+
+[34mServer: [0m:irc.localhost 005 a_nick_22 CASEMAPPING=ascii CHANMODES=o,k,l,inst CHANNELLEN50 CHANTYPES=# HOSTLEN50 LINELEN512 MAXTARGETS20 NICKLEN30 PREFIX=(o)@ TOPICLEN100 USERLEN50 USERMODES=,,,i :are supported by this server
+
+[34mServer: [0mPING :V{o|B~A+|V
+
+[33mClient: [0mPASS jambon
+NICK a_nick_24
+USER a_login 0 * :Real Name
+
+[34mServer: [0m:irc.localhost 001 a_nick_23 :Welcome to the Internet Relay Network a_nick_23!a_login@localhost
+
+[34mServer: [0m:irc.localhost 002 a_nick_23 :Your host is :irc.localhost , running version ircserv-0.0.1
+
+[34mServer: [0m:irc.localhost 003 a_nick_23 :This server was created 23:06:04 Dec 13 2023
+
+[34mServer: [0m:irc.localhost 004 a_nick_23 :irc.localhost  0.0.1 i linst :klo
+
+[34mServer: [0m:irc.localhost 005 a_nick_23 CASEMAPPING=ascii CHANMODES=o,k,l,inst CHANNELLEN50 CHANTYPES=# HOSTLEN50 LINELEN512 MAXTARGETS20 NICKLEN30 PREFIX=(o)@ TOPICLEN100 USERLEN50 USERMODES=,,,i :are supported by this server
+
+[34mServer: [0mPING :V{o|B~A+|V
+
+[33mClient: [0mPASS jambon
+NICK a_nick_25
+USER a_login 0 * :Real Name
+
+[34mServer: [0m:irc.localhost 001 a_nick_24 :Welcome to the Internet Relay Network a_nick_24!a_login@localhost
+
+[34mServer: [0m:irc.localhost 002 a_nick_24 :Your host is :irc.localhost , running version ircserv-0.0.1
+
+[34mServer: [0m:irc.localhost 003 a_nick_24 :This server was created 23:06:04 Dec 13 2023
+
+[34mServer: [0m:irc.localhost 004 a_nick_24 :irc.localhost  0.0.1 i linst :klo
+
+[34mServer: [0m:irc.localhost 005 a_nick_24 CASEMAPPING=ascii CHANMODES=o,k,l,inst CHANNELLEN50 CHANTYPES=# HOSTLEN50 LINELEN512 MAXTARGETS20 NICKLEN30 PREFIX=(o)@ TOPICLEN100 USERLEN50 USERMODES=,,,i :are supported by this server
+
+[34mServer: [0mPING :V{o|B~A+|V
+
+[33mClient: [0mPASS jambon
+NICK a_nick_26
+USER a_login 0 * :Real Name
+
+[34mServer: [0m:irc.localhost 001 a_nick_25 :Welcome to the Internet Relay Network a_nick_25!a_login@localhost
+
+[34mServer: [0m:irc.localhost 002 a_nick_25 :Your host is :irc.localhost , running version ircserv-0.0.1
+
+[34mServer: [0m:irc.localhost 003 a_nick_25 :This server was created 23:06:04 Dec 13 2023
+
+[34mServer: [0m:irc.localhost 004 a_nick_25 :irc.localhost  0.0.1 i linst :klo
+
+[34mServer: [0m:irc.localhost 005 a_nick_25 CASEMAPPING=ascii CHANMODES=o,k,l,inst CHANNELLEN50 CHANTYPES=# HOSTLEN50 LINELEN512 MAXTARGETS20 NICKLEN30 PREFIX=(o)@ TOPICLEN100 USERLEN50 USERMODES=,,,i :are supported by this server
+
+[34mServer: [0mPING :V{o|B~A+|V
+
+[33mClient: [0mPASS jambon
+NICK a_nick_27
+USER a_login 0 * :Real Name
+
+[34mServer: [0m:irc.localhost 001 a_nick_26 :Welcome to the Internet Relay Network a_nick_26!a_login@localhost
+
+[34mServer: [0m:irc.localhost 002 a_nick_26 :Your host is :irc.localhost , running version ircserv-0.0.1
+
+[34mServer: [0m:irc.localhost 003 a_nick_26 :This server was created 23:06:04 Dec 13 2023
+
+[34mServer: [0m:irc.localhost 004 a_nick_26 :irc.localhost  0.0.1 i linst :klo
+
+[34mServer: [0m:irc.localhost 005 a_nick_26 CASEMAPPING=ascii CHANMODES=o,k,l,inst CHANNELLEN50 CHANTYPES=# HOSTLEN50 LINELEN512 MAXTARGETS20 NICKLEN30 PREFIX=(o)@ TOPICLEN100 USERLEN50 USERMODES=,,,i :are supported by this server
+
+[34mServer: [0mPING :V{o|B~A+|V
+
+[33mClient: [0mPASS jambon
+NICK a_nick_28
+USER a_login 0 * :Real Name
+
+[34mServer: [0m:irc.localhost 001 a_nick_27 :Welcome to the Internet Relay Network a_nick_27!a_login@localhost
+
+[34mServer: [0m:irc.localhost 002 a_nick_27 :Your host is :irc.localhost , running version ircserv-0.0.1
+
+[34mServer: [0m:irc.localhost 003 a_nick_27 :This server was created 23:06:04 Dec 13 2023
+
+[34mServer: [0m:irc.localhost 004 a_nick_27 :irc.localhost  0.0.1 i linst :klo
+
+[34mServer: [0m:irc.localhost 005 a_nick_27 CASEMAPPING=ascii CHANMODES=o,k,l,inst CHANNELLEN50 CHANTYPES=# HOSTLEN50 LINELEN512 MAXTARGETS20 NICKLEN30 PREFIX=(o)@ TOPICLEN100 USERLEN50 USERMODES=,,,i :are supported by this server
+
+[34mServer: [0mPING :V{o|B~A+|V
+
+[33mClient: [0mPASS jambon
+NICK a_nick_29
+USER a_login 0 * :Real Name
+
+[34mServer: [0m:irc.localhost 001 a_nick_28 :Welcome to the Internet Relay Network a_nick_28!a_login@localhost
+
+[34mServer: [0m:irc.localhost 002 a_nick_28 :Your host is :irc.localhost , running version ircserv-0.0.1
+
+[34mServer: [0m:irc.localhost 003 a_nick_28 :This server was created 23:06:04 Dec 13 2023
+
+[34mServer: [0m:irc.localhost 004 a_nick_28 :irc.localhost  0.0.1 i linst :klo
+
+[34mServer: [0m:irc.localhost 005 a_nick_28 CASEMAPPING=ascii CHANMODES=o,k,l,inst CHANNELLEN50 CHANTYPES=# HOSTLEN50 LINELEN512 MAXTARGETS20 NICKLEN30 PREFIX=(o)@ TOPICLEN100 USERLEN50 USERMODES=,,,i :are supported by this server
+
+[34mServer: [0mPING :V{o|B~A+|V
+
+[33mClient: [0mPASS jambon
+NICK a_nick_30
+USER a_login 0 * :Real Name
+
+[34mServer: [0m:irc.localhost 001 a_nick_29 :Welcome to the Internet Relay Network a_nick_29!a_login@localhost
+
+[34mServer: [0m:irc.localhost 002 a_nick_29 :Your host is :irc.localhost , running version ircserv-0.0.1
+
+[34mServer: [0m:irc.localhost 003 a_nick_29 :This server was created 23:06:04 Dec 13 2023
+
+[34mServer: [0m:irc.localhost 004 a_nick_29 :irc.localhost  0.0.1 i linst :klo
+
+[34mServer: [0m:irc.localhost 005 a_nick_29 CASEMAPPING=ascii CHANMODES=o,k,l,inst CHANNELLEN50 CHANTYPES=# HOSTLEN50 LINELEN512 MAXTARGETS20 NICKLEN30 PREFIX=(o)@ TOPICLEN100 USERLEN50 USERMODES=,,,i :are supported by this server
+
+[34mServer: [0mPING :V{o|B~A+|V
+
+[33mClient: [0mPASS jambon
+NICK a_nick_31
+USER a_login 0 * :Real Name
+
+[34mServer: [0m:irc.localhost 001 a_nick_30 :Welcome to the Internet Relay Network a_nick_30!a_login@localhost
+
+[34mServer: [0m:irc.localhost 002 a_nick_30 :Your host is :irc.localhost , running version ircserv-0.0.1
+
+[34mServer: [0m:irc.localhost 003 a_nick_30 :This server was created 23:06:04 Dec 13 2023
+
+[34mServer: [0m:irc.localhost 004 a_nick_30 :irc.localhost  0.0.1 i linst :klo
+
+[34mServer: [0m:irc.localhost 005 a_nick_30 CASEMAPPING=ascii CHANMODES=o,k,l,inst CHANNELLEN50 CHANTYPES=# HOSTLEN50 LINELEN512 MAXTARGETS20 NICKLEN30 PREFIX=(o)@ TOPICLEN100 USERLEN50 USERMODES=,,,i :are supported by this server
+
+[34mServer: [0mPING :V{o|B~A+|V
+
+[33mClient: [0mPASS jambon
+NICK a_nick_32
+USER a_login 0 * :Real Name
+
+[34mServer: [0m:irc.localhost 001 a_nick_31 :Welcome to the Internet Relay Network a_nick_31!a_login@localhost
+
+[34mServer: [0m:irc.localhost 002 a_nick_31 :Your host is :irc.localhost , running version ircserv-0.0.1
+
+[34mServer: [0m:irc.localhost 003 a_nick_31 :This server was created 23:06:04 Dec 13 2023
+
+[34mServer: [0m:irc.localhost 004 a_nick_31 :irc.localhost  0.0.1 i linst :klo
+
+[34mServer: [0m:irc.localhost 005 a_nick_31 CASEMAPPING=ascii CHANMODES=o,k,l,inst CHANNELLEN50 CHANTYPES=# HOSTLEN50 LINELEN512 MAXTARGETS20 NICKLEN30 PREFIX=(o)@ TOPICLEN100 USERLEN50 USERMODES=,,,i :are supported by this server
+
+[34mServer: [0mPING :V{o|B~A+|V
+
+[33mClient: [0mPASS jambon
+NICK a_nick_33
+USER a_login 0 * :Real Name
+
+[34mServer: [0m:irc.localhost 001 a_nick_32 :Welcome to the Internet Relay Network a_nick_32!a_login@localhost
+
+[34mServer: [0m:irc.localhost 002 a_nick_32 :Your host is :irc.localhost , running version ircserv-0.0.1
+
+[34mServer: [0m:irc.localhost 003 a_nick_32 :This server was created 23:06:04 Dec 13 2023
+
+[34mServer: [0m:irc.localhost 004 a_nick_32 :irc.localhost  0.0.1 i linst :klo
+
+[34mServer: [0m:irc.localhost 005 a_nick_32 CASEMAPPING=ascii CHANMODES=o,k,l,inst CHANNELLEN50 CHANTYPES=# HOSTLEN50 LINELEN512 MAXTARGETS20 NICKLEN30 PREFIX=(o)@ TOPICLEN100 USERLEN50 USERMODES=,,,i :are supported by this server
+
+[34mServer: [0mPING :V{o|B~A+|V
+
+[33mClient: [0mPASS jambon
+NICK a_nick_34
+USER a_login 0 * :Real Name
+
+[34mServer: [0m:irc.localhost 001 a_nick_33 :Welcome to the Internet Relay Network a_nick_33!a_login@localhost
+
+[34mServer: [0m:irc.localhost 002 a_nick_33 :Your host is :irc.localhost , running version ircserv-0.0.1
+
+[34mServer: [0m:irc.localhost 003 a_nick_33 :This server was created 23:06:04 Dec 13 2023
+
+[34mServer: [0m:irc.localhost 004 a_nick_33 :irc.localhost  0.0.1 i linst :klo
+
+[34mServer: [0m:irc.localhost 005 a_nick_33 CASEMAPPING=ascii CHANMODES=o,k,l,inst CHANNELLEN50 CHANTYPES=# HOSTLEN50 LINELEN512 MAXTARGETS20 NICKLEN30 PREFIX=(o)@ TOPICLEN100 USERLEN50 USERMODES=,,,i :are supported by this server
+
+[34mServer: [0mPING :V{o|B~A+|V
+
+[33mClient: [0mPASS jambon
+NICK a_nick_35
+USER a_login 0 * :Real Name
+
+[34mServer: [0m:irc.localhost 001 a_nick_34 :Welcome to the Internet Relay Network a_nick_34!a_login@localhost
+
+[34mServer: [0m:irc.localhost 002 a_nick_34 :Your host is :irc.localhost , running version ircserv-0.0.1
+
+[34mServer: [0m:irc.localhost 003 a_nick_34 :This server was created 23:06:04 Dec 13 2023
+
+[34mServer: [0m:irc.localhost 004 a_nick_34 :irc.localhost  0.0.1 i linst :klo
+
+[34mServer: [0m:irc.localhost 005 a_nick_34 CASEMAPPING=ascii CHANMODES=o,k,l,inst CHANNELLEN50 CHANTYPES=# HOSTLEN50 LINELEN512 MAXTARGETS20 NICKLEN30 PREFIX=(o)@ TOPICLEN100 USERLEN50 USERMODES=,,,i :are supported by this server
+
+[34mServer: [0mPING :V{o|B~A+|V
+
+[33mClient: [0mPASS jambon
+NICK a_nick_36
+USER a_login 0 * :Real Name
+
+[34mServer: [0m:irc.localhost 001 a_nick_35 :Welcome to the Internet Relay Network a_nick_35!a_login@localhost
+
+[34mServer: [0m:irc.localhost 002 a_nick_35 :Your host is :irc.localhost , running version ircserv-0.0.1
+
+[34mServer: [0m:irc.localhost 003 a_nick_35 :This server was created 23:06:04 Dec 13 2023
+
+[34mServer: [0m:irc.localhost 004 a_nick_35 :irc.localhost  0.0.1 i linst :klo
+
+[34mServer: [0m:irc.localhost 005 a_nick_35 CASEMAPPING=ascii CHANMODES=o,k,l,inst CHANNELLEN50 CHANTYPES=# HOSTLEN50 LINELEN512 MAXTARGETS20 NICKLEN30 PREFIX=(o)@ TOPICLEN100 USERLEN50 USERMODES=,,,i :are supported by this server
+
+[34mServer: [0mPING :V{o|B~A+|V
+
+[33mClient: [0mPASS jambon
+NICK a_nick_37
+USER a_login 0 * :Real Name
+
+[34mServer: [0m:irc.localhost 001 a_nick_36 :Welcome to the Internet Relay Network a_nick_36!a_login@localhost
+
+[34mServer: [0m:irc.localhost 002 a_nick_36 :Your host is :irc.localhost , running version ircserv-0.0.1
+
+[34mServer: [0m:irc.localhost 003 a_nick_36 :This server was created 23:06:04 Dec 13 2023
+
+[34mServer: [0m:irc.localhost 004 a_nick_36 :irc.localhost  0.0.1 i linst :klo
+
+[34mServer: [0m:irc.localhost 005 a_nick_36 CASEMAPPING=ascii CHANMODES=o,k,l,inst CHANNELLEN50 CHANTYPES=# HOSTLEN50 LINELEN512 MAXTARGETS20 NICKLEN30 PREFIX=(o)@ TOPICLEN100 USERLEN50 USERMODES=,,,i :are supported by this server
+
+[34mServer: [0mPING :V{o|B~A+|V
+
+[33mClient: [0mPASS jambon
+NICK a_nick_38
+USER a_login 0 * :Real Name
+
+[34mServer: [0m:irc.localhost 001 a_nick_37 :Welcome to the Internet Relay Network a_nick_37!a_login@localhost
+
+[34mServer: [0m:irc.localhost 002 a_nick_37 :Your host is :irc.localhost , running version ircserv-0.0.1
+
+[34mServer: [0m:irc.localhost 003 a_nick_37 :This server was created 23:06:04 Dec 13 2023
+
+[34mServer: [0m:irc.localhost 004 a_nick_37 :irc.localhost  0.0.1 i linst :klo
+
+[34mServer: [0m:irc.localhost 005 a_nick_37 CASEMAPPING=ascii CHANMODES=o,k,l,inst CHANNELLEN50 CHANTYPES=# HOSTLEN50 LINELEN512 MAXTARGETS20 NICKLEN30 PREFIX=(o)@ TOPICLEN100 USERLEN50 USERMODES=,,,i :are supported by this server
+
+[34mServer: [0mPING :V{o|B~A+|V
+
+[33mClient: [0mPASS jambon
+NICK a_nick_39
+USER a_login 0 * :Real Name
+
+[34mServer: [0m:irc.localhost 001 a_nick_38 :Welcome to the Internet Relay Network a_nick_38!a_login@localhost
+
+[34mServer: [0m:irc.localhost 002 a_nick_38 :Your host is :irc.localhost , running version ircserv-0.0.1
+
+[34mServer: [0m:irc.localhost 003 a_nick_38 :This server was created 23:06:04 Dec 13 2023
+
+[34mServer: [0m:irc.localhost 004 a_nick_38 :irc.localhost  0.0.1 i linst :klo
+
+[34mServer: [0m:irc.localhost 005 a_nick_38 CASEMAPPING=ascii CHANMODES=o,k,l,inst CHANNELLEN50 CHANTYPES=# HOSTLEN50 LINELEN512 MAXTARGETS20 NICKLEN30 PREFIX=(o)@ TOPICLEN100 USERLEN50 USERMODES=,,,i :are supported by this server
+
+[34mServer: [0mPING :V{o|B~A+|V
+
+[33mClient: [0mPASS jambon
+NICK a_nick_40
+USER a_login 0 * :Real Name
+
+[34mServer: [0m:irc.localhost 001 a_nick_39 :Welcome to the Internet Relay Network a_nick_39!a_login@localhost
+
+[34mServer: [0m:irc.localhost 002 a_nick_39 :Your host is :irc.localhost , running version ircserv-0.0.1
+
+[34mServer: [0m:irc.localhost 003 a_nick_39 :This server was created 23:06:04 Dec 13 2023
+
+[34mServer: [0m:irc.localhost 004 a_nick_39 :irc.localhost  0.0.1 i linst :klo
+
+[34mServer: [0m:irc.localhost 005 a_nick_39 CASEMAPPING=ascii CHANMODES=o,k,l,inst CHANNELLEN50 CHANTYPES=# HOSTLEN50 LINELEN512 MAXTARGETS20 NICKLEN30 PREFIX=(o)@ TOPICLEN100 USERLEN50 USERMODES=,,,i :are supported by this server
+
+[34mServer: [0mPING :V{o|B~A+|V
+
+[33mClient: [0mPASS jambon
+NICK a_nick_41
+USER a_login 0 * :Real Name
+
+[34mServer: [0m:irc.localhost 001 a_nick_40 :Welcome to the Internet Relay Network a_nick_40!a_login@localhost
+
+[34mServer: [0m:irc.localhost 002 a_nick_40 :Your host is :irc.localhost , running version ircserv-0.0.1
+
+[34mServer: [0m:irc.localhost 003 a_nick_40 :This server was created 23:06:04 Dec 13 2023
+
+[34mServer: [0m:irc.localhost 004 a_nick_40 :irc.localhost  0.0.1 i linst :klo
+
+[34mServer: [0m:irc.localhost 005 a_nick_40 CASEMAPPING=ascii CHANMODES=o,k,l,inst CHANNELLEN50 CHANTYPES=# HOSTLEN50 LINELEN512 MAXTARGETS20 NICKLEN30 PREFIX=(o)@ TOPICLEN100 USERLEN50 USERMODES=,,,i :are supported by this server
+
+[34mServer: [0mPING :V{o|B~A+|V
+
+[33mClient: [0mPASS jambon
+NICK a_nick_42
+USER a_login 0 * :Real Name
+
+[34mServer: [0m:irc.localhost 001 a_nick_41 :Welcome to the Internet Relay Network a_nick_41!a_login@localhost
+
+[34mServer: [0m:irc.localhost 002 a_nick_41 :Your host is :irc.localhost , running version ircserv-0.0.1
+
+[34mServer: [0m:irc.localhost 003 a_nick_41 :This server was created 23:06:04 Dec 13 2023
+
+[34mServer: [0m:irc.localhost 004 a_nick_41 :irc.localhost  0.0.1 i linst :klo
+
+[34mServer: [0m:irc.localhost 005 a_nick_41 CASEMAPPING=ascii CHANMODES=o,k,l,inst CHANNELLEN50 CHANTYPES=# HOSTLEN50 LINELEN512 MAXTARGETS20 NICKLEN30 PREFIX=(o)@ TOPICLEN100 USERLEN50 USERMODES=,,,i :are supported by this server
+
+[34mServer: [0mPING :V{o|B~A+|V
+
+[33mClient: [0mPASS jambon
+NICK a_nick_43
+USER a_login 0 * :Real Name
+
+[34mServer: [0m:irc.localhost 001 a_nick_42 :Welcome to the Internet Relay Network a_nick_42!a_login@localhost
+
+[34mServer: [0m:irc.localhost 002 a_nick_42 :Your host is :irc.localhost , running version ircserv-0.0.1
+
+[34mServer: [0m:irc.localhost 003 a_nick_42 :This server was created 23:06:04 Dec 13 2023
+
+[34mServer: [0m:irc.localhost 004 a_nick_42 :irc.localhost  0.0.1 i linst :klo
+
+[34mServer: [0m:irc.localhost 005 a_nick_42 CASEMAPPING=ascii CHANMODES=o,k,l,inst CHANNELLEN50 CHANTYPES=# HOSTLEN50 LINELEN512 MAXTARGETS20 NICKLEN30 PREFIX=(o)@ TOPICLEN100 USERLEN50 USERMODES=,,,i :are supported by this server
+
+[34mServer: [0mPING :V{o|B~A+|V
+
+[33mClient: [0mPASS jambon
+NICK a_nick_44
+USER a_login 0 * :Real Name
+
+[34mServer: [0m:irc.localhost 001 a_nick_43 :Welcome to the Internet Relay Network a_nick_43!a_login@localhost
+
+[34mServer: [0m:irc.localhost 002 a_nick_43 :Your host is :irc.localhost , running version ircserv-0.0.1
+
+[34mServer: [0m:irc.localhost 003 a_nick_43 :This server was created 23:06:04 Dec 13 2023
+
+[34mServer: [0m:irc.localhost 004 a_nick_43 :irc.localhost  0.0.1 i linst :klo
+
+[34mServer: [0m:irc.localhost 005 a_nick_43 CASEMAPPING=ascii CHANMODES=o,k,l,inst CHANNELLEN50 CHANTYPES=# HOSTLEN50 LINELEN512 MAXTARGETS20 NICKLEN30 PREFIX=(o)@ TOPICLEN100 USERLEN50 USERMODES=,,,i :are supported by this server
+
+[34mServer: [0mPING :V{o|B~A+|V
+
+[33mClient: [0mPASS jambon
+NICK a_nick_45
+USER a_login 0 * :Real Name
+
+[34mServer: [0m:irc.localhost 001 a_nick_44 :Welcome to the Internet Relay Network a_nick_44!a_login@localhost
+
+[34mServer: [0m:irc.localhost 002 a_nick_44 :Your host is :irc.localhost , running version ircserv-0.0.1
+
+[34mServer: [0m:irc.localhost 003 a_nick_44 :This server was created 23:06:04 Dec 13 2023
+
+[34mServer: [0m:irc.localhost 004 a_nick_44 :irc.localhost  0.0.1 i linst :klo
+
+[34mServer: [0m:irc.localhost 005 a_nick_44 CASEMAPPING=ascii CHANMODES=o,k,l,inst CHANNELLEN50 CHANTYPES=# HOSTLEN50 LINELEN512 MAXTARGETS20 NICKLEN30 PREFIX=(o)@ TOPICLEN100 USERLEN50 USERMODES=,,,i :are supported by this server
+
+[34mServer: [0mPING :V{o|B~A+|V
+
+[33mClient: [0mPASS jambon
+NICK a_nick_46
+USER a_login 0 * :Real Name
+
+[34mServer: [0m:irc.localhost 001 a_nick_45 :Welcome to the Internet Relay Network a_nick_45!a_login@localhost
+
+[34mServer: [0m:irc.localhost 002 a_nick_45 :Your host is :irc.localhost , running version ircserv-0.0.1
+
+[34mServer: [0m:irc.localhost 003 a_nick_45 :This server was created 23:06:04 Dec 13 2023
+
+[34mServer: [0m:irc.localhost 004 a_nick_45 :irc.localhost  0.0.1 i linst :klo
+
+[34mServer: [0m:irc.localhost 005 a_nick_45 CASEMAPPING=ascii CHANMODES=o,k,l,inst CHANNELLEN50 CHANTYPES=# HOSTLEN50 LINELEN512 MAXTARGETS20 NICKLEN30 PREFIX=(o)@ TOPICLEN100 USERLEN50 USERMODES=,,,i :are supported by this server
+
+[34mServer: [0mPING :V{o|B~A+|V
+
+[33mClient: [0mPASS jambon
+NICK a_nick_47
+USER a_login 0 * :Real Name
+
+[34mServer: [0m:irc.localhost 001 a_nick_46 :Welcome to the Internet Relay Network a_nick_46!a_login@localhost
+
+[34mServer: [0m:irc.localhost 002 a_nick_46 :Your host is :irc.localhost , running version ircserv-0.0.1
+
+[34mServer: [0m:irc.localhost 003 a_nick_46 :This server was created 23:06:04 Dec 13 2023
+
+[34mServer: [0m:irc.localhost 004 a_nick_46 :irc.localhost  0.0.1 i linst :klo
+
+[34mServer: [0m:irc.localhost 005 a_nick_46 CASEMAPPING=ascii CHANMODES=o,k,l,inst CHANNELLEN50 CHANTYPES=# HOSTLEN50 LINELEN512 MAXTARGETS20 NICKLEN30 PREFIX=(o)@ TOPICLEN100 USERLEN50 USERMODES=,,,i :are supported by this server
+
+[34mServer: [0mPING :V{o|B~A+|V
+
+[33mClient: [0mPASS jambon
+NICK a_nick_48
+USER a_login 0 * :Real Name
+
+[34mServer: [0m:irc.localhost 001 a_nick_47 :Welcome to the Internet Relay Network a_nick_47!a_login@localhost
+
+[34mServer: [0m:irc.localhost 002 a_nick_47 :Your host is :irc.localhost , running version ircserv-0.0.1
+
+[34mServer: [0m:irc.localhost 003 a_nick_47 :This server was created 23:06:04 Dec 13 2023
+
+[34mServer: [0m:irc.localhost 004 a_nick_47 :irc.localhost  0.0.1 i linst :klo
+
+[34mServer: [0m:irc.localhost 005 a_nick_47 CASEMAPPING=ascii CHANMODES=o,k,l,inst CHANNELLEN50 CHANTYPES=# HOSTLEN50 LINELEN512 MAXTARGETS20 NICKLEN30 PREFIX=(o)@ TOPICLEN100 USERLEN50 USERMODES=,,,i :are supported by this server
+
+[34mServer: [0mPING :V{o|B~A+|V
+
+[33mClient: [0mPASS jambon
+NICK a_nick_49
+USER a_login 0 * :Real Name
+
+[34mServer: [0m:irc.localhost 001 a_nick_48 :Welcome to the Internet Relay Network a_nick_48!a_login@localhost
+
+[34mServer: [0m:irc.localhost 002 a_nick_48 :Your host is :irc.localhost , running version ircserv-0.0.1
+
+[34mServer: [0m:irc.localhost 003 a_nick_48 :This server was created 23:06:04 Dec 13 2023
+
+[34mServer: [0m:irc.localhost 004 a_nick_48 :irc.localhost  0.0.1 i linst :klo
+
+[34mServer: [0m:irc.localhost 005 a_nick_48 CASEMAPPING=ascii CHANMODES=o,k,l,inst CHANNELLEN50 CHANTYPES=# HOSTLEN50 LINELEN512 MAXTARGETS20 NICKLEN30 PREFIX=(o)@ TOPICLEN100 USERLEN50 USERMODES=,,,i :are supported by this server
+
+[34mServer: [0mPING :V{o|B~A+|V
+
+[33mClient: [0mPASS jambon
+NICK a_nick_50
+USER a_login 0 * :Real Name
+
+[34mServer: [0m:irc.localhost 001 a_nick_49 :Welcome to the Internet Relay Network a_nick_49!a_login@localhost
+
+[34mServer: [0m:irc.localhost 002 a_nick_49 :Your host is :irc.localhost , running version ircserv-0.0.1
+
+[34mServer: [0m:irc.localhost 003 a_nick_49 :This server was created 23:06:04 Dec 13 2023
+
+[34mServer: [0m:irc.localhost 004 a_nick_49 :irc.localhost  0.0.1 i linst :klo
+
+[34mServer: [0m:irc.localhost 005 a_nick_49 CASEMAPPING=ascii CHANMODES=o,k,l,inst CHANNELLEN50 CHANTYPES=# HOSTLEN50 LINELEN512 MAXTARGETS20 NICKLEN30 PREFIX=(o)@ TOPICLEN100 USERLEN50 USERMODES=,,,i :are supported by this server
+
+[34mServer: [0mPING :V{o|B~A+|V
+
+[33mClient: [0mPASS jambon
+NICK a_nick_51
+USER a_login 0 * :Real Name
+
+[34mServer: [0m:irc.localhost 001 a_nick_50 :Welcome to the Internet Relay Network a_nick_50!a_login@localhost
+
+[34mServer: [0m:irc.localhost 002 a_nick_50 :Your host is :irc.localhost , running version ircserv-0.0.1
+
+[34mServer: [0m:irc.localhost 003 a_nick_50 :This server was created 23:06:04 Dec 13 2023
+
+[34mServer: [0m:irc.localhost 004 a_nick_50 :irc.localhost  0.0.1 i linst :klo
+
+[34mServer: [0m:irc.localhost 005 a_nick_50 CASEMAPPING=ascii CHANMODES=o,k,l,inst CHANNELLEN50 CHANTYPES=# HOSTLEN50 LINELEN512 MAXTARGETS20 NICKLEN30 PREFIX=(o)@ TOPICLEN100 USERLEN50 USERMODES=,,,i :are supported by this server
+
+[34mServer: [0mPING :V{o|B~A+|V
+
+[33mClient: [0mPASS jambon
+NICK a_nick_52
+USER a_login 0 * :Real Name
+
+[34mServer: [0m:irc.localhost 001 a_nick_51 :Welcome to the Internet Relay Network a_nick_51!a_login@localhost
+
+[34mServer: [0m:irc.localhost 002 a_nick_51 :Your host is :irc.localhost , running version ircserv-0.0.1
+
+[34mServer: [0m:irc.localhost 003 a_nick_51 :This server was created 23:06:04 Dec 13 2023
+
+[34mServer: [0m:irc.localhost 004 a_nick_51 :irc.localhost  0.0.1 i linst :klo
+
+[34mServer: [0m:irc.localhost 005 a_nick_51 CASEMAPPING=ascii CHANMODES=o,k,l,inst CHANNELLEN50 CHANTYPES=# HOSTLEN50 LINELEN512 MAXTARGETS20 NICKLEN30 PREFIX=(o)@ TOPICLEN100 USERLEN50 USERMODES=,,,i :are supported by this server
+
+[34mServer: [0mPING :V{o|B~A+|V
+
+[33mClient: [0mPASS jambon
+NICK a_nick_53
+USER a_login 0 * :Real Name
+
+[34mServer: [0m:irc.localhost 001 a_nick_52 :Welcome to the Internet Relay Network a_nick_52!a_login@localhost
+
+[34mServer: [0m:irc.localhost 002 a_nick_52 :Your host is :irc.localhost , running version ircserv-0.0.1
+
+[34mServer: [0m:irc.localhost 003 a_nick_52 :This server was created 23:06:04 Dec 13 2023
+
+[34mServer: [0m:irc.localhost 004 a_nick_52 :irc.localhost  0.0.1 i linst :klo
+
+[34mServer: [0m:irc.localhost 005 a_nick_52 CASEMAPPING=ascii CHANMODES=o,k,l,inst CHANNELLEN50 CHANTYPES=# HOSTLEN50 LINELEN512 MAXTARGETS20 NICKLEN30 PREFIX=(o)@ TOPICLEN100 USERLEN50 USERMODES=,,,i :are supported by this server
+
+[34mServer: [0mPING :V{o|B~A+|V
+
+[33mClient: [0mPASS jambon
+NICK a_nick_54
+USER a_login 0 * :Real Name
+
+[34mServer: [0m:irc.localhost 001 a_nick_53 :Welcome to the Internet Relay Network a_nick_53!a_login@localhost
+
+[34mServer: [0m:irc.localhost 002 a_nick_53 :Your host is :irc.localhost , running version ircserv-0.0.1
+
+[34mServer: [0m:irc.localhost 003 a_nick_53 :This server was created 23:06:04 Dec 13 2023
+
+[34mServer: [0m:irc.localhost 004 a_nick_53 :irc.localhost  0.0.1 i linst :klo
+
+[34mServer: [0m:irc.localhost 005 a_nick_53 CASEMAPPING=ascii CHANMODES=o,k,l,inst CHANNELLEN50 CHANTYPES=# HOSTLEN50 LINELEN512 MAXTARGETS20 NICKLEN30 PREFIX=(o)@ TOPICLEN100 USERLEN50 USERMODES=,,,i :are supported by this server
+
+[34mServer: [0mPING :V{o|B~A+|V
+
+[33mClient: [0mPASS jambon
+NICK a_nick_55
+USER a_login 0 * :Real Name
+
+[34mServer: [0m:irc.localhost 001 a_nick_54 :Welcome to the Internet Relay Network a_nick_54!a_login@localhost
+
+[34mServer: [0m:irc.localhost 002 a_nick_54 :Your host is :irc.localhost , running version ircserv-0.0.1
+
+[34mServer: [0m:irc.localhost 003 a_nick_54 :This server was created 23:06:04 Dec 13 2023
+
+[34mServer: [0m:irc.localhost 004 a_nick_54 :irc.localhost  0.0.1 i linst :klo
+
+[34mServer: [0m:irc.localhost 005 a_nick_54 CASEMAPPING=ascii CHANMODES=o,k,l,inst CHANNELLEN50 CHANTYPES=# HOSTLEN50 LINELEN512 MAXTARGETS20 NICKLEN30 PREFIX=(o)@ TOPICLEN100 USERLEN50 USERMODES=,,,i :are supported by this server
+
+[34mServer: [0mPING :V{o|B~A+|V
+
+[33mClient: [0mPASS jambon
+NICK a_nick_56
+USER a_login 0 * :Real Name
+
+[34mServer: [0m:irc.localhost 001 a_nick_55 :Welcome to the Internet Relay Network a_nick_55!a_login@localhost
+
+[34mServer: [0m:irc.localhost 002 a_nick_55 :Your host is :irc.localhost , running version ircserv-0.0.1
+
+[34mServer: [0m:irc.localhost 003 a_nick_55 :This server was created 23:06:04 Dec 13 2023
+
+[34mServer: [0m:irc.localhost 004 a_nick_55 :irc.localhost  0.0.1 i linst :klo
+
+[34mServer: [0m:irc.localhost 005 a_nick_55 CASEMAPPING=ascii CHANMODES=o,k,l,inst CHANNELLEN50 CHANTYPES=# HOSTLEN50 LINELEN512 MAXTARGETS20 NICKLEN30 PREFIX=(o)@ TOPICLEN100 USERLEN50 USERMODES=,,,i :are supported by this server
+
+[34mServer: [0mPING :V{o|B~A+|V
+
+[33mClient: [0mPASS jambon
+NICK a_nick_57
+USER a_login 0 * :Real Name
+
+[34mServer: [0m:irc.localhost 001 a_nick_56 :Welcome to the Internet Relay Network a_nick_56!a_login@localhost
+
+[34mServer: [0m:irc.localhost 002 a_nick_56 :Your host is :irc.localhost , running version ircserv-0.0.1
+
+[34mServer: [0m:irc.localhost 003 a_nick_56 :This server was created 23:06:04 Dec 13 2023
+
+[34mServer: [0m:irc.localhost 004 a_nick_56 :irc.localhost  0.0.1 i linst :klo
+
+[34mServer: [0m:irc.localhost 005 a_nick_56 CASEMAPPING=ascii CHANMODES=o,k,l,inst CHANNELLEN50 CHANTYPES=# HOSTLEN50 LINELEN512 MAXTARGETS20 NICKLEN30 PREFIX=(o)@ TOPICLEN100 USERLEN50 USERMODES=,,,i :are supported by this server
+
+[34mServer: [0mPING :V{o|B~A+|V
+
+[33mClient: [0mPASS jambon
+NICK a_nick_58
+USER a_login 0 * :Real Name
+
+[34mServer: [0m:irc.localhost 001 a_nick_57 :Welcome to the Internet Relay Network a_nick_57!a_login@localhost
+
+[34mServer: [0m:irc.localhost 002 a_nick_57 :Your host is :irc.localhost , running version ircserv-0.0.1
+
+[34mServer: [0m:irc.localhost 003 a_nick_57 :This server was created 23:06:04 Dec 13 2023
+
+[34mServer: [0m:irc.localhost 004 a_nick_57 :irc.localhost  0.0.1 i linst :klo
+
+[34mServer: [0m:irc.localhost 005 a_nick_57 CASEMAPPING=ascii CHANMODES=o,k,l,inst CHANNELLEN50 CHANTYPES=# HOSTLEN50 LINELEN512 MAXTARGETS20 NICKLEN30 PREFIX=(o)@ TOPICLEN100 USERLEN50 USERMODES=,,,i :are supported by this server
+
+[34mServer: [0mPING :V{o|B~A+|V
+
+[33mClient: [0mPASS jambon
+NICK a_nick_59
+USER a_login 0 * :Real Name
+
+[34mServer: [0m:irc.localhost 001 a_nick_58 :Welcome to the Internet Relay Network a_nick_58!a_login@localhost
+
+[34mServer: [0m:irc.localhost 002 a_nick_58 :Your host is :irc.localhost , running version ircserv-0.0.1
+
+[34mServer: [0m:irc.localhost 003 a_nick_58 :This server was created 23:06:04 Dec 13 2023
+
+[34mServer: [0m:irc.localhost 004 a_nick_58 :irc.localhost  0.0.1 i linst :klo
+
+[34mServer: [0m:irc.localhost 005 a_nick_58 CASEMAPPING=ascii CHANMODES=o,k,l,inst CHANNELLEN50 CHANTYPES=# HOSTLEN50 LINELEN512 MAXTARGETS20 NICKLEN30 PREFIX=(o)@ TOPICLEN100 USERLEN50 USERMODES=,,,i :are supported by this server
+
+[34mServer: [0mPING :V{o|B~A+|V
+
+[33mClient: [0mPASS jambon
+NICK a_nick_60
+USER a_login 0 * :Real Name
+
+[34mServer: [0m:irc.localhost 001 a_nick_59 :Welcome to the Internet Relay Network a_nick_59!a_login@localhost
+
+[34mServer: [0m:irc.localhost 002 a_nick_59 :Your host is :irc.localhost , running version ircserv-0.0.1
+
+[34mServer: [0m:irc.localhost 003 a_nick_59 :This server was created 23:06:04 Dec 13 2023
+
+[34mServer: [0m:irc.localhost 004 a_nick_59 :irc.localhost  0.0.1 i linst :klo
+
+[34mServer: [0m:irc.localhost 005 a_nick_59 CASEMAPPING=ascii CHANMODES=o,k,l,inst CHANNELLEN50 CHANTYPES=# HOSTLEN50 LINELEN512 MAXTARGETS20 NICKLEN30 PREFIX=(o)@ TOPICLEN100 USERLEN50 USERMODES=,,,i :are supported by this server
+
+[34mServer: [0mPING :V{o|B~A+|V
+
+[33mClient: [0mPASS jambon
+NICK a_nick_61
+USER a_login 0 * :Real Name
+
+[34mServer: [0m:irc.localhost 001 a_nick_60 :Welcome to the Internet Relay Network a_nick_60!a_login@localhost
+
+[34mServer: [0m:irc.localhost 002 a_nick_60 :Your host is :irc.localhost , running version ircserv-0.0.1
+
+[34mServer: [0m:irc.localhost 003 a_nick_60 :This server was created 23:06:04 Dec 13 2023
+
+[34mServer: [0m:irc.localhost 004 a_nick_60 :irc.localhost  0.0.1 i linst :klo
+
+[34mServer: [0m:irc.localhost 005 a_nick_60 CASEMAPPING=ascii CHANMODES=o,k,l,inst CHANNELLEN50 CHANTYPES=# HOSTLEN50 LINELEN512 MAXTARGETS20 NICKLEN30 PREFIX=(o)@ TOPICLEN100 USERLEN50 USERMODES=,,,i :are supported by this server
+
+[34mServer: [0mPING :V{o|B~A+|V
+
+[33mClient: [0mPASS jambon
+NICK a_nick_62
+USER a_login 0 * :Real Name
+
+[34mServer: [0m:irc.localhost 001 a_nick_61 :Welcome to the Internet Relay Network a_nick_61!a_login@localhost
+
+[34mServer: [0m:irc.localhost 002 a_nick_61 :Your host is :irc.localhost , running version ircserv-0.0.1
+
+[34mServer: [0m:irc.localhost 003 a_nick_61 :This server was created 23:06:04 Dec 13 2023
+
+[34mServer: [0m:irc.localhost 004 a_nick_61 :irc.localhost  0.0.1 i linst :klo
+
+[34mServer: [0m:irc.localhost 005 a_nick_61 CASEMAPPING=ascii CHANMODES=o,k,l,inst CHANNELLEN50 CHANTYPES=# HOSTLEN50 LINELEN512 MAXTARGETS20 NICKLEN30 PREFIX=(o)@ TOPICLEN100 USERLEN50 USERMODES=,,,i :are supported by this server
+
+[34mServer: [0mPING :V{o|B~A+|V
+
+[33mClient: [0mPASS jambon
+NICK a_nick_63
+USER a_login 0 * :Real Name
+
+[34mServer: [0m:irc.localhost 001 a_nick_62 :Welcome to the Internet Relay Network a_nick_62!a_login@localhost
+
+[34mServer: [0m:irc.localhost 002 a_nick_62 :Your host is :irc.localhost , running version ircserv-0.0.1
+
+[34mServer: [0m:irc.localhost 003 a_nick_62 :This server was created 23:06:04 Dec 13 2023
+
+[34mServer: [0m:irc.localhost 004 a_nick_62 :irc.localhost  0.0.1 i linst :klo
+
+[34mServer: [0m:irc.localhost 005 a_nick_62 CASEMAPPING=ascii CHANMODES=o,k,l,inst CHANNELLEN50 CHANTYPES=# HOSTLEN50 LINELEN512 MAXTARGETS20 NICKLEN30 PREFIX=(o)@ TOPICLEN100 USERLEN50 USERMODES=,,,i :are supported by this server
+
+[34mServer: [0mPING :V{o|B~A+|V
+
+[33mClient: [0mPASS jambon
+NICK a_nick_64
+USER a_login 0 * :Real Name
+
+[34mServer: [0m:irc.localhost 001 a_nick_63 :Welcome to the Internet Relay Network a_nick_63!a_login@localhost
+
+[34mServer: [0m:irc.localhost 002 a_nick_63 :Your host is :irc.localhost , running version ircserv-0.0.1
+
+[34mServer: [0m:irc.localhost 003 a_nick_63 :This server was created 23:06:04 Dec 13 2023
+
+[34mServer: [0m:irc.localhost 004 a_nick_63 :irc.localhost  0.0.1 i linst :klo
+
+[34mServer: [0m:irc.localhost 005 a_nick_63 CASEMAPPING=ascii CHANMODES=o,k,l,inst CHANNELLEN50 CHANTYPES=# HOSTLEN50 LINELEN512 MAXTARGETS20 NICKLEN30 PREFIX=(o)@ TOPICLEN100 USERLEN50 USERMODES=,,,i :are supported by this server
+
+[34mServer: [0mPING :V{o|B~A+|V
+
+[33mClient: [0mPASS jambon
+NICK a_nick_65
+USER a_login 0 * :Real Name
+
+[34mServer: [0m:irc.localhost 001 a_nick_64 :Welcome to the Internet Relay Network a_nick_64!a_login@localhost
+
+[34mServer: [0m:irc.localhost 002 a_nick_64 :Your host is :irc.localhost , running version ircserv-0.0.1
+
+[34mServer: [0m:irc.localhost 003 a_nick_64 :This server was created 23:06:04 Dec 13 2023
+
+[34mServer: [0m:irc.localhost 004 a_nick_64 :irc.localhost  0.0.1 i linst :klo
+
+[34mServer: [0m:irc.localhost 005 a_nick_64 CASEMAPPING=ascii CHANMODES=o,k,l,inst CHANNELLEN50 CHANTYPES=# HOSTLEN50 LINELEN512 MAXTARGETS20 NICKLEN30 PREFIX=(o)@ TOPICLEN100 USERLEN50 USERMODES=,,,i :are supported by this server
+
+[34mServer: [0mPING :V{o|B~A+|V
+
+[33mClient: [0mPASS jambon
+NICK a_nick_66
+USER a_login 0 * :Real Name
+
+[34mServer: [0m:irc.localhost 001 a_nick_65 :Welcome to the Internet Relay Network a_nick_65!a_login@localhost
+
+[34mServer: [0m:irc.localhost 002 a_nick_65 :Your host is :irc.localhost , running version ircserv-0.0.1
+
+[34mServer: [0m:irc.localhost 003 a_nick_65 :This server was created 23:06:04 Dec 13 2023
+
+[34mServer: [0m:irc.localhost 004 a_nick_65 :irc.localhost  0.0.1 i linst :klo
+
+[34mServer: [0m:irc.localhost 005 a_nick_65 CASEMAPPING=ascii CHANMODES=o,k,l,inst CHANNELLEN50 CHANTYPES=# HOSTLEN50 LINELEN512 MAXTARGETS20 NICKLEN30 PREFIX=(o)@ TOPICLEN100 USERLEN50 USERMODES=,,,i :are supported by this server
+
+[34mServer: [0mPING :V{o|B~A+|V
+
+[33mClient: [0mPASS jambon
+NICK a_nick_67
+USER a_login 0 * :Real Name
+
+[34mServer: [0m:irc.localhost 001 a_nick_66 :Welcome to the Internet Relay Network a_nick_66!a_login@localhost
+
+[34mServer: [0m:irc.localhost 002 a_nick_66 :Your host is :irc.localhost , running version ircserv-0.0.1
+
+[34mServer: [0m:irc.localhost 003 a_nick_66 :This server was created 23:06:04 Dec 13 2023
+
+[34mServer: [0m:irc.localhost 004 a_nick_66 :irc.localhost  0.0.1 i linst :klo
+
+[34mServer: [0m:irc.localhost 005 a_nick_66 CASEMAPPING=ascii CHANMODES=o,k,l,inst CHANNELLEN50 CHANTYPES=# HOSTLEN50 LINELEN512 MAXTARGETS20 NICKLEN30 PREFIX=(o)@ TOPICLEN100 USERLEN50 USERMODES=,,,i :are supported by this server
+
+[34mServer: [0mPING :V{o|B~A+|V
+
+[33mClient: [0mPASS jambon
+NICK a_nick_68
+USER a_login 0 * :Real Name
+
+[34mServer: [0m:irc.localhost 001 a_nick_67 :Welcome to the Internet Relay Network a_nick_67!a_login@localhost
+
+[34mServer: [0m:irc.localhost 002 a_nick_67 :Your host is :irc.localhost , running version ircserv-0.0.1
+
+[34mServer: [0m:irc.localhost 003 a_nick_67 :This server was created 23:06:04 Dec 13 2023
+
+[34mServer: [0m:irc.localhost 004 a_nick_67 :irc.localhost  0.0.1 i linst :klo
+
+[34mServer: [0m:irc.localhost 005 a_nick_67 CASEMAPPING=ascii CHANMODES=o,k,l,inst CHANNELLEN50 CHANTYPES=# HOSTLEN50 LINELEN512 MAXTARGETS20 NICKLEN30 PREFIX=(o)@ TOPICLEN100 USERLEN50 USERMODES=,,,i :are supported by this server
+
+[34mServer: [0mPING :V{o|B~A+|V
+
+[33mClient: [0mPASS jambon
+NICK a_nick_69
+USER a_login 0 * :Real Name
+
+[34mServer: [0m:irc.localhost 001 a_nick_68 :Welcome to the Internet Relay Network a_nick_68!a_login@localhost
+
+[34mServer: [0m:irc.localhost 002 a_nick_68 :Your host is :irc.localhost , running version ircserv-0.0.1
+
+[34mServer: [0m:irc.localhost 003 a_nick_68 :This server was created 23:06:04 Dec 13 2023
+
+[34mServer: [0m:irc.localhost 004 a_nick_68 :irc.localhost  0.0.1 i linst :klo
+
+[34mServer: [0m:irc.localhost 005 a_nick_68 CASEMAPPING=ascii CHANMODES=o,k,l,inst CHANNELLEN50 CHANTYPES=# HOSTLEN50 LINELEN512 MAXTARGETS20 NICKLEN30 PREFIX=(o)@ TOPICLEN100 USERLEN50 USERMODES=,,,i :are supported by this server
+
+[34mServer: [0mPING :V{o|B~A+|V
+
+[33mClient: [0mPASS jambon
+NICK a_nick_70
+USER a_login 0 * :Real Name
+
+[34mServer: [0m:irc.localhost 001 a_nick_69 :Welcome to the Internet Relay Network a_nick_69!a_login@localhost
+
+[34mServer: [0m:irc.localhost 002 a_nick_69 :Your host is :irc.localhost , running version ircserv-0.0.1
+
+[34mServer: [0m:irc.localhost 003 a_nick_69 :This server was created 23:06:04 Dec 13 2023
+
+[34mServer: [0m:irc.localhost 004 a_nick_69 :irc.localhost  0.0.1 i linst :klo
+
+[34mServer: [0m:irc.localhost 005 a_nick_69 CASEMAPPING=ascii CHANMODES=o,k,l,inst CHANNELLEN50 CHANTYPES=# HOSTLEN50 LINELEN512 MAXTARGETS20 NICKLEN30 PREFIX=(o)@ TOPICLEN100 USERLEN50 USERMODES=,,,i :are supported by this server
+
+[34mServer: [0mPING :V{o|B~A+|V
+
+[33mClient: [0mPASS jambon
+NICK a_nick_71
+USER a_login 0 * :Real Name
+
+[34mServer: [0m:irc.localhost 001 a_nick_70 :Welcome to the Internet Relay Network a_nick_70!a_login@localhost
+
+[34mServer: [0m:irc.localhost 002 a_nick_70 :Your host is :irc.localhost , running version ircserv-0.0.1
+
+[34mServer: [0m:irc.localhost 003 a_nick_70 :This server was created 23:06:04 Dec 13 2023
+
+[34mServer: [0m:irc.localhost 004 a_nick_70 :irc.localhost  0.0.1 i linst :klo
+
+[34mServer: [0m:irc.localhost 005 a_nick_70 CASEMAPPING=ascii CHANMODES=o,k,l,inst CHANNELLEN50 CHANTYPES=# HOSTLEN50 LINELEN512 MAXTARGETS20 NICKLEN30 PREFIX=(o)@ TOPICLEN100 USERLEN50 USERMODES=,,,i :are supported by this server
+
+[34mServer: [0mPING :V{o|B~A+|V
+
+[33mClient: [0mPASS jambon
+NICK a_nick_72
+USER a_login 0 * :Real Name
+
+[34mServer: [0m:irc.localhost 001 a_nick_71 :Welcome to the Internet Relay Network a_nick_71!a_login@localhost
+
+[34mServer: [0m:irc.localhost 002 a_nick_71 :Your host is :irc.localhost , running version ircserv-0.0.1
+
+[34mServer: [0m:irc.localhost 003 a_nick_71 :This server was created 23:06:04 Dec 13 2023
+
+[34mServer: [0m:irc.localhost 004 a_nick_71 :irc.localhost  0.0.1 i linst :klo
+
+[34mServer: [0m:irc.localhost 005 a_nick_71 CASEMAPPING=ascii CHANMODES=o,k,l,inst CHANNELLEN50 CHANTYPES=# HOSTLEN50 LINELEN512 MAXTARGETS20 NICKLEN30 PREFIX=(o)@ TOPICLEN100 USERLEN50 USERMODES=,,,i :are supported by this server
+
+[34mServer: [0mPING :V{o|B~A+|V
+
+[33mClient: [0mPASS jambon
+NICK a_nick_73
+USER a_login 0 * :Real Name
+
+[34mServer: [0m:irc.localhost 001 a_nick_72 :Welcome to the Internet Relay Network a_nick_72!a_login@localhost
+
+[34mServer: [0m:irc.localhost 002 a_nick_72 :Your host is :irc.localhost , running version ircserv-0.0.1
+
+[34mServer: [0m:irc.localhost 003 a_nick_72 :This server was created 23:06:04 Dec 13 2023
+
+[34mServer: [0m:irc.localhost 004 a_nick_72 :irc.localhost  0.0.1 i linst :klo
+
+[34mServer: [0m:irc.localhost 005 a_nick_72 CASEMAPPING=ascii CHANMODES=o,k,l,inst CHANNELLEN50 CHANTYPES=# HOSTLEN50 LINELEN512 MAXTARGETS20 NICKLEN30 PREFIX=(o)@ TOPICLEN100 USERLEN50 USERMODES=,,,i :are supported by this server
+
+[34mServer: [0mPING :V{o|B~A+|V
+
+[33mClient: [0mPASS jambon
+NICK a_nick_74
+USER a_login 0 * :Real Name
+
+[34mServer: [0m:irc.localhost 001 a_nick_73 :Welcome to the Internet Relay Network a_nick_73!a_login@localhost
+
+[34mServer: [0m:irc.localhost 002 a_nick_73 :Your host is :irc.localhost , running version ircserv-0.0.1
+
+[34mServer: [0m:irc.localhost 003 a_nick_73 :This server was created 23:06:04 Dec 13 2023
+
+[34mServer: [0m:irc.localhost 004 a_nick_73 :irc.localhost  0.0.1 i linst :klo
+
+[34mServer: [0m:irc.localhost 005 a_nick_73 CASEMAPPING=ascii CHANMODES=o,k,l,inst CHANNELLEN50 CHANTYPES=# HOSTLEN50 LINELEN512 MAXTARGETS20 NICKLEN30 PREFIX=(o)@ TOPICLEN100 USERLEN50 USERMODES=,,,i :are supported by this server
+
+[34mServer: [0mPING :V{o|B~A+|V
+
+[33mClient: [0mPASS jambon
+NICK a_nick_75
+USER a_login 0 * :Real Name
+
+[34mServer: [0m:irc.localhost 001 a_nick_74 :Welcome to the Internet Relay Network a_nick_74!a_login@localhost
+
+[34mServer: [0m:irc.localhost 002 a_nick_74 :Your host is :irc.localhost , running version ircserv-0.0.1
+
+[34mServer: [0m:irc.localhost 003 a_nick_74 :This server was created 23:06:04 Dec 13 2023
+
+[34mServer: [0m:irc.localhost 004 a_nick_74 :irc.localhost  0.0.1 i linst :klo
+
+[34mServer: [0m:irc.localhost 005 a_nick_74 CASEMAPPING=ascii CHANMODES=o,k,l,inst CHANNELLEN50 CHANTYPES=# HOSTLEN50 LINELEN512 MAXTARGETS20 NICKLEN30 PREFIX=(o)@ TOPICLEN100 USERLEN50 USERMODES=,,,i :are supported by this server
+
+[34mServer: [0mPING :V{o|B~A+|V
+
+[33mClient: [0mPASS jambon
+NICK a_nick_76
+USER a_login 0 * :Real Name
+
+[34mServer: [0m:irc.localhost 001 a_nick_75 :Welcome to the Internet Relay Network a_nick_75!a_login@localhost
+
+[34mServer: [0m:irc.localhost 002 a_nick_75 :Your host is :irc.localhost , running version ircserv-0.0.1
+
+[34mServer: [0m:irc.localhost 003 a_nick_75 :This server was created 23:06:04 Dec 13 2023
+
+[34mServer: [0m:irc.localhost 004 a_nick_75 :irc.localhost  0.0.1 i linst :klo
+
+[34mServer: [0m:irc.localhost 005 a_nick_75 CASEMAPPING=ascii CHANMODES=o,k,l,inst CHANNELLEN50 CHANTYPES=# HOSTLEN50 LINELEN512 MAXTARGETS20 NICKLEN30 PREFIX=(o)@ TOPICLEN100 USERLEN50 USERMODES=,,,i :are supported by this server
+
+[34mServer: [0mPING :V{o|B~A+|V
+
+[33mClient: [0mPASS jambon
+NICK a_nick_77
+USER a_login 0 * :Real Name
+
+[34mServer: [0m:irc.localhost 001 a_nick_76 :Welcome to the Internet Relay Network a_nick_76!a_login@localhost
+
+[34mServer: [0m:irc.localhost 002 a_nick_76 :Your host is :irc.localhost , running version ircserv-0.0.1
+
+[34mServer: [0m:irc.localhost 003 a_nick_76 :This server was created 23:06:04 Dec 13 2023
+
+[34mServer: [0m:irc.localhost 004 a_nick_76 :irc.localhost  0.0.1 i linst :klo
+
+[34mServer: [0m:irc.localhost 005 a_nick_76 CASEMAPPING=ascii CHANMODES=o,k,l,inst CHANNELLEN50 CHANTYPES=# HOSTLEN50 LINELEN512 MAXTARGETS20 NICKLEN30 PREFIX=(o)@ TOPICLEN100 USERLEN50 USERMODES=,,,i :are supported by this server
+
+[34mServer: [0mPING :V{o|B~A+|V
+
+[33mClient: [0mPASS jambon
+NICK a_nick_78
+USER a_login 0 * :Real Name
+
+[34mServer: [0m:irc.localhost 001 a_nick_77 :Welcome to the Internet Relay Network a_nick_77!a_login@localhost
+
+[34mServer: [0m:irc.localhost 002 a_nick_77 :Your host is :irc.localhost , running version ircserv-0.0.1
+
+[34mServer: [0m:irc.localhost 003 a_nick_77 :This server was created 23:06:04 Dec 13 2023
+
+[34mServer: [0m:irc.localhost 004 a_nick_77 :irc.localhost  0.0.1 i linst :klo
+
+[34mServer: [0m:irc.localhost 005 a_nick_77 CASEMAPPING=ascii CHANMODES=o,k,l,inst CHANNELLEN50 CHANTYPES=# HOSTLEN50 LINELEN512 MAXTARGETS20 NICKLEN30 PREFIX=(o)@ TOPICLEN100 USERLEN50 USERMODES=,,,i :are supported by this server
+
+[34mServer: [0mPING :V{o|B~A+|V
+
+[33mClient: [0mPASS jambon
+NICK a_nick_79
+USER a_login 0 * :Real Name
+
+[34mServer: [0m:irc.localhost 001 a_nick_78 :Welcome to the Internet Relay Network a_nick_78!a_login@localhost
+
+[34mServer: [0m:irc.localhost 002 a_nick_78 :Your host is :irc.localhost , running version ircserv-0.0.1
+
+[34mServer: [0m:irc.localhost 003 a_nick_78 :This server was created 23:06:04 Dec 13 2023
+
+[34mServer: [0m:irc.localhost 004 a_nick_78 :irc.localhost  0.0.1 i linst :klo
+
+[34mServer: [0m:irc.localhost 005 a_nick_78 CASEMAPPING=ascii CHANMODES=o,k,l,inst CHANNELLEN50 CHANTYPES=# HOSTLEN50 LINELEN512 MAXTARGETS20 NICKLEN30 PREFIX=(o)@ TOPICLEN100 USERLEN50 USERMODES=,,,i :are supported by this server
+
+[34mServer: [0mPING :V{o|B~A+|V
+
+[33mClient: [0mPASS jambon
+NICK a_nick_80
+USER a_login 0 * :Real Name
+
+[34mServer: [0m:irc.localhost 001 a_nick_79 :Welcome to the Internet Relay Network a_nick_79!a_login@localhost
+
+[34mServer: [0m:irc.localhost 002 a_nick_79 :Your host is :irc.localhost , running version ircserv-0.0.1
+
+[34mServer: [0m:irc.localhost 003 a_nick_79 :This server was created 23:06:04 Dec 13 2023
+
+[34mServer: [0m:irc.localhost 004 a_nick_79 :irc.localhost  0.0.1 i linst :klo
+
+[34mServer: [0m:irc.localhost 005 a_nick_79 CASEMAPPING=ascii CHANMODES=o,k,l,inst CHANNELLEN50 CHANTYPES=# HOSTLEN50 LINELEN512 MAXTARGETS20 NICKLEN30 PREFIX=(o)@ TOPICLEN100 USERLEN50 USERMODES=,,,i :are supported by this server
+
+[34mServer: [0mPING :V{o|B~A+|V
+
+[33mClient: [0mPASS jambon
+NICK a_nick_81
+USER a_login 0 * :Real Name
+
+[34mServer: [0m:irc.localhost 001 a_nick_80 :Welcome to the Internet Relay Network a_nick_80!a_login@localhost
+
+[34mServer: [0m:irc.localhost 002 a_nick_80 :Your host is :irc.localhost , running version ircserv-0.0.1
+
+[34mServer: [0m:irc.localhost 003 a_nick_80 :This server was created 23:06:04 Dec 13 2023
+
+[34mServer: [0m:irc.localhost 004 a_nick_80 :irc.localhost  0.0.1 i linst :klo
+
+[34mServer: [0m:irc.localhost 005 a_nick_80 CASEMAPPING=ascii CHANMODES=o,k,l,inst CHANNELLEN50 CHANTYPES=# HOSTLEN50 LINELEN512 MAXTARGETS20 NICKLEN30 PREFIX=(o)@ TOPICLEN100 USERLEN50 USERMODES=,,,i :are supported by this server
+
+[34mServer: [0mPING :V{o|B~A+|V
+
+[33mClient: [0mPASS jambon
+NICK a_nick_82
+USER a_login 0 * :Real Name
+
+[34mServer: [0m:irc.localhost 001 a_nick_81 :Welcome to the Internet Relay Network a_nick_81!a_login@localhost
+
+[34mServer: [0m:irc.localhost 002 a_nick_81 :Your host is :irc.localhost , running version ircserv-0.0.1
+
+[34mServer: [0m:irc.localhost 003 a_nick_81 :This server was created 23:06:04 Dec 13 2023
+
+[34mServer: [0m:irc.localhost 004 a_nick_81 :irc.localhost  0.0.1 i linst :klo
+
+[34mServer: [0m:irc.localhost 005 a_nick_81 CASEMAPPING=ascii CHANMODES=o,k,l,inst CHANNELLEN50 CHANTYPES=# HOSTLEN50 LINELEN512 MAXTARGETS20 NICKLEN30 PREFIX=(o)@ TOPICLEN100 USERLEN50 USERMODES=,,,i :are supported by this server
+
+[34mServer: [0mPING :V{o|B~A+|V
+
+[33mClient: [0mPASS jambon
+NICK a_nick_83
+USER a_login 0 * :Real Name
+
+[34mServer: [0m:irc.localhost 001 a_nick_82 :Welcome to the Internet Relay Network a_nick_82!a_login@localhost
+
+[34mServer: [0m:irc.localhost 002 a_nick_82 :Your host is :irc.localhost , running version ircserv-0.0.1
+
+[34mServer: [0m:irc.localhost 003 a_nick_82 :This server was created 23:06:04 Dec 13 2023
+
+[34mServer: [0m:irc.localhost 004 a_nick_82 :irc.localhost  0.0.1 i linst :klo
+
+[34mServer: [0m:irc.localhost 005 a_nick_82 CASEMAPPING=ascii CHANMODES=o,k,l,inst CHANNELLEN50 CHANTYPES=# HOSTLEN50 LINELEN512 MAXTARGETS20 NICKLEN30 PREFIX=(o)@ TOPICLEN100 USERLEN50 USERMODES=,,,i :are supported by this server
+
+[34mServer: [0mPING :V{o|B~A+|V
+
+[33mClient: [0mPASS jambon
+NICK a_nick_84
+USER a_login 0 * :Real Name
+
+[34mServer: [0m:irc.localhost 001 a_nick_83 :Welcome to the Internet Relay Network a_nick_83!a_login@localhost
+
+[34mServer: [0m:irc.localhost 002 a_nick_83 :Your host is :irc.localhost , running version ircserv-0.0.1
+
+[34mServer: [0m:irc.localhost 003 a_nick_83 :This server was created 23:06:04 Dec 13 2023
+
+[34mServer: [0m:irc.localhost 004 a_nick_83 :irc.localhost  0.0.1 i linst :klo
+
+[34mServer: [0m:irc.localhost 005 a_nick_83 CASEMAPPING=ascii CHANMODES=o,k,l,inst CHANNELLEN50 CHANTYPES=# HOSTLEN50 LINELEN512 MAXTARGETS20 NICKLEN30 PREFIX=(o)@ TOPICLEN100 USERLEN50 USERMODES=,,,i :are supported by this server
+
+[34mServer: [0mPING :V{o|B~A+|V
+
+[33mClient: [0mPASS jambon
+NICK a_nick_85
+USER a_login 0 * :Real Name
+
+[34mServer: [0m:irc.localhost 001 a_nick_84 :Welcome to the Internet Relay Network a_nick_84!a_login@localhost
+
+[34mServer: [0m:irc.localhost 002 a_nick_84 :Your host is :irc.localhost , running version ircserv-0.0.1
+
+[34mServer: [0m:irc.localhost 003 a_nick_84 :This server was created 23:06:04 Dec 13 2023
+
+[34mServer: [0m:irc.localhost 004 a_nick_84 :irc.localhost  0.0.1 i linst :klo
+
+[34mServer: [0m:irc.localhost 005 a_nick_84 CASEMAPPING=ascii CHANMODES=o,k,l,inst CHANNELLEN50 CHANTYPES=# HOSTLEN50 LINELEN512 MAXTARGETS20 NICKLEN30 PREFIX=(o)@ TOPICLEN100 USERLEN50 USERMODES=,,,i :are supported by this server
+
+[34mServer: [0mPING :V{o|B~A+|V
+
+[33mClient: [0mPASS jambon
+NICK a_nick_86
+USER a_login 0 * :Real Name
+
+[34mServer: [0m:irc.localhost 001 a_nick_85 :Welcome to the Internet Relay Network a_nick_85!a_login@localhost
+
+[34mServer: [0m:irc.localhost 002 a_nick_85 :Your host is :irc.localhost , running version ircserv-0.0.1
+
+[34mServer: [0m:irc.localhost 003 a_nick_85 :This server was created 23:06:04 Dec 13 2023
+
+[34mServer: [0m:irc.localhost 004 a_nick_85 :irc.localhost  0.0.1 i linst :klo
+
+[34mServer: [0m:irc.localhost 005 a_nick_85 CASEMAPPING=ascii CHANMODES=o,k,l,inst CHANNELLEN50 CHANTYPES=# HOSTLEN50 LINELEN512 MAXTARGETS20 NICKLEN30 PREFIX=(o)@ TOPICLEN100 USERLEN50 USERMODES=,,,i :are supported by this server
+
+[34mServer: [0mPING :V{o|B~A+|V
+
+[33mClient: [0mPASS jambon
+NICK a_nick_87
+USER a_login 0 * :Real Name
+
+[34mServer: [0m:irc.localhost 001 a_nick_86 :Welcome to the Internet Relay Network a_nick_86!a_login@localhost
+
+[34mServer: [0m:irc.localhost 002 a_nick_86 :Your host is :irc.localhost , running version ircserv-0.0.1
+
+[34mServer: [0m:irc.localhost 003 a_nick_86 :This server was created 23:06:04 Dec 13 2023
+
+[34mServer: [0m:irc.localhost 004 a_nick_86 :irc.localhost  0.0.1 i linst :klo
+
+[34mServer: [0m:irc.localhost 005 a_nick_86 CASEMAPPING=ascii CHANMODES=o,k,l,inst CHANNELLEN50 CHANTYPES=# HOSTLEN50 LINELEN512 MAXTARGETS20 NICKLEN30 PREFIX=(o)@ TOPICLEN100 USERLEN50 USERMODES=,,,i :are supported by this server
+
+[34mServer: [0mPING :V{o|B~A+|V
+
+[33mClient: [0mPASS jambon
+NICK a_nick_88
+USER a_login 0 * :Real Name
+
+[34mServer: [0m:irc.localhost 001 a_nick_87 :Welcome to the Internet Relay Network a_nick_87!a_login@localhost
+
+[34mServer: [0m:irc.localhost 002 a_nick_87 :Your host is :irc.localhost , running version ircserv-0.0.1
+
+[34mServer: [0m:irc.localhost 003 a_nick_87 :This server was created 23:06:04 Dec 13 2023
+
+[34mServer: [0m:irc.localhost 004 a_nick_87 :irc.localhost  0.0.1 i linst :klo
+
+[34mServer: [0m:irc.localhost 005 a_nick_87 CASEMAPPING=ascii CHANMODES=o,k,l,inst CHANNELLEN50 CHANTYPES=# HOSTLEN50 LINELEN512 MAXTARGETS20 NICKLEN30 PREFIX=(o)@ TOPICLEN100 USERLEN50 USERMODES=,,,i :are supported by this server
+
+[34mServer: [0mPING :V{o|B~A+|V
+
+[33mClient: [0mPASS jambon
+NICK a_nick_89
+USER a_login 0 * :Real Name
+
+[34mServer: [0m:irc.localhost 001 a_nick_88 :Welcome to the Internet Relay Network a_nick_88!a_login@localhost
+
+[34mServer: [0m:irc.localhost 002 a_nick_88 :Your host is :irc.localhost , running version ircserv-0.0.1
+
+[34mServer: [0m:irc.localhost 003 a_nick_88 :This server was created 23:06:04 Dec 13 2023
+
+[34mServer: [0m:irc.localhost 004 a_nick_88 :irc.localhost  0.0.1 i linst :klo
+
+[34mServer: [0m:irc.localhost 005 a_nick_88 CASEMAPPING=ascii CHANMODES=o,k,l,inst CHANNELLEN50 CHANTYPES=# HOSTLEN50 LINELEN512 MAXTARGETS20 NICKLEN30 PREFIX=(o)@ TOPICLEN100 USERLEN50 USERMODES=,,,i :are supported by this server
+
+[34mServer: [0mPING :V{o|B~A+|V
+
+[33mClient: [0mPASS jambon
+NICK a_nick_90
+USER a_login 0 * :Real Name
+
+[34mServer: [0m:irc.localhost 001 a_nick_89 :Welcome to the Internet Relay Network a_nick_89!a_login@localhost
+
+[34mServer: [0m:irc.localhost 002 a_nick_89 :Your host is :irc.localhost , running version ircserv-0.0.1
+
+[34mServer: [0m:irc.localhost 003 a_nick_89 :This server was created 23:06:04 Dec 13 2023
+
+[34mServer: [0m:irc.localhost 004 a_nick_89 :irc.localhost  0.0.1 i linst :klo
+
+[34mServer: [0m:irc.localhost 005 a_nick_89 CASEMAPPING=ascii CHANMODES=o,k,l,inst CHANNELLEN50 CHANTYPES=# HOSTLEN50 LINELEN512 MAXTARGETS20 NICKLEN30 PREFIX=(o)@ TOPICLEN100 USERLEN50 USERMODES=,,,i :are supported by this server
+
+[34mServer: [0mPING :V{o|B~A+|V
+
+[33mClient: [0mPASS jambon
+NICK a_nick_91
+USER a_login 0 * :Real Name
+
+[34mServer: [0m:irc.localhost 001 a_nick_90 :Welcome to the Internet Relay Network a_nick_90!a_login@localhost
+
+[34mServer: [0m:irc.localhost 002 a_nick_90 :Your host is :irc.localhost , running version ircserv-0.0.1
+
+[34mServer: [0m:irc.localhost 003 a_nick_90 :This server was created 23:06:04 Dec 13 2023
+
+[34mServer: [0m:irc.localhost 004 a_nick_90 :irc.localhost  0.0.1 i linst :klo
+
+[34mServer: [0m:irc.localhost 005 a_nick_90 CASEMAPPING=ascii CHANMODES=o,k,l,inst CHANNELLEN50 CHANTYPES=# HOSTLEN50 LINELEN512 MAXTARGETS20 NICKLEN30 PREFIX=(o)@ TOPICLEN100 USERLEN50 USERMODES=,,,i :are supported by this server
+
+[34mServer: [0mPING :V{o|B~A+|V
+
+[33mClient: [0mPASS jambon
+NICK a_nick_92
+USER a_login 0 * :Real Name
+
+[34mServer: [0m:irc.localhost 001 a_nick_91 :Welcome to the Internet Relay Network a_nick_91!a_login@localhost
+
+[34mServer: [0m:irc.localhost 002 a_nick_91 :Your host is :irc.localhost , running version ircserv-0.0.1
+
+[34mServer: [0m:irc.localhost 003 a_nick_91 :This server was created 23:06:04 Dec 13 2023
+
+[34mServer: [0m:irc.localhost 004 a_nick_91 :irc.localhost  0.0.1 i linst :klo
+
+[34mServer: [0m:irc.localhost 005 a_nick_91 CASEMAPPING=ascii CHANMODES=o,k,l,inst CHANNELLEN50 CHANTYPES=# HOSTLEN50 LINELEN512 MAXTARGETS20 NICKLEN30 PREFIX=(o)@ TOPICLEN100 USERLEN50 USERMODES=,,,i :are supported by this server
+
+[34mServer: [0mPING :V{o|B~A+|V
+
+[33mClient: [0mPASS jambon
+NICK a_nick_93
+USER a_login 0 * :Real Name
+
+[34mServer: [0m:irc.localhost 001 a_nick_92 :Welcome to the Internet Relay Network a_nick_92!a_login@localhost
+
+[34mServer: [0m:irc.localhost 002 a_nick_92 :Your host is :irc.localhost , running version ircserv-0.0.1
+
+[34mServer: [0m:irc.localhost 003 a_nick_92 :This server was created 23:06:04 Dec 13 2023
+
+[34mServer: [0m:irc.localhost 004 a_nick_92 :irc.localhost  0.0.1 i linst :klo
+
+[34mServer: [0m:irc.localhost 005 a_nick_92 CASEMAPPING=ascii CHANMODES=o,k,l,inst CHANNELLEN50 CHANTYPES=# HOSTLEN50 LINELEN512 MAXTARGETS20 NICKLEN30 PREFIX=(o)@ TOPICLEN100 USERLEN50 USERMODES=,,,i :are supported by this server
+
+[34mServer: [0mPING :V{o|B~A+|V
+
+[33mClient: [0mPASS jambon
+NICK a_nick_94
+USER a_login 0 * :Real Name
+
+[34mServer: [0m:irc.localhost 001 a_nick_93 :Welcome to the Internet Relay Network a_nick_93!a_login@localhost
+
+[34mServer: [0m:irc.localhost 002 a_nick_93 :Your host is :irc.localhost , running version ircserv-0.0.1
+
+[34mServer: [0m:irc.localhost 003 a_nick_93 :This server was created 23:06:04 Dec 13 2023
+
+[34mServer: [0m:irc.localhost 004 a_nick_93 :irc.localhost  0.0.1 i linst :klo
+
+[34mServer: [0m:irc.localhost 005 a_nick_93 CASEMAPPING=ascii CHANMODES=o,k,l,inst CHANNELLEN50 CHANTYPES=# HOSTLEN50 LINELEN512 MAXTARGETS20 NICKLEN30 PREFIX=(o)@ TOPICLEN100 USERLEN50 USERMODES=,,,i :are supported by this server
+
+[34mServer: [0mPING :V{o|B~A+|V
+
+[33mClient: [0mPASS jambon
+NICK a_nick_95
+USER a_login 0 * :Real Name
+
+[34mServer: [0m:irc.localhost 001 a_nick_94 :Welcome to the Internet Relay Network a_nick_94!a_login@localhost
+
+[34mServer: [0m:irc.localhost 002 a_nick_94 :Your host is :irc.localhost , running version ircserv-0.0.1
+
+[34mServer: [0m:irc.localhost 003 a_nick_94 :This server was created 23:06:04 Dec 13 2023
+
+[34mServer: [0m:irc.localhost 004 a_nick_94 :irc.localhost  0.0.1 i linst :klo
+
+[34mServer: [0m:irc.localhost 005 a_nick_94 CASEMAPPING=ascii CHANMODES=o,k,l,inst CHANNELLEN50 CHANTYPES=# HOSTLEN50 LINELEN512 MAXTARGETS20 NICKLEN30 PREFIX=(o)@ TOPICLEN100 USERLEN50 USERMODES=,,,i :are supported by this server
+
+[34mServer: [0mPING :V{o|B~A+|V
+
+[33mClient: [0mPASS jambon
+NICK a_nick_96
+USER a_login 0 * :Real Name
+
+[34mServer: [0m:irc.localhost 001 a_nick_95 :Welcome to the Internet Relay Network a_nick_95!a_login@localhost
+
+[34mServer: [0m:irc.localhost 002 a_nick_95 :Your host is :irc.localhost , running version ircserv-0.0.1
+
+[34mServer: [0m:irc.localhost 003 a_nick_95 :This server was created 23:06:04 Dec 13 2023
+
+[34mServer: [0m:irc.localhost 004 a_nick_95 :irc.localhost  0.0.1 i linst :klo
+
+[34mServer: [0m:irc.localhost 005 a_nick_95 CASEMAPPING=ascii CHANMODES=o,k,l,inst CHANNELLEN50 CHANTYPES=# HOSTLEN50 LINELEN512 MAXTARGETS20 NICKLEN30 PREFIX=(o)@ TOPICLEN100 USERLEN50 USERMODES=,,,i :are supported by this server
+
+[34mServer: [0mPING :V{o|B~A+|V
+
+[33mClient: [0mPASS jambon
+NICK a_nick_97
+USER a_login 0 * :Real Name
+
+[34mServer: [0m:irc.localhost 001 a_nick_96 :Welcome to the Internet Relay Network a_nick_96!a_login@localhost
+
+[34mServer: [0m:irc.localhost 002 a_nick_96 :Your host is :irc.localhost , running version ircserv-0.0.1
+
+[34mServer: [0m:irc.localhost 003 a_nick_96 :This server was created 23:06:04 Dec 13 2023
+
+[34mServer: [0m:irc.localhost 004 a_nick_96 :irc.localhost  0.0.1 i linst :klo
+
+[34mServer: [0m:irc.localhost 005 a_nick_96 CASEMAPPING=ascii CHANMODES=o,k,l,inst CHANNELLEN50 CHANTYPES=# HOSTLEN50 LINELEN512 MAXTARGETS20 NICKLEN30 PREFIX=(o)@ TOPICLEN100 USERLEN50 USERMODES=,,,i :are supported by this server
+
+[34mServer: [0mPING :V{o|B~A+|V
+
+[33mClient: [0mPASS jambon
+NICK a_nick_98
+USER a_login 0 * :Real Name
+
+[34mServer: [0m:irc.localhost 001 a_nick_97 :Welcome to the Internet Relay Network a_nick_97!a_login@localhost
+
+[34mServer: [0m:irc.localhost 002 a_nick_97 :Your host is :irc.localhost , running version ircserv-0.0.1
+
+[34mServer: [0m:irc.localhost 003 a_nick_97 :This server was created 23:06:04 Dec 13 2023
+
+[34mServer: [0m:irc.localhost 004 a_nick_97 :irc.localhost  0.0.1 i linst :klo
+
+[34mServer: [0m:irc.localhost 005 a_nick_97 CASEMAPPING=ascii CHANMODES=o,k,l,inst CHANNELLEN50 CHANTYPES=# HOSTLEN50 LINELEN512 MAXTARGETS20 NICKLEN30 PREFIX=(o)@ TOPICLEN100 USERLEN50 USERMODES=,,,i :are supported by this server
+
+[34mServer: [0mPING :V{o|B~A+|V
+
+[33mClient: [0mPASS jambon
+NICK a_nick_99
+USER a_login 0 * :Real Name
+
+[34mServer: [0m:irc.localhost 001 a_nick_98 :Welcome to the Internet Relay Network a_nick_98!a_login@localhost
+
+[34mServer: [0m:irc.localhost 002 a_nick_98 :Your host is :irc.localhost , running version ircserv-0.0.1
+
+[34mServer: [0m:irc.localhost 003 a_nick_98 :This server was created 23:06:04 Dec 13 2023
+
+[34mServer: [0m:irc.localhost 004 a_nick_98 :irc.localhost  0.0.1 i linst :klo
+
+[34mServer: [0m:irc.localhost 005 a_nick_98 CASEMAPPING=ascii CHANMODES=o,k,l,inst CHANNELLEN50 CHANTYPES=# HOSTLEN50 LINELEN512 MAXTARGETS20 NICKLEN30 PREFIX=(o)@ TOPICLEN100 USERLEN50 USERMODES=,,,i :are supported by this server
+
+[34mServer: [0mPING :V{o|B~A+|V
+
+[33mClient: [0mPASS jambon
+NICK a_nick_100
+USER a_login 0 * :Real Name
+
+[34mServer: [0m:irc.localhost 001 a_nick_99 :Welcome to the Internet Relay Network a_nick_99!a_login@localhost
+
+[34mServer: [0m:irc.localhost 002 a_nick_99 :Your host is :irc.localhost , running version ircserv-0.0.1
+
+[34mServer: [0m:irc.localhost 003 a_nick_99 :This server was created 23:06:04 Dec 13 2023
+
+[34mServer: [0m:irc.localhost 004 a_nick_99 :irc.localhost  0.0.1 i linst :klo
+
+[34mServer: [0m:irc.localhost 005 a_nick_99 CASEMAPPING=ascii CHANMODES=o,k,l,inst CHANNELLEN50 CHANTYPES=# HOSTLEN50 LINELEN512 MAXTARGETS20 NICKLEN30 PREFIX=(o)@ TOPICLEN100 USERLEN50 USERMODES=,,,i :are supported by this server
+
+[34mServer: [0mPING :V{o|B~A+|V
+
+[33mClient: [0mPASS jambon
+NICK a_nick_101
+USER a_login 0 * :Real Name
+
+[34mServer: [0m:irc.localhost 001 a_nick_100 :Welcome to the Internet Relay Network a_nick_100!a_login@localhost
+
+[34mServer: [0m:irc.localhost 002 a_nick_100 :Your host is :irc.localhost , running version ircserv-0.0.1
+
+[34mServer: [0m:irc.localhost 003 a_nick_100 :This server was created 23:06:04 Dec 13 2023
+
+[34mServer: [0m:irc.localhost 004 a_nick_100 :irc.localhost  0.0.1 i linst :klo
+
+[34mServer: [0m:irc.localhost 005 a_nick_100 CASEMAPPING=ascii CHANMODES=o,k,l,inst CHANNELLEN50 CHANTYPES=# HOSTLEN50 LINELEN512 MAXTARGETS20 NICKLEN30 PREFIX=(o)@ TOPICLEN100 USERLEN50 USERMODES=,,,i :are supported by this server
+
+[34mServer: [0mPING :V{o|B~A+|V
+
+[33mClient: [0mPASS jambon
+NICK a_nick_102
+USER a_login 0 * :Real Name
+
+[34mServer: [0m:irc.localhost 001 a_nick_101 :Welcome to the Internet Relay Network a_nick_101!a_login@localhost
+
+[34mServer: [0m:irc.localhost 002 a_nick_101 :Your host is :irc.localhost , running version ircserv-0.0.1
+
+[34mServer: [0m:irc.localhost 003 a_nick_101 :This server was created 23:06:04 Dec 13 2023
+
+[34mServer: [0m:irc.localhost 004 a_nick_101 :irc.localhost  0.0.1 i linst :klo
+
+[34mServer: [0m:irc.localhost 005 a_nick_101 CASEMAPPING=ascii CHANMODES=o,k,l,inst CHANNELLEN50 CHANTYPES=# HOSTLEN50 LINELEN512 MAXTARGETS20 NICKLEN30 PREFIX=(o)@ TOPICLEN100 USERLEN50 USERMODES=,,,i :are supported by this server
+
+[34mServer: [0mPING :V{o|B~A+|V
+
+[33mClient: [0mPASS jambon
+NICK a_nick_103
+USER a_login 0 * :Real Name
+
+[34mServer: [0m:irc.localhost 001 a_nick_102 :Welcome to the Internet Relay Network a_nick_102!a_login@localhost
+
+[34mServer: [0m:irc.localhost 002 a_nick_102 :Your host is :irc.localhost , running version ircserv-0.0.1
+
+[34mServer: [0m:irc.localhost 003 a_nick_102 :This server was created 23:06:04 Dec 13 2023
+
+[34mServer: [0m:irc.localhost 004 a_nick_102 :irc.localhost  0.0.1 i linst :klo
+
+[34mServer: [0m:irc.localhost 005 a_nick_102 CASEMAPPING=ascii CHANMODES=o,k,l,inst CHANNELLEN50 CHANTYPES=# HOSTLEN50 LINELEN512 MAXTARGETS20 NICKLEN30 PREFIX=(o)@ TOPICLEN100 USERLEN50 USERMODES=,,,i :are supported by this server
+
+[34mServer: [0mPING :V{o|B~A+|V
+
+[33mClient: [0mPASS jambon
+NICK a_nick_104
+USER a_login 0 * :Real Name
+
+[34mServer: [0m:irc.localhost 001 a_nick_103 :Welcome to the Internet Relay Network a_nick_103!a_login@localhost
+
+[34mServer: [0m:irc.localhost 002 a_nick_103 :Your host is :irc.localhost , running version ircserv-0.0.1
+
+[34mServer: [0m:irc.localhost 003 a_nick_103 :This server was created 23:06:04 Dec 13 2023
+
+[34mServer: [0m:irc.localhost 004 a_nick_103 :irc.localhost  0.0.1 i linst :klo
+
+[34mServer: [0m:irc.localhost 005 a_nick_103 CASEMAPPING=ascii CHANMODES=o,k,l,inst CHANNELLEN50 CHANTYPES=# HOSTLEN50 LINELEN512 MAXTARGETS20 NICKLEN30 PREFIX=(o)@ TOPICLEN100 USERLEN50 USERMODES=,,,i :are supported by this server
+
+[34mServer: [0mPING :V{o|B~A+|V
+
+[33mClient: [0mPASS jambon
+NICK a_nick_105
+USER a_login 0 * :Real Name
+
+[34mServer: [0m:irc.localhost 001 a_nick_104 :Welcome to the Internet Relay Network a_nick_104!a_login@localhost
+
+[34mServer: [0m:irc.localhost 002 a_nick_104 :Your host is :irc.localhost , running version ircserv-0.0.1
+
+[34mServer: [0m:irc.localhost 003 a_nick_104 :This server was created 23:06:04 Dec 13 2023
+
+[34mServer: [0m:irc.localhost 004 a_nick_104 :irc.localhost  0.0.1 i linst :klo
+
+[34mServer: [0m:irc.localhost 005 a_nick_104 CASEMAPPING=ascii CHANMODES=o,k,l,inst CHANNELLEN50 CHANTYPES=# HOSTLEN50 LINELEN512 MAXTARGETS20 NICKLEN30 PREFIX=(o)@ TOPICLEN100 USERLEN50 USERMODES=,,,i :are supported by this server
+
+[34mServer: [0mPING :V{o|B~A+|V
+
+[33mClient: [0mPASS jambon
+NICK a_nick_106
+USER a_login 0 * :Real Name
+
+[34mServer: [0m:irc.localhost 001 a_nick_105 :Welcome to the Internet Relay Network a_nick_105!a_login@localhost
+
+[34mServer: [0m:irc.localhost 002 a_nick_105 :Your host is :irc.localhost , running version ircserv-0.0.1
+
+[34mServer: [0m:irc.localhost 003 a_nick_105 :This server was created 23:06:04 Dec 13 2023
+
+[34mServer: [0m:irc.localhost 004 a_nick_105 :irc.localhost  0.0.1 i linst :klo
+
+[34mServer: [0m:irc.localhost 005 a_nick_105 CASEMAPPING=ascii CHANMODES=o,k,l,inst CHANNELLEN50 CHANTYPES=# HOSTLEN50 LINELEN512 MAXTARGETS20 NICKLEN30 PREFIX=(o)@ TOPICLEN100 USERLEN50 USERMODES=,,,i :are supported by this server
+
+[34mServer: [0mPING :V{o|B~A+|V
+
+[33mClient: [0mPASS jambon
+NICK a_nick_107
+USER a_login 0 * :Real Name
+
+[34mServer: [0m:irc.localhost 001 a_nick_106 :Welcome to the Internet Relay Network a_nick_106!a_login@localhost
+
+[34mServer: [0m:irc.localhost 002 a_nick_106 :Your host is :irc.localhost , running version ircserv-0.0.1
+
+[34mServer: [0m:irc.localhost 003 a_nick_106 :This server was created 23:06:04 Dec 13 2023
+
+[34mServer: [0m:irc.localhost 004 a_nick_106 :irc.localhost  0.0.1 i linst :klo
+
+[34mServer: [0m:irc.localhost 005 a_nick_106 CASEMAPPING=ascii CHANMODES=o,k,l,inst CHANNELLEN50 CHANTYPES=# HOSTLEN50 LINELEN512 MAXTARGETS20 NICKLEN30 PREFIX=(o)@ TOPICLEN100 USERLEN50 USERMODES=,,,i :are supported by this server
+
+[34mServer: [0mPING :V{o|B~A+|V
+
+[33mClient: [0mPASS jambon
+NICK a_nick_108
+USER a_login 0 * :Real Name
+
+[34mServer: [0m:irc.localhost 001 a_nick_107 :Welcome to the Internet Relay Network a_nick_107!a_login@localhost
+
+[34mServer: [0m:irc.localhost 002 a_nick_107 :Your host is :irc.localhost , running version ircserv-0.0.1
+
+[34mServer: [0m:irc.localhost 003 a_nick_107 :This server was created 23:06:04 Dec 13 2023
+
+[34mServer: [0m:irc.localhost 004 a_nick_107 :irc.localhost  0.0.1 i linst :klo
+
+[34mServer: [0m:irc.localhost 005 a_nick_107 CASEMAPPING=ascii CHANMODES=o,k,l,inst CHANNELLEN50 CHANTYPES=# HOSTLEN50 LINELEN512 MAXTARGETS20 NICKLEN30 PREFIX=(o)@ TOPICLEN100 USERLEN50 USERMODES=,,,i :are supported by this server
+
+[34mServer: [0mPING :V{o|B~A+|V
+
+[33mClient: [0mPASS jambon
+NICK a_nick_109
+USER a_login 0 * :Real Name
+
+[34mServer: [0m:irc.localhost 001 a_nick_108 :Welcome to the Internet Relay Network a_nick_108!a_login@localhost
+
+[34mServer: [0m:irc.localhost 002 a_nick_108 :Your host is :irc.localhost , running version ircserv-0.0.1
+
+[34mServer: [0m:irc.localhost 003 a_nick_108 :This server was created 23:06:04 Dec 13 2023
+
+[34mServer: [0m:irc.localhost 004 a_nick_108 :irc.localhost  0.0.1 i linst :klo
+
+[34mServer: [0m:irc.localhost 005 a_nick_108 CASEMAPPING=ascii CHANMODES=o,k,l,inst CHANNELLEN50 CHANTYPES=# HOSTLEN50 LINELEN512 MAXTARGETS20 NICKLEN30 PREFIX=(o)@ TOPICLEN100 USERLEN50 USERMODES=,,,i :are supported by this server
+
+[34mServer: [0mPING :V{o|B~A+|V
+
+[33mClient: [0mPASS jambon
+NICK a_nick_110
+USER a_login 0 * :Real Name
+
+[34mServer: [0m:irc.localhost 001 a_nick_109 :Welcome to the Internet Relay Network a_nick_109!a_login@localhost
+
+[34mServer: [0m:irc.localhost 002 a_nick_109 :Your host is :irc.localhost , running version ircserv-0.0.1
+
+[34mServer: [0m:irc.localhost 003 a_nick_109 :This server was created 23:06:04 Dec 13 2023
+
+[34mServer: [0m:irc.localhost 004 a_nick_109 :irc.localhost  0.0.1 i linst :klo
+
+[34mServer: [0m:irc.localhost 005 a_nick_109 CASEMAPPING=ascii CHANMODES=o,k,l,inst CHANNELLEN50 CHANTYPES=# HOSTLEN50 LINELEN512 MAXTARGETS20 NICKLEN30 PREFIX=(o)@ TOPICLEN100 USERLEN50 USERMODES=,,,i :are supported by this server
+
+[34mServer: [0mPING :V{o|B~A+|V
+
+[33mClient: [0mPASS jambon
+NICK a_nick_111
+USER a_login 0 * :Real Name
+
+[34mServer: [0m:irc.localhost 001 a_nick_110 :Welcome to the Internet Relay Network a_nick_110!a_login@localhost
+
+[34mServer: [0m:irc.localhost 002 a_nick_110 :Your host is :irc.localhost , running version ircserv-0.0.1
+
+[34mServer: [0m:irc.localhost 003 a_nick_110 :This server was created 23:06:04 Dec 13 2023
+
+[34mServer: [0m:irc.localhost 004 a_nick_110 :irc.localhost  0.0.1 i linst :klo
+
+[34mServer: [0m:irc.localhost 005 a_nick_110 CASEMAPPING=ascii CHANMODES=o,k,l,inst CHANNELLEN50 CHANTYPES=# HOSTLEN50 LINELEN512 MAXTARGETS20 NICKLEN30 PREFIX=(o)@ TOPICLEN100 USERLEN50 USERMODES=,,,i :are supported by this server
+
+[34mServer: [0mPING :V{o|B~A+|V
+
+[33mClient: [0mPASS jambon
+NICK a_nick_112
+USER a_login 0 * :Real Name
+
+[34mServer: [0m:irc.localhost 001 a_nick_111 :Welcome to the Internet Relay Network a_nick_111!a_login@localhost
+
+[34mServer: [0m:irc.localhost 002 a_nick_111 :Your host is :irc.localhost , running version ircserv-0.0.1
+
+[34mServer: [0m:irc.localhost 003 a_nick_111 :This server was created 23:06:04 Dec 13 2023
+
+[34mServer: [0m:irc.localhost 004 a_nick_111 :irc.localhost  0.0.1 i linst :klo
+
+[34mServer: [0m:irc.localhost 005 a_nick_111 CASEMAPPING=ascii CHANMODES=o,k,l,inst CHANNELLEN50 CHANTYPES=# HOSTLEN50 LINELEN512 MAXTARGETS20 NICKLEN30 PREFIX=(o)@ TOPICLEN100 USERLEN50 USERMODES=,,,i :are supported by this server
+
+[34mServer: [0mPING :V{o|B~A+|V
+
+[33mClient: [0mPASS jambon
+NICK a_nick_113
+USER a_login 0 * :Real Name
+
+[34mServer: [0m:irc.localhost 001 a_nick_112 :Welcome to the Internet Relay Network a_nick_112!a_login@localhost
+
+[34mServer: [0m:irc.localhost 002 a_nick_112 :Your host is :irc.localhost , running version ircserv-0.0.1
+
+[34mServer: [0m:irc.localhost 003 a_nick_112 :This server was created 23:06:04 Dec 13 2023
+
+[34mServer: [0m:irc.localhost 004 a_nick_112 :irc.localhost  0.0.1 i linst :klo
+
+[34mServer: [0m:irc.localhost 005 a_nick_112 CASEMAPPING=ascii CHANMODES=o,k,l,inst CHANNELLEN50 CHANTYPES=# HOSTLEN50 LINELEN512 MAXTARGETS20 NICKLEN30 PREFIX=(o)@ TOPICLEN100 USERLEN50 USERMODES=,,,i :are supported by this server
+
+[34mServer: [0mPING :V{o|B~A+|V
+
+[33mClient: [0mPASS jambon
+NICK a_nick_114
+USER a_login 0 * :Real Name
+
+[34mServer: [0m:irc.localhost 001 a_nick_113 :Welcome to the Internet Relay Network a_nick_113!a_login@localhost
+
+[34mServer: [0m:irc.localhost 002 a_nick_113 :Your host is :irc.localhost , running version ircserv-0.0.1
+
+[34mServer: [0m:irc.localhost 003 a_nick_113 :This server was created 23:06:04 Dec 13 2023
+
+[34mServer: [0m:irc.localhost 004 a_nick_113 :irc.localhost  0.0.1 i linst :klo
+
+[34mServer: [0m:irc.localhost 005 a_nick_113 CASEMAPPING=ascii CHANMODES=o,k,l,inst CHANNELLEN50 CHANTYPES=# HOSTLEN50 LINELEN512 MAXTARGETS20 NICKLEN30 PREFIX=(o)@ TOPICLEN100 USERLEN50 USERMODES=,,,i :are supported by this server
+
+[34mServer: [0mPING :V{o|B~A+|V
+
+[33mClient: [0mPASS jambon
+NICK a_nick_115
+USER a_login 0 * :Real Name
+
+[34mServer: [0m:irc.localhost 001 a_nick_114 :Welcome to the Internet Relay Network a_nick_114!a_login@localhost
+
+[34mServer: [0m:irc.localhost 002 a_nick_114 :Your host is :irc.localhost , running version ircserv-0.0.1
+
+[34mServer: [0m:irc.localhost 003 a_nick_114 :This server was created 23:06:04 Dec 13 2023
+
+[34mServer: [0m:irc.localhost 004 a_nick_114 :irc.localhost  0.0.1 i linst :klo
+
+[34mServer: [0m:irc.localhost 005 a_nick_114 CASEMAPPING=ascii CHANMODES=o,k,l,inst CHANNELLEN50 CHANTYPES=# HOSTLEN50 LINELEN512 MAXTARGETS20 NICKLEN30 PREFIX=(o)@ TOPICLEN100 USERLEN50 USERMODES=,,,i :are supported by this server
+
+[34mServer: [0mPING :V{o|B~A+|V
+
+[33mClient: [0mPASS jambon
+NICK a_nick_116
+USER a_login 0 * :Real Name
+
+[34mServer: [0m:irc.localhost 001 a_nick_115 :Welcome to the Internet Relay Network a_nick_115!a_login@localhost
+
+[34mServer: [0m:irc.localhost 002 a_nick_115 :Your host is :irc.localhost , running version ircserv-0.0.1
+
+[34mServer: [0m:irc.localhost 003 a_nick_115 :This server was created 23:06:04 Dec 13 2023
+
+[34mServer: [0m:irc.localhost 004 a_nick_115 :irc.localhost  0.0.1 i linst :klo
+
+[34mServer: [0m:irc.localhost 005 a_nick_115 CASEMAPPING=ascii CHANMODES=o,k,l,inst CHANNELLEN50 CHANTYPES=# HOSTLEN50 LINELEN512 MAXTARGETS20 NICKLEN30 PREFIX=(o)@ TOPICLEN100 USERLEN50 USERMODES=,,,i :are supported by this server
+
+[34mServer: [0mPING :V{o|B~A+|V
+
+[33mClient: [0mPASS jambon
+NICK a_nick_117
+USER a_login 0 * :Real Name
+
+[34mServer: [0m:irc.localhost 001 a_nick_116 :Welcome to the Internet Relay Network a_nick_116!a_login@localhost
+
+[34mServer: [0m:irc.localhost 002 a_nick_116 :Your host is :irc.localhost , running version ircserv-0.0.1
+
+[34mServer: [0m:irc.localhost 003 a_nick_116 :This server was created 23:06:04 Dec 13 2023
+
+[34mServer: [0m:irc.localhost 004 a_nick_116 :irc.localhost  0.0.1 i linst :klo
+
+[34mServer: [0m:irc.localhost 005 a_nick_116 CASEMAPPING=ascii CHANMODES=o,k,l,inst CHANNELLEN50 CHANTYPES=# HOSTLEN50 LINELEN512 MAXTARGETS20 NICKLEN30 PREFIX=(o)@ TOPICLEN100 USERLEN50 USERMODES=,,,i :are supported by this server
+
+[34mServer: [0mPING :V{o|B~A+|V
+
+[33mClient: [0mPASS jambon
+NICK a_nick_118
+USER a_login 0 * :Real Name
+
+[34mServer: [0m:irc.localhost 001 a_nick_117 :Welcome to the Internet Relay Network a_nick_117!a_login@localhost
+
+[34mServer: [0m:irc.localhost 002 a_nick_117 :Your host is :irc.localhost , running version ircserv-0.0.1
+
+[34mServer: [0m:irc.localhost 003 a_nick_117 :This server was created 23:06:04 Dec 13 2023
+
+[34mServer: [0m:irc.localhost 004 a_nick_117 :irc.localhost  0.0.1 i linst :klo
+
+[34mServer: [0m:irc.localhost 005 a_nick_117 CASEMAPPING=ascii CHANMODES=o,k,l,inst CHANNELLEN50 CHANTYPES=# HOSTLEN50 LINELEN512 MAXTARGETS20 NICKLEN30 PREFIX=(o)@ TOPICLEN100 USERLEN50 USERMODES=,,,i :are supported by this server
+
+[34mServer: [0mPING :V{o|B~A+|V
+
+[33mClient: [0mPASS jambon
+NICK a_nick_119
+USER a_login 0 * :Real Name
+
+[34mServer: [0m:irc.localhost 001 a_nick_118 :Welcome to the Internet Relay Network a_nick_118!a_login@localhost
+
+[34mServer: [0m:irc.localhost 002 a_nick_118 :Your host is :irc.localhost , running version ircserv-0.0.1
+
+[34mServer: [0m:irc.localhost 003 a_nick_118 :This server was created 23:06:04 Dec 13 2023
+
+[34mServer: [0m:irc.localhost 004 a_nick_118 :irc.localhost  0.0.1 i linst :klo
+
+[34mServer: [0m:irc.localhost 005 a_nick_118 CASEMAPPING=ascii CHANMODES=o,k,l,inst CHANNELLEN50 CHANTYPES=# HOSTLEN50 LINELEN512 MAXTARGETS20 NICKLEN30 PREFIX=(o)@ TOPICLEN100 USERLEN50 USERMODES=,,,i :are supported by this server
+
+[34mServer: [0mPING :V{o|B~A+|V
+
+[33mClient: [0mPASS jambon
+NICK a_nick_120
+USER a_login 0 * :Real Name
+
+[34mServer: [0m:irc.localhost 001 a_nick_119 :Welcome to the Internet Relay Network a_nick_119!a_login@localhost
+
+[34mServer: [0m:irc.localhost 002 a_nick_119 :Your host is :irc.localhost , running version ircserv-0.0.1
+
+[34mServer: [0m:irc.localhost 003 a_nick_119 :This server was created 23:06:04 Dec 13 2023
+
+[34mServer: [0m:irc.localhost 004 a_nick_119 :irc.localhost  0.0.1 i linst :klo
+
+[34mServer: [0m:irc.localhost 005 a_nick_119 CASEMAPPING=ascii CHANMODES=o,k,l,inst CHANNELLEN50 CHANTYPES=# HOSTLEN50 LINELEN512 MAXTARGETS20 NICKLEN30 PREFIX=(o)@ TOPICLEN100 USERLEN50 USERMODES=,,,i :are supported by this server
+
+[34mServer: [0mPING :V{o|B~A+|V
+
+[33mClient: [0mPASS jambon
+NICK a_nick_121
+USER a_login 0 * :Real Name
+
+[34mServer: [0m:irc.localhost 001 a_nick_120 :Welcome to the Internet Relay Network a_nick_120!a_login@localhost
+
+[34mServer: [0m:irc.localhost 002 a_nick_120 :Your host is :irc.localhost , running version ircserv-0.0.1
+
+[34mServer: [0m:irc.localhost 003 a_nick_120 :This server was created 23:06:04 Dec 13 2023
+
+[34mServer: [0m:irc.localhost 004 a_nick_120 :irc.localhost  0.0.1 i linst :klo
+
+[34mServer: [0m:irc.localhost 005 a_nick_120 CASEMAPPING=ascii CHANMODES=o,k,l,inst CHANNELLEN50 CHANTYPES=# HOSTLEN50 LINELEN512 MAXTARGETS20 NICKLEN30 PREFIX=(o)@ TOPICLEN100 USERLEN50 USERMODES=,,,i :are supported by this server
+
+[34mServer: [0mPING :V{o|B~A+|V
+
+[33mClient: [0mPASS jambon
+NICK a_nick_122
+USER a_login 0 * :Real Name
+
+[34mServer: [0m:irc.localhost 001 a_nick_121 :Welcome to the Internet Relay Network a_nick_121!a_login@localhost
+
+[34mServer: [0m:irc.localhost 002 a_nick_121 :Your host is :irc.localhost , running version ircserv-0.0.1
+
+[34mServer: [0m:irc.localhost 003 a_nick_121 :This server was created 23:06:04 Dec 13 2023
+
+[34mServer: [0m:irc.localhost 004 a_nick_121 :irc.localhost  0.0.1 i linst :klo
+
+[34mServer: [0m:irc.localhost 005 a_nick_121 CASEMAPPING=ascii CHANMODES=o,k,l,inst CHANNELLEN50 CHANTYPES=# HOSTLEN50 LINELEN512 MAXTARGETS20 NICKLEN30 PREFIX=(o)@ TOPICLEN100 USERLEN50 USERMODES=,,,i :are supported by this server
+
+[34mServer: [0mPING :V{o|B~A+|V
+
+[33mClient: [0mPASS jambon
+NICK a_nick_123
+USER a_login 0 * :Real Name
+
+[34mServer: [0m:irc.localhost 001 a_nick_122 :Welcome to the Internet Relay Network a_nick_122!a_login@localhost
+
+[34mServer: [0m:irc.localhost 002 a_nick_122 :Your host is :irc.localhost , running version ircserv-0.0.1
+
+[34mServer: [0m:irc.localhost 003 a_nick_122 :This server was created 23:06:04 Dec 13 2023
+
+[34mServer: [0m:irc.localhost 004 a_nick_122 :irc.localhost  0.0.1 i linst :klo
+
+[34mServer: [0m:irc.localhost 005 a_nick_122 CASEMAPPING=ascii CHANMODES=o,k,l,inst CHANNELLEN50 CHANTYPES=# HOSTLEN50 LINELEN512 MAXTARGETS20 NICKLEN30 PREFIX=(o)@ TOPICLEN100 USERLEN50 USERMODES=,,,i :are supported by this server
+
+[34mServer: [0mPING :V{o|B~A+|V
+
+[33mClient: [0mPASS jambon
+NICK a_nick_124
+USER a_login 0 * :Real Name
+
+[34mServer: [0m:irc.localhost 001 a_nick_123 :Welcome to the Internet Relay Network a_nick_123!a_login@localhost
+
+[34mServer: [0m:irc.localhost 002 a_nick_123 :Your host is :irc.localhost , running version ircserv-0.0.1
+
+[34mServer: [0m:irc.localhost 003 a_nick_123 :This server was created 23:06:04 Dec 13 2023
+
+[34mServer: [0m:irc.localhost 004 a_nick_123 :irc.localhost  0.0.1 i linst :klo
+
+[34mServer: [0m:irc.localhost 005 a_nick_123 CASEMAPPING=ascii CHANMODES=o,k,l,inst CHANNELLEN50 CHANTYPES=# HOSTLEN50 LINELEN512 MAXTARGETS20 NICKLEN30 PREFIX=(o)@ TOPICLEN100 USERLEN50 USERMODES=,,,i :are supported by this server
+
+[34mServer: [0mPING :V{o|B~A+|V
+
+[33mClient: [0mPASS jambon
+NICK a_nick_125
+USER a_login 0 * :Real Name
+
+[34mServer: [0m:irc.localhost 001 a_nick_124 :Welcome to the Internet Relay Network a_nick_124!a_login@localhost
+
+[34mServer: [0m:irc.localhost 002 a_nick_124 :Your host is :irc.localhost , running version ircserv-0.0.1
+
+[34mServer: [0m:irc.localhost 003 a_nick_124 :This server was created 23:06:04 Dec 13 2023
+
+[34mServer: [0m:irc.localhost 004 a_nick_124 :irc.localhost  0.0.1 i linst :klo
+
+[34mServer: [0m:irc.localhost 005 a_nick_124 CASEMAPPING=ascii CHANMODES=o,k,l,inst CHANNELLEN50 CHANTYPES=# HOSTLEN50 LINELEN512 MAXTARGETS20 NICKLEN30 PREFIX=(o)@ TOPICLEN100 USERLEN50 USERMODES=,,,i :are supported by this server
+
+[34mServer: [0mPING :V{o|B~A+|V
+
+[33mClient: [0mPASS jambon
+NICK a_nick_126
+USER a_login 0 * :Real Name
+
+[34mServer: [0m:irc.localhost 001 a_nick_125 :Welcome to the Internet Relay Network a_nick_125!a_login@localhost
+
+[34mServer: [0m:irc.localhost 002 a_nick_125 :Your host is :irc.localhost , running version ircserv-0.0.1
+
+[34mServer: [0m:irc.localhost 003 a_nick_125 :This server was created 23:06:04 Dec 13 2023
+
+[34mServer: [0m:irc.localhost 004 a_nick_125 :irc.localhost  0.0.1 i linst :klo
+
+[34mServer: [0m:irc.localhost 005 a_nick_125 CASEMAPPING=ascii CHANMODES=o,k,l,inst CHANNELLEN50 CHANTYPES=# HOSTLEN50 LINELEN512 MAXTARGETS20 NICKLEN30 PREFIX=(o)@ TOPICLEN100 USERLEN50 USERMODES=,,,i :are supported by this server
+
+[34mServer: [0mPING :V{o|B~A+|V
+
+[33mClient: [0mPASS jambon
+NICK a_nick_127
+USER a_login 0 * :Real Name
+
+[34mServer: [0m:irc.localhost 001 a_nick_126 :Welcome to the Internet Relay Network a_nick_126!a_login@localhost
+
+[34mServer: [0m:irc.localhost 002 a_nick_126 :Your host is :irc.localhost , running version ircserv-0.0.1
+
+[34mServer: [0m:irc.localhost 003 a_nick_126 :This server was created 23:06:04 Dec 13 2023
+
+[34mServer: [0m:irc.localhost 004 a_nick_126 :irc.localhost  0.0.1 i linst :klo
+
+[34mServer: [0m:irc.localhost 005 a_nick_126 CASEMAPPING=ascii CHANMODES=o,k,l,inst CHANNELLEN50 CHANTYPES=# HOSTLEN50 LINELEN512 MAXTARGETS20 NICKLEN30 PREFIX=(o)@ TOPICLEN100 USERLEN50 USERMODES=,,,i :are supported by this server
+
+[34mServer: [0mPING :V{o|B~A+|V
+
+[33mClient: [0mPASS jambon
+NICK a_nick_128
+USER a_login 0 * :Real Name
+
+[34mServer: [0m:irc.localhost 001 a_nick_127 :Welcome to the Internet Relay Network a_nick_127!a_login@localhost
+
+[34mServer: [0m:irc.localhost 002 a_nick_127 :Your host is :irc.localhost , running version ircserv-0.0.1
+
+[34mServer: [0m:irc.localhost 003 a_nick_127 :This server was created 23:06:04 Dec 13 2023
+
+[34mServer: [0m:irc.localhost 004 a_nick_127 :irc.localhost  0.0.1 i linst :klo
+
+[34mServer: [0m:irc.localhost 005 a_nick_127 CASEMAPPING=ascii CHANMODES=o,k,l,inst CHANNELLEN50 CHANTYPES=# HOSTLEN50 LINELEN512 MAXTARGETS20 NICKLEN30 PREFIX=(o)@ TOPICLEN100 USERLEN50 USERMODES=,,,i :are supported by this server
+
+[34mServer: [0mPING :V{o|B~A+|V
+
+[33mClient: [0mPASS jambon
+NICK a_nick_129
+USER a_login 0 * :Real Name
+
+[34mServer: [0m:irc.localhost 001 a_nick_128 :Welcome to the Internet Relay Network a_nick_128!a_login@localhost
+
+[34mServer: [0m:irc.localhost 002 a_nick_128 :Your host is :irc.localhost , running version ircserv-0.0.1
+
+[34mServer: [0m:irc.localhost 003 a_nick_128 :This server was created 23:06:04 Dec 13 2023
+
+[34mServer: [0m:irc.localhost 004 a_nick_128 :irc.localhost  0.0.1 i linst :klo
+
+[34mServer: [0m:irc.localhost 005 a_nick_128 CASEMAPPING=ascii CHANMODES=o,k,l,inst CHANNELLEN50 CHANTYPES=# HOSTLEN50 LINELEN512 MAXTARGETS20 NICKLEN30 PREFIX=(o)@ TOPICLEN100 USERLEN50 USERMODES=,,,i :are supported by this server
+
+[34mServer: [0mPING :V{o|B~A+|V
+
+[33mClient: [0mPASS jambon
+NICK a_nick_130
+USER a_login 0 * :Real Name
+
+[34mServer: [0m:irc.localhost 001 a_nick_129 :Welcome to the Internet Relay Network a_nick_129!a_login@localhost
+
+[34mServer: [0m:irc.localhost 002 a_nick_129 :Your host is :irc.localhost , running version ircserv-0.0.1
+
+[34mServer: [0m:irc.localhost 003 a_nick_129 :This server was created 23:06:04 Dec 13 2023
+
+[34mServer: [0m:irc.localhost 004 a_nick_129 :irc.localhost  0.0.1 i linst :klo
+
+[34mServer: [0m:irc.localhost 005 a_nick_129 CASEMAPPING=ascii CHANMODES=o,k,l,inst CHANNELLEN50 CHANTYPES=# HOSTLEN50 LINELEN512 MAXTARGETS20 NICKLEN30 PREFIX=(o)@ TOPICLEN100 USERLEN50 USERMODES=,,,i :are supported by this server
+
+[34mServer: [0mPING :V{o|B~A+|V
+
+[33mClient: [0mPASS jambon
+NICK a_nick_131
+USER a_login 0 * :Real Name
+
+[34mServer: [0m:irc.localhost 001 a_nick_130 :Welcome to the Internet Relay Network a_nick_130!a_login@localhost
+
+[34mServer: [0m:irc.localhost 002 a_nick_130 :Your host is :irc.localhost , running version ircserv-0.0.1
+
+[34mServer: [0m:irc.localhost 003 a_nick_130 :This server was created 23:06:04 Dec 13 2023
+
+[34mServer: [0m:irc.localhost 004 a_nick_130 :irc.localhost  0.0.1 i linst :klo
+
+[34mServer: [0m:irc.localhost 005 a_nick_130 CASEMAPPING=ascii CHANMODES=o,k,l,inst CHANNELLEN50 CHANTYPES=# HOSTLEN50 LINELEN512 MAXTARGETS20 NICKLEN30 PREFIX=(o)@ TOPICLEN100 USERLEN50 USERMODES=,,,i :are supported by this server
+
+[34mServer: [0mPING :V{o|B~A+|V
+
+[33mClient: [0mPASS jambon
+NICK a_nick_132
+USER a_login 0 * :Real Name
+
+[34mServer: [0m:irc.localhost 001 a_nick_131 :Welcome to the Internet Relay Network a_nick_131!a_login@localhost
+
+[34mServer: [0m:irc.localhost 002 a_nick_131 :Your host is :irc.localhost , running version ircserv-0.0.1
+
+[34mServer: [0m:irc.localhost 003 a_nick_131 :This server was created 23:06:04 Dec 13 2023
+
+[34mServer: [0m:irc.localhost 004 a_nick_131 :irc.localhost  0.0.1 i linst :klo
+
+[34mServer: [0m:irc.localhost 005 a_nick_131 CASEMAPPING=ascii CHANMODES=o,k,l,inst CHANNELLEN50 CHANTYPES=# HOSTLEN50 LINELEN512 MAXTARGETS20 NICKLEN30 PREFIX=(o)@ TOPICLEN100 USERLEN50 USERMODES=,,,i :are supported by this server
+
+[34mServer: [0mPING :V{o|B~A+|V
+
+[33mClient: [0mPASS jambon
+NICK a_nick_133
+USER a_login 0 * :Real Name
+
+[34mServer: [0m:irc.localhost 001 a_nick_132 :Welcome to the Internet Relay Network a_nick_132!a_login@localhost
+
+[34mServer: [0m:irc.localhost 002 a_nick_132 :Your host is :irc.localhost , running version ircserv-0.0.1
+
+[34mServer: [0m:irc.localhost 003 a_nick_132 :This server was created 23:06:04 Dec 13 2023
+
+[34mServer: [0m:irc.localhost 004 a_nick_132 :irc.localhost  0.0.1 i linst :klo
+
+[34mServer: [0m:irc.localhost 005 a_nick_132 CASEMAPPING=ascii CHANMODES=o,k,l,inst CHANNELLEN50 CHANTYPES=# HOSTLEN50 LINELEN512 MAXTARGETS20 NICKLEN30 PREFIX=(o)@ TOPICLEN100 USERLEN50 USERMODES=,,,i :are supported by this server
+
+[34mServer: [0mPING :V{o|B~A+|V
+
+[33mClient: [0mPASS jambon
+NICK a_nick_134
+USER a_login 0 * :Real Name
+
+[34mServer: [0m:irc.localhost 001 a_nick_133 :Welcome to the Internet Relay Network a_nick_133!a_login@localhost
+
+[34mServer: [0m:irc.localhost 002 a_nick_133 :Your host is :irc.localhost , running version ircserv-0.0.1
+
+[34mServer: [0m:irc.localhost 003 a_nick_133 :This server was created 23:06:04 Dec 13 2023
+
+[34mServer: [0m:irc.localhost 004 a_nick_133 :irc.localhost  0.0.1 i linst :klo
+
+[34mServer: [0m:irc.localhost 005 a_nick_133 CASEMAPPING=ascii CHANMODES=o,k,l,inst CHANNELLEN50 CHANTYPES=# HOSTLEN50 LINELEN512 MAXTARGETS20 NICKLEN30 PREFIX=(o)@ TOPICLEN100 USERLEN50 USERMODES=,,,i :are supported by this server
+
+[34mServer: [0mPING :V{o|B~A+|V
+
+[33mClient: [0mPASS jambon
+NICK a_nick_135
+USER a_login 0 * :Real Name
+
+[34mServer: [0m:irc.localhost 001 a_nick_134 :Welcome to the Internet Relay Network a_nick_134!a_login@localhost
+
+[34mServer: [0m:irc.localhost 002 a_nick_134 :Your host is :irc.localhost , running version ircserv-0.0.1
+
+[34mServer: [0m:irc.localhost 003 a_nick_134 :This server was created 23:06:04 Dec 13 2023
+
+[34mServer: [0m:irc.localhost 004 a_nick_134 :irc.localhost  0.0.1 i linst :klo
+
+[34mServer: [0m:irc.localhost 005 a_nick_134 CASEMAPPING=ascii CHANMODES=o,k,l,inst CHANNELLEN50 CHANTYPES=# HOSTLEN50 LINELEN512 MAXTARGETS20 NICKLEN30 PREFIX=(o)@ TOPICLEN100 USERLEN50 USERMODES=,,,i :are supported by this server
+
+[34mServer: [0mPING :V{o|B~A+|V
+
+[33mClient: [0mPASS jambon
+NICK a_nick_136
+USER a_login 0 * :Real Name
+
+[34mServer: [0m:irc.localhost 001 a_nick_135 :Welcome to the Internet Relay Network a_nick_135!a_login@localhost
+
+[34mServer: [0m:irc.localhost 002 a_nick_135 :Your host is :irc.localhost , running version ircserv-0.0.1
+
+[34mServer: [0m:irc.localhost 003 a_nick_135 :This server was created 23:06:04 Dec 13 2023
+
+[34mServer: [0m:irc.localhost 004 a_nick_135 :irc.localhost  0.0.1 i linst :klo
+
+[34mServer: [0m:irc.localhost 005 a_nick_135 CASEMAPPING=ascii CHANMODES=o,k,l,inst CHANNELLEN50 CHANTYPES=# HOSTLEN50 LINELEN512 MAXTARGETS20 NICKLEN30 PREFIX=(o)@ TOPICLEN100 USERLEN50 USERMODES=,,,i :are supported by this server
+
+[34mServer: [0mPING :V{o|B~A+|V
+
+[33mClient: [0mPASS jambon
+NICK a_nick_137
+USER a_login 0 * :Real Name
+
+[34mServer: [0m:irc.localhost 001 a_nick_136 :Welcome to the Internet Relay Network a_nick_136!a_login@localhost
+
+[34mServer: [0m:irc.localhost 002 a_nick_136 :Your host is :irc.localhost , running version ircserv-0.0.1
+
+[34mServer: [0m:irc.localhost 003 a_nick_136 :This server was created 23:06:04 Dec 13 2023
+
+[34mServer: [0m:irc.localhost 004 a_nick_136 :irc.localhost  0.0.1 i linst :klo
+
+[34mServer: [0m:irc.localhost 005 a_nick_136 CASEMAPPING=ascii CHANMODES=o,k,l,inst CHANNELLEN50 CHANTYPES=# HOSTLEN50 LINELEN512 MAXTARGETS20 NICKLEN30 PREFIX=(o)@ TOPICLEN100 USERLEN50 USERMODES=,,,i :are supported by this server
+
+[34mServer: [0mPING :V{o|B~A+|V
+
+[33mClient: [0mPASS jambon
+NICK a_nick_138
+USER a_login 0 * :Real Name
+
+[34mServer: [0m:irc.localhost 001 a_nick_137 :Welcome to the Internet Relay Network a_nick_137!a_login@localhost
+
+[34mServer: [0m:irc.localhost 002 a_nick_137 :Your host is :irc.localhost , running version ircserv-0.0.1
+
+[34mServer: [0m:irc.localhost 003 a_nick_137 :This server was created 23:06:04 Dec 13 2023
+
+[34mServer: [0m:irc.localhost 004 a_nick_137 :irc.localhost  0.0.1 i linst :klo
+
+[34mServer: [0m:irc.localhost 005 a_nick_137 CASEMAPPING=ascii CHANMODES=o,k,l,inst CHANNELLEN50 CHANTYPES=# HOSTLEN50 LINELEN512 MAXTARGETS20 NICKLEN30 PREFIX=(o)@ TOPICLEN100 USERLEN50 USERMODES=,,,i :are supported by this server
+
+[34mServer: [0mPING :V{o|B~A+|V
+
+[33mClient: [0mPASS jambon
+NICK a_nick_139
+USER a_login 0 * :Real Name
+
+[34mServer: [0m:irc.localhost 001 a_nick_138 :Welcome to the Internet Relay Network a_nick_138!a_login@localhost
+
+[34mServer: [0m:irc.localhost 002 a_nick_138 :Your host is :irc.localhost , running version ircserv-0.0.1
+
+[34mServer: [0m:irc.localhost 003 a_nick_138 :This server was created 23:06:04 Dec 13 2023
+
+[34mServer: [0m:irc.localhost 004 a_nick_138 :irc.localhost  0.0.1 i linst :klo
+
+[34mServer: [0m:irc.localhost 005 a_nick_138 CASEMAPPING=ascii CHANMODES=o,k,l,inst CHANNELLEN50 CHANTYPES=# HOSTLEN50 LINELEN512 MAXTARGETS20 NICKLEN30 PREFIX=(o)@ TOPICLEN100 USERLEN50 USERMODES=,,,i :are supported by this server
+
+[34mServer: [0mPING :V{o|B~A+|V
+
+[33mClient: [0mPASS jambon
+NICK a_nick_140
+USER a_login 0 * :Real Name
+
+[34mServer: [0m:irc.localhost 001 a_nick_139 :Welcome to the Internet Relay Network a_nick_139!a_login@localhost
+
+[34mServer: [0m:irc.localhost 002 a_nick_139 :Your host is :irc.localhost , running version ircserv-0.0.1
+
+[34mServer: [0m:irc.localhost 003 a_nick_139 :This server was created 23:06:04 Dec 13 2023
+
+[34mServer: [0m:irc.localhost 004 a_nick_139 :irc.localhost  0.0.1 i linst :klo
+
+[34mServer: [0m:irc.localhost 005 a_nick_139 CASEMAPPING=ascii CHANMODES=o,k,l,inst CHANNELLEN50 CHANTYPES=# HOSTLEN50 LINELEN512 MAXTARGETS20 NICKLEN30 PREFIX=(o)@ TOPICLEN100 USERLEN50 USERMODES=,,,i :are supported by this server
+
+[34mServer: [0mPING :V{o|B~A+|V
+
+[33mClient: [0mPASS jambon
+NICK a_nick_141
+USER a_login 0 * :Real Name
+
+[34mServer: [0m:irc.localhost 001 a_nick_140 :Welcome to the Internet Relay Network a_nick_140!a_login@localhost
+
+[34mServer: [0m:irc.localhost 002 a_nick_140 :Your host is :irc.localhost , running version ircserv-0.0.1
+
+[34mServer: [0m:irc.localhost 003 a_nick_140 :This server was created 23:06:04 Dec 13 2023
+
+[34mServer: [0m:irc.localhost 004 a_nick_140 :irc.localhost  0.0.1 i linst :klo
+
+[34mServer: [0m:irc.localhost 005 a_nick_140 CASEMAPPING=ascii CHANMODES=o,k,l,inst CHANNELLEN50 CHANTYPES=# HOSTLEN50 LINELEN512 MAXTARGETS20 NICKLEN30 PREFIX=(o)@ TOPICLEN100 USERLEN50 USERMODES=,,,i :are supported by this server
+
+[34mServer: [0mPING :V{o|B~A+|V
+
+Server started.
+[31mClose connection on socket 503[0m
+[31mClose connection on socket 500[0m
+[31mClose connection on socket 501[0m
+[31mClose connection on socket 502[0m
+[31mClose connection on socket 505[0m
+[31mClose connection on socket 499[0m
+[31mClose connection on socket 498[0m
+[31mClose connection on socket 497[0m
+[31mClose connection on socket 496[0m
+[31mClose connection on socket 495[0m
+[31mClose connection on socket 494[0m
+[31mClose connection on socket 493[0m
+[31mClose connection on socket 492[0m
+[31mClose connection on socket 491[0m
+[31mClose connection on socket 490[0m
+[31mClose connection on socket 489[0m
+[31mClose connection on socket 488[0m
+[31mClose connection on socket 487[0m
+[31mClose connection on socket 485[0m
+[31mClose connection on socket 484[0m
+[31mClose connection on socket 483[0m
+[31mClose connection on socket 486[0m
+[31mClose connection on socket 482[0m
+[31mClose connection on socket 481[0m
+[31mClose connection on socket 480[0m
+[31mClose connection on socket 479[0m
+[31mClose connection on socket 478[0m
+[31mClose connection on socket 476[0m
+[31mClose connection on socket 477[0m
+[31mClose connection on socket 475[0m
+[31mClose connection on socket 473[0m
+[31mClose connection on socket 474[0m
+[31mClose connection on socket 472[0m
+[31mClose connection on socket 471[0m
+[31mClose connection on socket 470[0m
+[31mClose connection on socket 469[0m
+[31mClose connection on socket 467[0m
+[31mClose connection on socket 468[0m
+[31mClose connection on socket 146[0m
+[31mClose connection on socket 466[0m
+[31mClose connection on socket 465[0m
+[31mClose connection on socket 464[0m
+[31mClose connection on socket 463[0m
+[31mClose connection on socket 462[0m
+[31mClose connection on socket 461[0m
+[31mClose connection on socket 460[0m
+[31mClose connection on socket 459[0m
+[31mClose connection on socket 458[0m
+[31mClose connection on socket 457[0m
+[31mClose connection on socket 456[0m
+[31mClose connection on socket 455[0m
+[31mClose connection on socket 454[0m
+[31mClose connection on socket 453[0m
+[31mClose connection on socket 452[0m
+[31mClose connection on socket 451[0m
+[31mClose connection on socket 450[0m
+[31mClose connection on socket 449[0m
+[31mClose connection on socket 448[0m
+[31mClose connection on socket 447[0m
+[31mClose connection on socket 445[0m
+[31mClose connection on socket 446[0m
+[31mClose connection on socket 444[0m
+[31mClose connection on socket 443[0m
+[31mClose connection on socket 442[0m
+[31mClose connection on socket 441[0m
+[31mClose connection on socket 439[0m
+[31mClose connection on socket 438[0m
+[31mClose connection on socket 440[0m
+[31mClose connection on socket 437[0m
+[31mClose connection on socket 436[0m
+[31mClose connection on socket 435[0m
+[31mClose connection on socket 434[0m
+[31mClose connection on socket 433[0m
+[31mClose connection on socket 431[0m
+[31mClose connection on socket 432[0m
+[31mClose connection on socket 430[0m
+[31mClose connection on socket 427[0m
+[31mClose connection on socket 428[0m
+[31mClose connection on socket 429[0m
+[31mClose connection on socket 425[0m
+[31mClose connection on socket 424[0m
+[31mClose connection on socket 426[0m
+[31mClose connection on socket 423[0m
+[31mClose connection on socket 422[0m
+[31mClose connection on socket 421[0m
+[31mClose connection on socket 420[0m
+[31mClose connection on socket 418[0m
+[31mClose connection on socket 419[0m
+[31mClose connection on socket 417[0m
+[31mClose connection on socket 416[0m
+[31mClose connection on socket 415[0m
+[31mClose connection on socket 414[0m
+[31mClose connection on socket 413[0m
+[31mClose connection on socket 412[0m
+[31mClose connection on socket 411[0m
+[31mClose connection on socket 409[0m
+[31mClose connection on socket 410[0m
+[31mClose connection on socket 408[0m
+[31mClose connection on socket 407[0m
+[31mClose connection on socket 406[0m
+[31mClose connection on socket 405[0m
+[31mClose connection on socket 404[0m
+[31mClose connection on socket 403[0m
+[31mClose connection on socket 402[0m
+[31mClose connection on socket 401[0m
+[31mClose connection on socket 400[0m
+[31mClose connection on socket 399[0m
+[31mClose connection on socket 398[0m
+[31mClose connection on socket 397[0m
+[31mClose connection on socket 396[0m
+[31mClose connection on socket 394[0m
+[31mClose connection on socket 395[0m
+[31mClose connection on socket 393[0m
+[31mClose connection on socket 392[0m
+[31mClose connection on socket 390[0m
+[31mClose connection on socket 391[0m
+[31mClose connection on socket 389[0m
+[31mClose connection on socket 388[0m
+[31mClose connection on socket 387[0m
+[31mClose connection on socket 385[0m
+[31mClose connection on socket 386[0m
+[31mClose connection on socket 384[0m
+[31mClose connection on socket 383[0m
+[31mClose connection on socket 382[0m
+[31mClose connection on socket 381[0m
+[31mClose connection on socket 380[0m
+[31mClose connection on socket 379[0m
+[31mClose connection on socket 378[0m
+[31mClose connection on socket 377[0m
+[31mClose connection on socket 376[0m
+[31mClose connection on socket 375[0m
+[31mClose connection on socket 374[0m
+[31mClose connection on socket 373[0m
+[31mClose connection on socket 372[0m
+[31mClose connection on socket 371[0m
+[31mClose connection on socket 370[0m
+[31mClose connection on socket 369[0m
+[31mClose connection on socket 367[0m
+[31mClose connection on socket 368[0m
+[31mClose connection on socket 366[0m
+[31mClose connection on socket 365[0m
+[31mClose connection on socket 364[0m
+[31mClose connection on socket 362[0m
+[31mClose connection on socket 363[0m
+[31mClose connection on socket 361[0m
+[31mClose connection on socket 360[0m
+[31mClose connection on socket 358[0m
+[31mClose connection on socket 357[0m
+[31mClose connection on socket 356[0m
+[31mClose connection on socket 355[0m
+[31mClose connection on socket 354[0m
+[31mClose connection on socket 350[0m
+[31mClose connection on socket 348[0m
+[31mClose connection on socket 349[0m
+[31mClose connection on socket 351[0m
+[31mClose connection on socket 347[0m
+[31mClose connection on socket 346[0m
+[31mClose connection on socket 345[0m
+[31mClose connection on socket 344[0m
+[31mClose connection on socket 343[0m
+[31mClose connection on socket 342[0m
+[31mClose connection on socket 340[0m
+[31mClose connection on socket 341[0m
+[31mClose connection on socket 339[0m
+[31mClose connection on socket 338[0m
+[31mClose connection on socket 337[0m
+[31mClose connection on socket 336[0m
+[31mClose connection on socket 331[0m
+[31mClose connection on socket 335[0m
+[31mClose connection on socket 330[0m
+[31mClose connection on socket 329[0m
+[31mClose connection on socket 328[0m
+[31mClose connection on socket 327[0m
+[31mClose connection on socket 326[0m
+[31mClose connection on socket 323[0m
+[31mClose connection on socket 325[0m
+[31mClose connection on socket 322[0m
+[31mClose connection on socket 324[0m
+[31mClose connection on socket 321[0m
+[31mClose connection on socket 319[0m
+[31mClose connection on socket 320[0m
+[31mClose connection on socket 318[0m
+[31mClose connection on socket 317[0m
+[31mClose connection on socket 316[0m
+[31mClose connection on socket 315[0m
+[31mClose connection on socket 314[0m
+[31mClose connection on socket 313[0m
+[31mClose connection on socket 311[0m
+[31mClose connection on socket 312[0m
+[31mClose connection on socket 310[0m
+[31mClose connection on socket 308[0m
+[31mClose connection on socket 309[0m
+[31mClose connection on socket 307[0m
+[31mClose connection on socket 306[0m
+[31mClose connection on socket 304[0m
+[31mClose connection on socket 305[0m
+[31mClose connection on socket 302[0m
+[31mClose connection on socket 303[0m
+[31mClose connection on socket 301[0m
+[31mClose connection on socket 299[0m
+[31mClose connection on socket 300[0m
+[31mClose connection on socket 298[0m
+[31mClose connection on socket 296[0m
+[31mClose connection on socket 297[0m
+[31mClose connection on socket 295[0m
+[31mClose connection on socket 294[0m
+[31mClose connection on socket 293[0m
+[31mClose connection on socket 292[0m
+[31mClose connection on socket 290[0m
+[31mClose connection on socket 291[0m
+[31mClose connection on socket 288[0m
+[31mClose connection on socket 289[0m
+[31mClose connection on socket 287[0m
+[31mClose connection on socket 286[0m
+[31mClose connection on socket 285[0m
+[31mClose connection on socket 284[0m
+[31mClose connection on socket 283[0m
+[31mClose connection on socket 282[0m
+[31mClose connection on socket 281[0m
+[31mClose connection on socket 280[0m
+[31mClose connection on socket 279[0m
+[31mClose connection on socket 278[0m
+[31mClose connection on socket 277[0m
+[31mClose connection on socket 276[0m
+[31mClose connection on socket 275[0m
+[31mClose connection on socket 274[0m
+[31mClose connection on socket 272[0m
+[31mClose connection on socket 273[0m
+[31mClose connection on socket 271[0m
+[31mClose connection on socket 270[0m
+[31mClose connection on socket 269[0m
+[31mClose connection on socket 267[0m
+[31mClose connection on socket 268[0m
+[31mClose connection on socket 266[0m
+[31mClose connection on socket 265[0m
+[31mClose connection on socket 264[0m
+[31mClose connection on socket 263[0m
+[31mClose connection on socket 262[0m
+[31mClose connection on socket 261[0m
+[31mClose connection on socket 260[0m
+[31mClose connection on socket 259[0m
+[31mClose connection on socket 257[0m
+[31mClose connection on socket 258[0m
+[31mClose connection on socket 255[0m
+[31mClose connection on socket 254[0m
+[31mClose connection on socket 256[0m
+[31mClose connection on socket 253[0m
+[31mClose connection on socket 252[0m
+[31mClose connection on socket 251[0m
+[31mClose connection on socket 250[0m
+[31mClose connection on socket 249[0m
+[31mClose connection on socket 248[0m
+[31mClose connection on socket 247[0m
+[31mClose connection on socket 245[0m
+[31mClose connection on socket 246[0m
+[31mClose connection on socket 244[0m
+[31mClose connection on socket 243[0m
+[31mClose connection on socket 242[0m
+[31mClose connection on socket 241[0m
+[31mClose connection on socket 240[0m
+[31mClose connection on socket 238[0m
+[31mClose connection on socket 239[0m
+[31mClose connection on socket 237[0m
+[31mClose connection on socket 236[0m
+[31mClose connection on socket 235[0m
+[31mClose connection on socket 234[0m
+[31mClose connection on socket 233[0m
+[31mClose connection on socket 232[0m
+[31mClose connection on socket 231[0m
+[31mClose connection on socket 230[0m
+[31mClose connection on socket 228[0m
+[31mClose connection on socket 229[0m
+[31mClose connection on socket 227[0m
+[31mClose connection on socket 226[0m
+[31mClose connection on socket 225[0m
+[31mClose connection on socket 224[0m
+[31mClose connection on socket 223[0m
+[31mClose connection on socket 221[0m
+[31mClose connection on socket 222[0m
+[31mClose connection on socket 220[0m
+[31mClose connection on socket 219[0m
+[31mClose connection on socket 218[0m
+[31mClose connection on socket 217[0m
+[31mClose connection on socket 215[0m
+[31mClose connection on socket 216[0m
+[31mClose connection on socket 214[0m
+[31mClose connection on socket 213[0m
+[31mClose connection on socket 212[0m
+[31mClose connection on socket 211[0m
+[31mClose connection on socket 210[0m
+[31mClose connection on socket 209[0m
+[31mClose connection on socket 208[0m
+[31mClose connection on socket 206[0m
+[31mClose connection on socket 207[0m
+[31mClose connection on socket 205[0m
+[31mClose connection on socket 204[0m
+[31mClose connection on socket 203[0m
+[31mClose connection on socket 202[0m
+[31mClose connection on socket 201[0m
+[31mClose connection on socket 199[0m
+[31mClose connection on socket 200[0m
+[31mClose connection on socket 198[0m
+[31mClose connection on socket 197[0m
+[31mClose connection on socket 195[0m
+[31mClose connection on socket 196[0m
+[31mClose connection on socket 194[0m
+[31mClose connection on socket 193[0m
+[31mClose connection on socket 192[0m
+[31mClose connection on socket 191[0m
+[31mClose connection on socket 190[0m
+[31mClose connection on socket 189[0m
+[31mClose connection on socket 188[0m
+[31mClose connection on socket 187[0m
+[31mClose connection on socket 186[0m
+[31mClose connection on socket 185[0m
+[31mClose connection on socket 184[0m
+[31mClose connection on socket 182[0m
+[31mClose connection on socket 183[0m
+[31mClose connection on socket 181[0m
+[31mClose connection on socket 180[0m
+[31mClose connection on socket 179[0m
+[31mClose connection on socket 178[0m
+[31mClose connection on socket 177[0m
+[31mClose connection on socket 176[0m
+[31mClose connection on socket 175[0m
+[31mClose connection on socket 174[0m
+[31mClose connection on socket 172[0m
+[31mClose connection on socket 173[0m
+[31mClose connection on socket 171[0m
+[31mClose connection on socket 170[0m
+[31mClose connection on socket 168[0m
+[31mClose connection on socket 169[0m
+[31mClose connection on socket 167[0m
+[31mClose connection on socket 166[0m
+[31mClose connection on socket 165[0m
+[31mClose connection on socket 164[0m
+[31mClose connection on socket 163[0m
+[31mClose connection on socket 162[0m
+[31mClose connection on socket 161[0m
+[31mClose connection on socket 160[0m
+[31mClose connection on socket 159[0m
+[31mClose connection on socket 158[0m
+[31mClose connection on socket 157[0m
+[31mClose connection on socket 156[0m
+[31mClose connection on socket 155[0m
+[31mClose connection on socket 154[0m
+[31mClose connection on socket 152[0m
+[31mClose connection on socket 153[0m
+[31mClose connection on socket 150[0m
+[31mClose connection on socket 149[0m
+[31mClose connection on socket 151[0m
+[31mClose connection on socket 148[0m
+[31mClose connection on socket 147[0m
+[31mClose connection on socket 145[0m
+[31mClose connection on socket 144[0m
+[31mClose connection on socket 143[0m
+[31mClose connection on socket 142[0m
+[31mClose connection on socket 141[0m
+[31mClose connection on socket 140[0m
+[31mClose connection on socket 139[0m
+[31mClose connection on socket 137[0m
+[31mClose connection on socket 138[0m
+[31mClose connection on socket 136[0m
+[31mClose connection on socket 135[0m
+[31mClose connection on socket 134[0m
+[31mClose connection on socket 133[0m
+[31mClose connection on socket 132[0m
+[31mClose connection on socket 130[0m
+[31mClose connection on socket 131[0m
+[31mClose connection on socket 129[0m
+[31mClose connection on socket 128[0m
+[31mClose connection on socket 127[0m
+[31mClose connection on socket 126[0m
+[31mClose connection on socket 125[0m
+[31mClose connection on socket 124[0m
+[31mClose connection on socket 123[0m
+[31mClose connection on socket 122[0m
+[31mClose connection on socket 121[0m
+[31mClose connection on socket 120[0m
+[31mClose connection on socket 119[0m
+[31mClose connection on socket 118[0m
+[31mClose connection on socket 117[0m
+[31mClose connection on socket 116[0m
+[31mClose connection on socket 115[0m
+[31mClose connection on socket 114[0m
+[31mClose connection on socket 113[0m
+[31mClose connection on socket 112[0m
+[31mClose connection on socket 111[0m
+[31mClose connection on socket 110[0m
+[31mClose connection on socket 109[0m
+[31mClose connection on socket 108[0m
+[31mClose connection on socket 107[0m
+[31mClose connection on socket 106[0m
+[31mClose connection on socket 105[0m
+[31mClose connection on socket 104[0m
+[31mClose connection on socket 103[0m
+[31mClose connection on socket 102[0m
+[31mClose connection on socket 101[0m
+[31mClose connection on socket 100[0m
+[31mClose connection on socket 99[0m
+[31mClose connection on socket 98[0m
+[31mClose connection on socket 97[0m
+[31mClose connection on socket 96[0m
+[31mClose connection on socket 95[0m
+[31mClose connection on socket 94[0m
+[31mClose connection on socket 93[0m
+[31mClose connection on socket 92[0m
+[31mClose connection on socket 91[0m
+[31mClose connection on socket 90[0m
+[31mClose connection on socket 88[0m
+[31mClose connection on socket 89[0m
+[31mClose connection on socket 87[0m
+[31mClose connection on socket 86[0m
+[31mClose connection on socket 85[0m
+[31mClose connection on socket 84[0m
+[31mClose connection on socket 83[0m
+[31mClose connection on socket 82[0m
+[31mClose connection on socket 80[0m
+[31mClose connection on socket 81[0m
+[31mClose connection on socket 79[0m
+[31mClose connection on socket 77[0m
+[31mClose connection on socket 78[0m
+[31mClose connection on socket 76[0m
+[31mClose connection on socket 75[0m
+[31mClose connection on socket 74[0m
+[31mClose connection on socket 73[0m
+[31mClose connection on socket 72[0m
+[31mClose connection on socket 71[0m
+[31mClose connection on socket 70[0m
+[31mClose connection on socket 68[0m
+[31mClose connection on socket 67[0m
+[31mClose connection on socket 69[0m
+[31mClose connection on socket 66[0m
+[31mClose connection on socket 65[0m
+[31mClose connection on socket 64[0m
+[31mClose connection on socket 63[0m
+[31mClose connection on socket 62[0m
+[31mClose connection on socket 61[0m
+[31mClose connection on socket 60[0m
+[31mClose connection on socket 59[0m
+[31mClose connection on socket 58[0m
+[31mClose connection on socket 57[0m
+[31mClose connection on socket 55[0m
+[31mClose connection on socket 56[0m
+[31mClose connection on socket 54[0m
+[31mClose connection on socket 53[0m
+[31mClose connection on socket 52[0m
+[31mClose connection on socket 51[0m
+[31mClose connection on socket 48[0m
+[31mClose connection on socket 50[0m
+[31mClose connection on socket 49[0m
+[31mClose connection on socket 47[0m
+[31mClose connection on socket 45[0m
+[31mClose connection on socket 44[0m
+[31mClose connection on socket 46[0m
+[31mClose connection on socket 43[0m
+[31mClose connection on socket 41[0m
+[31mClose connection on socket 42[0m
+[31mClose connection on socket 40[0m
+[31mClose connection on socket 39[0m
+[31mClose connection on socket 38[0m
+[31mClose connection on socket 37[0m
+[31mClose connection on socket 36[0m
+[31mClose connection on socket 35[0m
+[31mClose connection on socket 34[0m
+[31mClose connection on socket 33[0m
+[31mClose connection on socket 32[0m
+[31mClose connection on socket 31[0m
+[31mClose connection on socket 30[0m
+[31mClose connection on socket 29[0m
+[31mClose connection on socket 28[0m
+[31mClose connection on socket 27[0m
+[31mClose connection on socket 26[0m
+[31mClose connection on socket 25[0m
+[31mClose connection on socket 23[0m
+[31mClose connection on socket 24[0m
+[31mClose connection on socket 22[0m
+[31mClose connection on socket 21[0m
+[31mClose connection on socket 20[0m
+[31mClose connection on socket 19[0m
+[31mClose connection on socket 18[0m
+[31mClose connection on socket 17[0m
+[31mClose connection on socket 16[0m
+[31mClose connection on socket 15[0m
+[31mClose connection on socket 14[0m
+[31mClose connection on socket 13[0m
+[31mClose connection on socket 11[0m
+[31mClose connection on socket 12[0m
+[31mClose connection on socket 10[0m
+[31mClose connection on socket 9[0m
+[31mClose connection on socket 359[0m
+[31mClose connection on socket 334[0m
+[31mClose connection on socket 8[0m
+[31mClose connection on socket 333[0m
+[31mClose connection on socket 332[0m
+[31mClose connection on socket 7[0m
+[31mClose connection on socket 5[0m
+[31mClose connection on socket 6[0m
+[31mClose connection on socket 353[0m
+[31mClose connection on socket 352[0m
+
+Quitting due to signal reception: Interrupt: 2 (2)

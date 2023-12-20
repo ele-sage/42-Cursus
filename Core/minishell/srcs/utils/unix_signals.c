@@ -6,7 +6,7 @@
 /*   By: ele-sage <ele-sage@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/07/21 11:34:31 by ele-sage          #+#    #+#             */
-/*   Updated: 2023/09/08 19:54:11 by ele-sage         ###   ########.fr       */
+/*   Updated: 2023/11/25 15:23:32 by ele-sage         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -58,7 +58,7 @@ void	sigint_handler(int sig)
 	}
 	ft_putstr_fd("\n", 2);
 	rl_on_new_line();
-	rl_replace_line("", 0);
+	//rl_replace_line("", 0);
 	if (!minishell()->waiting_child)
 	{
 		rl_redisplay();

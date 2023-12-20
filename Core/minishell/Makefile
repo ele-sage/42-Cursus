@@ -6,7 +6,7 @@
 #    By: ele-sage <ele-sage@student.42.fr>          +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2023/01/12 12:33:49 by ele-sage          #+#    #+#              #
-#    Updated: 2023/11/09 19:14:01 by ele-sage         ###   ########.fr        #
+#    Updated: 2023/11/25 15:19:05 by ele-sage         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -45,18 +45,18 @@ INCS    	:= -Iincludes -I$(READLINE_DIR)/include -Ilibft/include -I$(INCDIR)
 # Rules
 # Compilation
 
-ifeq ($(shell brew list | grep readline),)
-all:
-	@echo "Installing readline..."
-	@brew install readline
-	@brew link --force readline
-	@echo "Readline installed."
-	@make $(NAME)
-else
-all: $(NAME)
-	@echo "Readline already installed."
+# ifeq ($(shell brew list | grep readline),)
+# all:
+# 	@echo "Installing readline..."
+# 	@brew install readline
+# 	@brew link --force readline
+# 	@echo "Readline installed."
+# 	@make $(NAME)
+# else
+# all: $(NAME)
+# 	@echo "Readline already installed."
 
-endif
+# endif
 
 $(NAME): $(OBJFILES)
 	@make -C libft
