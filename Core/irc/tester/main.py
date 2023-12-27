@@ -59,15 +59,15 @@ def nasty_chat(ncs):
 # @server(PORT, PASS)
 def main():
 	# modes.get_new_channel_name()
-	modes.operator()
+	# modes.operator()
 	# modes.key()
 	# modes.limit()
 	# modes.invite()
 	# modes.no_ext_msg()
 	# modes.secret()
 	# modes.change_topic()
-	# for _ in range(1000):
-		# noisy_chat()
+	for _ in range(1000):
+		noisy_chat()
 
 if __name__ == "__main__":
 	main()

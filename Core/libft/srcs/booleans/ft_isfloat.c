@@ -1,37 +1,35 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        :::      ::::::::   */
-/*   ft_substr.c                                        :+:      :+:    :+:   */
+/*   ft_isfloat.c                                       :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
 /*   By: egervais <egervais@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2023/02/07 10:13:55 by ele-sage          #+#    #+#             */
-/*   Updated: 2023/08/28 15:05:07 by egervais         ###   ########.fr       */
+/*   Created: 2023/10/03 23:38:26 by ele-sage          #+#    #+#             */
+/*   Updated: 2023/10/17 18:55:54 by egervais         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include <libft.h>
 
-char	*ft_substr(const char *s, unsigned int start, size_t len)
+int	ft_isfloat(char *str)
 {
-	size_t	a;
-	char	*newstr;
-	size_t	s_len;
+	int	i;
+	int	dot;
 
-	if (!s)
-		return (NULL);
-	a = 0;
-	s_len = ft_strlen(s);
-	if (len > s_len)
-		len = s_len;
-	newstr = malloc(sizeof(char) * (len + 1));
-	if (!newstr)
-		return (NULL);
-	while (s[start + a] && a < len && start < s_len && (start + a) < s_len)
+	i = 0;
+	dot = 0;
+	if (str[i] == '-')
+		i++;
+	while (str[i])
 	{
-		newstr[a] = s[start + a];
-		a++;
+		if (str[i] == '.')
+			dot++;
+		else if (!ft_isdigit(str[i]))
+			return (0);
+		i++;
 	}
-	newstr[a] = '\0';
-	return (newstr);
+	if (dot != 1)
+		return (0);
+	return (1);
 }

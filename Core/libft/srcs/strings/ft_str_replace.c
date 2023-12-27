@@ -1,45 +1,33 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        :::      ::::::::   */
-/*   ft_int_strchr.c                                    :+:      :+:    :+:   */
+/*   ft_str_replace.c                                   :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
 /*   By: ele-sage <ele-sage@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2023/02/07 10:12:47 by ele-sage          #+#    #+#             */
-/*   Updated: 2023/10/18 19:13:28 by ele-sage         ###   ########.fr       */
+/*   Created: 2023/07/21 16:44:19 by ele-sage          #+#    #+#             */
+/*   Updated: 2023/09/01 18:34:33 by ele-sage         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include <libft.h>
 
-int	ft_int_strchr(const char *s, int c)
+char	*ft_str_replace(char *str, char *old, char *new, size_t len)
 {
-	int	a;
+	char	*tmp;
+	char	*tmp2;
+	char	*tmp3;
 
-	a = 0;
-	while (s[a])
-	{
-		if (s[a] == (char)c)
-			return (a);
-		a++;
-	}
-	if (s[a] == (char)c)
-		return (a);
-	return (-1);
-}
-
-int	ft_int_strchr_set(const char *s, const char *set)
-{
-	int	a;
-
-	a = 0;
-	while (s[a])
-	{
-		if (ft_strchr(set, s[a]))
-			return (a);
-		a++;
-	}
-	if (ft_strchr(set, s[a]))
-		return (a);
-	return (-1);
+	tmp = ft_strnstr(str, old, len);
+	if (!tmp)
+		return (str);
+	tmp2 = ft_substr(str, 0, tmp - str);
+	tmp3 = ft_strjoin(tmp2, new);
+	free(tmp2);
+	tmp2 = ft_substr(str, tmp - str + ft_strlen(old), ft_strlen(str));
+	free(str);
+	str = ft_strjoin(tmp3, tmp2);
+	free(tmp2);
+	free(tmp3);
+	return (str);
 }

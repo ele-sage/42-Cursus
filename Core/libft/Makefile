@@ -6,7 +6,7 @@
 #    By: ele-sage <ele-sage@student.42.fr>          +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2023/02/07 10:24:39 by ele-sage          #+#    #+#              #
-#    Updated: 2023/02/27 19:13:21 by ele-sage         ###   ########.fr        #
+#    Updated: 2023/10/04 01:27:30 by ele-sage         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -32,7 +32,8 @@ LST_BOOLEANS		:=	ft_isalnum.c			ft_isalpha.c		\
 					ft_isdigit.c				ft_islower.c		\
 					ft_isnotcharset.c			ft_isprime.c		\
 					ft_isprint.c				ft_isspace.c		\
-					ft_isupper.c
+					ft_isupper.c				ft_isint.c			\
+					ft_isfloat.c
 
 LST_CONVERSIONS	:=	ft_atoi.c					ft_atol.c			\
 					ft_big_atoi.c				ft_big_atol.c		\
@@ -88,7 +89,7 @@ LST_STRINGS			:=	ft_int_strchr.c			ft_split.c			\
 					ft_strnstr.c				ft_strrchr.c		\
 					ft_strstr.c					ft_strtrim.c		\
 					ft_substr.c					ft_unsplit.c		\
-					ft_int_strrchr.c
+					ft_int_strrchr.c			ft_str_replace.c	\
 
 # Directories
 P_INCS			:=	include/
