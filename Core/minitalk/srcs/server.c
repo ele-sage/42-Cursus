@@ -6,7 +6,7 @@
 /*   By: ele-sage <ele-sage@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/03/23 18:20:36 by ele-sage          #+#    #+#             */
-/*   Updated: 2023/07/21 15:25:03 by ele-sage         ###   ########.fr       */
+/*   Updated: 2023/06/13 14:48:22 by ele-sage         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -40,7 +40,6 @@ static void	set_string_lenght(t_server *server, int sig)
 	if (kill(server->client_pid, SIGUSR2) == -1)
 		signal_error_server(server);
 	server->bit++;
-	ft_printf("%d", server->strlen);
 }
 
 static void	action_receive(int sig, siginfo_t *info, void *context)

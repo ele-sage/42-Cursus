@@ -7,9 +7,6 @@ This project involves programming a function called `get_next_line` that returns
 The project is included in my libft repository.
 [get_next_line](https://github.com/ele-sage/42/blob/master/Core/libft/srcs/projects/get_next_line.c)
 
-## Introduction
-This project not only provides an opportunity to add a convenient function to your collection but also introduces a highly interesting concept in C programming: static variables.
-
 ## Mandatory Part
 ### Function Name
 `get_next_line`

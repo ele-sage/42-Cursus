@@ -7,9 +7,6 @@ The goal of this project is to recode the `printf()` function, a popular and ver
 The project is included in my libft repository.
 [ft_printf](https://github.com/ele-sage/42/blob/master/Core/libft/srcs/projects/ft_printf.c)
 
-## Introduction
-In this project, you will delve into the implementation of `printf()`, gaining insights into variadic functions in C. The key to success lies in creating well-structured and extensible code. The assignment is of moderate difficulty and offers a chance to enhance your programming skills.
-
 ### External Functions
 `malloc`, `free`, `write`, `va_start`, `va_arg`, `va_copy`, `va_end`
 
