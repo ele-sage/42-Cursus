@@ -16,6 +16,4 @@ make
 
 ## Demo
 
-<p align="center">
-	<img src="https://github.com/ele-sage/42-Cursus/edit/master/Core/FDF/FdF_demo.mov" />
- </p>
+![FdF demo](FdF_demo.gif)
