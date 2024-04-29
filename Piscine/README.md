@@ -3,5 +3,5 @@ A 42 (school) project in which, given a map filled with obstacles you have to fi
 
 ## How to run
 ```shell
-- ./bsq [map.txt]
+./bsq <map.txt>
 ```
