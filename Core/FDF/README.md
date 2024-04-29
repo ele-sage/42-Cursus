@@ -1,4 +1,4 @@
-<!-- FdF project description + video demo path: FdF_demo.mov -->
+<!-- FdF project description -->
 # FdF
 
 This project is about creating a simplified 3D graphic representation of a relief landscape. The wireframe model is displayed in a window and the user can rotate the model in 3D space.
@@ -15,5 +15,5 @@ make
 ```
 
 ## Demo
-
-[![FdF demo](FdF_demo.mov)](FdF_demo.mov)
+<!-- video file: FdF_demo.mov same dir -->
+![FdF demo](FdF_Demo.gif)
