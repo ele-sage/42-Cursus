@@ -15,5 +15,3 @@ make
 ```
 
 ## Demo
-
-[![FdF demo](https://img.youtube.com/vi/1Q1ZCv1Q2Z0/0.jpg)](https://www.youtube.com/watch?v=1Q1ZCv1Q2Z0)
