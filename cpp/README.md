@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">
-	42cursus' CPP-Modules
+	42cursus CPP-Modules
 </h1>
 
 |  Nº | Project | Topics |
