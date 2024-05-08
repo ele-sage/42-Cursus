@@ -11,4 +11,4 @@ make
 ```
 
 ## Demo
-![minitalk demo](minitalk demo.png)
+![minitalk demo](minitalk_demo.png)
