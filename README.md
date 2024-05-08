@@ -14,7 +14,7 @@ The first three projects are primordial, as the use of external libraries is for
 | 05 | [Push_swap](https://github.com/ele-sage/42-Cursus/tree/master/Core/Push_swap) | Sorting Algorithms | Sorting a set of integers using two stacks |
 | 06 | [Minishell](https://github.com/emgervais/minishell) | Processes, Pipes, File Descriptors | Replicating a shell with some built-in commands |
 | 07 | [Philosophers](https://github.com/ele-sage/42-Cursus/tree/master/Core/Philosophers) | Threading, Mutexes | Dining philosophers problem |
-| 08 | [MiniRT](https://github.com/ele-sage/42-Cursus/tree/master/Core/MiniRT) | Ray Tracing, Linear Algebra | Simple ray tracer for 3D scenes |
+| 08 | [MiniRT](https://github.com/ele-sage/MiniRT) | Ray Tracing, Linear Algebra | Simple ray tracer for 3D scenes |
 | 09 | [Ft_irc](https://github.com/emgervais/ft_irc) | Networking, Sockets | Internet Relay Chat server (Done in C++) |
 | -  | [Final Project (ft_transcendence)](https://github.com/emgervais/transcendance) | Web Development, Databases, Networking, Containers | Multiplayer online game with a web interface (Hosted in a separate repository) |
 
